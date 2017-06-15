@@ -3,10 +3,8 @@ package com.util;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Util {
 	public static String convertListToString(List<Object> list, String splitter) {
