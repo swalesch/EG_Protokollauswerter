@@ -1,0 +1,2918 @@
+01.04.2017 11:07 Nojheim Von Durkan Einlagerung ins Gildenlager von [Boten]
+1 Smaragd
+01.04.2017 11:06 Nojheim Von Durkan Einlagerung
+1 Pelze
+13 Magiestaub
+13 Todesstaub
+16 Schattenstaub
+40 Mondstaub
+12 Sternenstaub
+1 Weichpelze
+2 Seide
+01.04.2017 00:00 Gebäudeverfall Gesamt 231 Strukturpunkte
+31.03.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+31.03.2017 23:59 Baumeister 113 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Marmorziegel entnommen 
+2 Eibenbretter entnommen 
+113 Gold entnommen
+31.03.2017 22:29 Elazia Kapp Entnahme
+13 Schattenstaub
+31.03.2017 19:48 Eloysius Rotzineck Entnahme
+100 Magiesplitter
+31.03.2017 19:48 Eloysius Rotzineck Entnahme
+200 Todesstaub
+31.03.2017 19:47 Eloysius Rotzineck Entnahme
+1000 Todesessenz +1
+31.03.2017 19:46 Eloysius Rotzineck Einlagerung
+1 Wasser-Runenstab (100) +1
+1 Erde-Runenstab (100) +1
+1 Luft-Runenstab (100) +1
+31.03.2017 16:32 Alessia Einlagerung
+14 Todesstaub
+13 Schattenstaub
+15 Mondstaub
+3 Pelze
+3 Leinen
+2 Baumwolle
+3 Seide
+6 Ätherfäden
+4 Weichpelze
+4 Hartpelz
+9 Drachenhaut
+5 Magiestaub
+18 Sternenstaub
+1 Wolle
+2 Riesenhaut
+3 Buchenholz
+31.03.2017 14:58 Julia Entnahme
+800 Todesessenz +1
+31.03.2017 12:18 Elazia Kapp Entnahme
+38 Magiesplitter
+11 Phasenkraut
+31.03.2017 12:18 Elazia Kapp Entnahme
+44 Schattenstaub
+31.03.2017 12:17 Elazia Kapp Einlagerung
+2 Pelze
+9 Drachenhaut
+3 Leinen
+3 Seide
+3 Weichpelze
+2 Hartpelz
+7 Magiestaub
+4 Ätherfäden
+2 Riesenhaut
+31.03.2017 11:54 Ragbald Entnahme
+27 Harz
+8 Granitharz
+31.03.2017 09:23 Julia Einlagerung
+1 Luft-Runenstab (65) +1
+2 Leinen
+1 Weichpelze
+7 Magiestaub
+1 Wolle
+2 Pelze
+9 Todesstaub
+1 Baumwolle
+2 Hartpelz
+12 Schattenstaub
+4 Seide
+2 Riesenhaut
+14 Mondstaub
+5 Ätherfäden
+10 Drachenhaut
+14 Sternenstaub
+31.03.2017 09:01 Bomdivash Gemmenauge Einlagerung
+10 Todesstaub
+13 Mondstaub
+9 Drachenhaut
+3 Seide
+6 Ätherfäden
+3 Hartpelz
+9 Magiestaub
+11 Schattenstaub
+13 Sternenstaub
+2 Wolle
+2 Leinen
+3 Weichpelze
+5 Riesenhaut
+3 Baumwolle
+3 Pelze
+31.03.2017 09:00 Hardsequencer Einlagerung
+10 Todesstaub
+13 Schattenstaub
+11 Mondstaub
+10 Drachenhaut
+3 Leinen
+2 Baumwolle
+3 Seide
+4 Ätherfäden
+3 Weichpelze
+5 Magiestaub
+19 Sternenstaub
+2 Pelze
+2 Wolle
+4 Hartpelz
+2 Riesenhaut
+31.03.2017 06:44 Schahanschah Entnahme
+1000 Schattenessenz +1
+01.04.2017 14:49 Gwudnyc Entnahme
+1 Sand-Bodenplatte
+3 Birken-Stützbalken
+01.04.2017 14:48 Gwudnyc Einlagerung
+6418 Magieessenz +1
+8647 Todesessenz +1
+01.04.2017 14:48 Gwudnyc Entnahme
+6418 Magieessenz +1
+8647 Todesessenz +1
+01.04.2017 14:48 Gwudnyc Einlagerung ins Gildenlager von [Boten]
+1 Diamant-Bogen (Plan)
+01.04.2017 14:48 Gwudnyc Einlagerung
+433 Bolzen +1
+36 Kriegsbolzen
+01.04.2017 14:48 Gwudnyc Entnahme
+433 Bolzen +1
+36 Kriegsbolzen
+01.04.2017 14:48 Gwudnyc Einlagerung
+5491 Pfeile +1
+1860 Kriegspfeile +1
+01.04.2017 14:47 Gwudnyc Entnahme
+5491 Pfeile +1
+1860 Kriegspfeile +1
+01.04.2017 14:47 Gwudnyc Einlagerung
+3 Magiestaub
+6 Todesstaub
+5 Schattenstaub
+01.04.2017 13:44 Hardsequencer Einlagerung
+13 Sandstein
+4 Granit
+14 Marmor
+01.04.2017 13:42 Julia Einlagerung
+12 Buchenholz
+15 Birkenholz
+11 Eschenholz
+5 Eibenholz
+01.04.2017 13:40 Elazia Kapp Entnahme
+10 Phasenkraut
+01.04.2017 13:40 Elazia Kapp Entnahme
+31 Schattenstaub
+01.04.2017 13:40 Elazia Kapp Einlagerung
+1280 Schattenessenz +1
+345 Todesessenz +1
+01.04.2017 11:44 Bomdivash Gemmenauge Einlagerung
+75 Schieferziegel
+6 Sandstein
+01.04.2017 11:26 Schahanschah Entnahme
+3000 Todesessenz +1
+01.04.2017 11:26 Schahanschah Einlagerung
+14 Magiestaub
+15 Schattenstaub
+14 Todesstaub
+39 Mondstaub
+01.04.2017 11:08 Nojheim Von Durkan Einlagerung
+700 Kupferbarren
+168 Leinentuch
+347 Weichleder
+99 Eisenerz
+52 Birkenbretter
+824 Wolle
+293 Wolltuch
+353 Leder
+01.04.2017 11:07 Nojheim Von Durkan Entnahme
+168 Leinentuch
+347 Weichleder
+99 Eisenerz
+52 Birkenbretter
+824 Wolle
+293 Wolltuch
+353 Leder
+01.04.2017 11:07 Nojheim Von Durkan Entnahme
+700 Kupferbarren
+02.04.2017 11:00 Julia Einlagerung
+1 Luft-Eschenstab (11)
+1 Seiden-Tunika (20)
+1 Leinen
+11 Magiestaub
+16 Todesstaub
+1 Baumwolle
+16 Schattenstaub
+1 Seide
+1 Riesenhaut
+36 Mondstaub
+1 Ätherfäden
+1 Drachenhaut
+18 Sternenstaub
+498 Todesessenz +1
+02.04.2017 11:00 Julia Entnahme
+1280 Schattenessenz +1
+02.04.2017 10:26 Hardsequencer Einlagerung
+1 Weichpelze
+13 Magiestaub
+20 Todesstaub
+1 Hartpelz
+10 Schattenstaub
+31 Mondstaub
+1 Drachenhaut
+23 Sternenstaub
+1 Wolle
+1 Seide
+1 Ätherfäden
+02.04.2017 09:17 Bomdivash Gemmenauge Einlagerung
+19 Sternenstaub
+12 Magiestaub
+22 Todesstaub
+33 Mondstaub
+11 Schattenstaub
+1 Weichpelze
+1 Riesenhaut
+1 Hartpelz
+1 Topas
+1 Leinen
+1 Wolle
+1 Baumwolle
+1 Seide
+1 Ätherfäden
+02.04.2017 08:54 Ragbald Einlagerung
+50 Eichenbretter
+15 Buchenbretter
+60 Birkenbretter
+02.04.2017 00:00 Gebäudeverfall Gesamt 216 Strukturpunkte
+01.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+01.04.2017 23:59 Baumeister 58 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Marmorziegel entnommen 
+2 Eibenbretter entnommen 
+58 Gold entnommen
+01.04.2017 22:48 Eloysius Rotzineck Einlagerung
+16 Magiestaub
+39 Mondstaub
+20 Schattenstaub
+12 Todesstaub
+7 Sternenstaub
+1 Weichpelze
+1 Drachenhaut
+2 Seide
+1 Schlangendolch (21)
+690 Todesessenz +1
+01.04.2017 18:11 Nojheim Von Durkan Einlagerung ins Gildenlager von [Boten]
+1 Kristall
+4 Achat
+1 Quarz
+1 Smaragd
+01.04.2017 18:10 Nojheim Von Durkan Entnahme aus dem Gildenlager von [Boten]
+1 Kristall
+4 Achat
+1 Quarz
+1 Smaragd
+01.04.2017 14:50 Gwudnyc Einlagerung
+342 Eisenerz
+1310 Pelze
+552 Schieferziegel
+937 Baumwolle
+271 Baumwolltuch
+362 Hartleder
+01.04.2017 14:50 Gwudnyc Entnahme
+552 Schieferziegel
+937 Baumwolle
+271 Baumwolltuch
+362 Hartleder
+01.04.2017 14:50 Gwudnyc Entnahme
+342 Eisenerz
+1310 Pelze
+01.04.2017 14:50 Gwudnyc Einlagerung ins Gildenlager von [Boten]
+1 Jade-Hose (Plan)
+01.04.2017 14:49 Gwudnyc Entnahme aus dem Gildenlager von [Boten]
+1 Jade-Hose (Plan)
+01.04.2017 14:49 Gwudnyc Einlagerung ins Gildenlager von [Boten]
+1 Kristall-Plattenpanzer (Plan)
+1 Achat-Lederstiefel (Plan)
+1 Topas-Lederharnisch (Plan)
+1 Topas-Lederstulpen (Plan)
+1 Jade-Wasserstab (Plan)
+01.04.2017 14:49 Gwudnyc Entnahme aus dem Gildenlager von [Boten]
+1 Jade-Wasserstab (Plan)
+01.04.2017 14:49 Gwudnyc Entnahme
+1 Kristall-Plattenpanzer (Plan)
+1 Achat-Lederstiefel (Plan)
+1 Topas-Lederharnisch (Plan)
+1 Topas-Lederstulpen (Plan)
+01.04.2017 14:49 Gwudnyc Einlagerung
+1 Sand-Bodenplatte
+3 Birken-Stützbalken
+03.04.2017 15:05 Dori Drachenzahn Einlagerung
+1 Leinen
+18 Magiestaub
+14 Wolle
+14 Pelze
+122 Todesstaub
+12 Baumwolle
+37 Hartpelz
+11 Seide
+19 Riesenhaut
+322 Mondstaub
+16 Sternenstaub
+03.04.2017 13:37 Schahanschah Entnahme
+20 Improvisierte Leinenbinde +1
+03.04.2017 13:02 Elazia Kapp Entnahme
+9 Schattenstaub
+03.04.2017 13:01 Elazia Kapp Einlagerung
+1000 Schattenessenz +1
+03.04.2017 12:56 Julia Einlagerung
+13 Birkenholz
+13 Eichenholz
+19 Eibenholz
+03.04.2017 12:37 Hardsequencer Einlagerung
+1 Berserkeraxt [2H] (3)
+1 Mithril-Kettenstiefel (1)
+8 Schiefer
+8 Granit
+26 Marmor
+03.04.2017 12:20 Bomdivash Gemmenauge Einlagerung
+11 Kalkstein
+7 Sandstein
+5 Granit
+03.04.2017 10:06 Schahanschah Einlagerung
+9 Magiestaub
+10 Todesstaub
+27 Mondstaub
+7 Sternenstaub
+9 Schattenstaub
+03.04.2017 00:00 Gebäudeverfall Gesamt 276 Strukturpunkte
+02.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+02.04.2017 23:59 Baumeister 24 Strukturpunkte wiederhergestellt
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Marmorziegel entnommen 
+2 Eibenbretter entnommen 
+24 Gold entnommen
+02.04.2017 18:11 Elazia Kapp Einlagerung
+800 Schattenessenz +1
+02.04.2017 18:09 Elazia Kapp Entnahme
+15 Schattenstaub
+02.04.2017 13:35 Alessia Einlagerung
+1 Baumwoll-Beinlinge (8) +1
+02.04.2017 13:34 Alessia Einlagerung
+13 Magiestaub
+19 Todesstaub
+15 Schattenstaub
+37 Mondstaub
+21 Sternenstaub
+2 Drachenhaut
+1 Seide
+1 Ätherfäden
+02.04.2017 12:55 Elazia Kapp Entnahme
+50 Magiesplitter
+5 Phasenkraut
+02.04.2017 12:54 Elazia Kapp Einlagerung
+1 Leinen
+1 Weichpelze
+19 Magiestaub
+2 Ätherfäden
+3 Drachenhaut
+02.04.2017 12:54 Elazia Kapp Entnahme
+62 Schattenstaub
+02.04.2017 12:51 Nojheim Von Durkan Einlagerung
+161 Todesessenz +1
+02.04.2017 12:51 Nojheim Von Durkan Entnahme
+800 Magieessenz +1
+03.04.2017 23:57 Nojheim Von Durkan Entnahme
+100 Drachenhaut
+03.04.2017 23:57 Nojheim Von Durkan Entnahme
+200 Riesenhaut
+03.04.2017 23:56 Nojheim Von Durkan Entnahme
+150 Leder
+03.04.2017 23:56 Nojheim Von Durkan Entnahme
+300 Hartleder
+03.04.2017 23:56 Nojheim Von Durkan Entnahme
+900 Hartpelz
+03.04.2017 23:55 Nojheim Von Durkan Entnahme
+340 Weichleder
+03.04.2017 23:55 Nojheim Von Durkan Entnahme
+130 Ätherfäden
+03.04.2017 23:55 Nojheim Von Durkan Entnahme
+150 Seide
+03.04.2017 23:54 Nojheim Von Durkan Entnahme
+900 Baumwolle
+03.04.2017 23:54 Nojheim Von Durkan Entnahme
+160 Leinentuch
+03.04.2017 23:54 Nojheim Von Durkan Entnahme
+300 Kalkstein
+500 Sandstein
+03.04.2017 23:53 Nojheim Von Durkan Entnahme
+200 Eisenerz
+200 Eisenbarren
+03.04.2017 23:53 Nojheim Von Durkan Entnahme
+900 Weichpelze
+03.04.2017 23:52 Nojheim Von Durkan Entnahme
+64 Kupfererz
+700 Kupferbarren
+770 Leinen
+800 Wolle
+1300 Pelze
+03.04.2017 22:09 Nojheim Von Durkan Einlagerung
+400 Todesessenz +1
+03.04.2017 22:09 Nojheim Von Durkan Entnahme
+400 Magieessenz +1
+03.04.2017 22:08 Nojheim Von Durkan Entnahme
+400 Todesessenz +1
+03.04.2017 22:07 Nojheim Von Durkan Einlagerung
+11 Magiestaub
+9 Sternenstaub
+8 Todesstaub
+29 Mondstaub
+11 Schattenstaub
+1 Weichpelze
+1 Drachenhaut
+1 Hartpelz
+2 Riesenhaut
+03.04.2017 18:11 Eloysius Rotzineck Einlagerung
+14 Schattenstaub
+22 Mondstaub
+8 Todesstaub
+10 Magiestaub
+5 Sternenstaub
+2 Drachenhaut
+1 Riesenhaut
+345 Todesessenz +1
+03.04.2017 15:56 Gwudnyc Einlagerung
+14 Magiestaub
+76 Todesstaub
+58 Schattenstaub
+18 Mondstaub
+1 Leinen
+1 Baumwolle
+1 Pelze
+1 Hartpelz
+2 Riesenhaut
+05.04.2017 00:00 Gebäudeverfall Gesamt 281 Strukturpunkte
+04.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+04.04.2017 23:59 Baumeister 182 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Marmorziegel entnommen 
+2 Eibenbretter entnommen 
+182 Gold entnommen
+04.04.2017 22:25 Dori Drachenzahn Einlagerung
+2 Leinen
+5 Magiestaub
+2 Wolle
+3 Pelze
+5 Todesstaub
+1 Baumwolle
+2 Hartpelz
+8 Schattenstaub
+1 Seide
+2 Riesenhaut
+7 Mondstaub
+04.04.2017 22:09 Gwudnyc Gebührenänderung
+Wachdienst: 10 Plätze, 0 Gold
+Forstanlage III: 5 Plätze, 25 Gold
+Bergwerk III: 5 Plätze, 25 Gold
+Werkstatt III: 5 Plätze, 25 Gold
+Laboratorium III: 5 Plätze, 25 Gold
+04.04.2017 22:07 Gwudnyc Einlagerung
+4 Magiestaub
+6 Todesstaub
+8 Schattenstaub
+04.04.2017 18:26 Eloysius Rotzineck Entnahme
+100 Magiesplitter
+04.04.2017 18:26 Eloysius Rotzineck Entnahme
+65 Birkenbretter
+04.04.2017 18:25 Eloysius Rotzineck Einlagerung
+1265 Todesessenz +1
+04.04.2017 15:26 Bomdivash Gemmenauge Entnahme
+1500 Todesessenz +1
+04.04.2017 12:04 Elazia Kapp Entnahme
+50 Magiesplitter
+12 Phasenkraut
+04.04.2017 12:04 Elazia Kapp Entnahme
+80 Schattenstaub
+04.04.2017 12:02 Elazia Kapp Einlagerung
+1 Leinen
+1 Wolle
+2 Ätherfäden
+1 Baumwolle
+1 Seide
+1 Pelze
+15 Magiestaub
+04.04.2017 11:53 Hardsequencer Einlagerung
+1 Leinen
+1 Wolle
+2 Seide
+1 Ätherfäden
+1 Pelze
+1 Hartpelz
+1 Drachenhaut
+1 Kriegsarmbrust (18)
+14 Todesstaub
+26 Mondstaub
+41 Sternenstaub
+17 Magiestaub
+15 Schattenstaub
+04.04.2017 10:59 Julia Einlagerung
+1 Wolle
+2 Ätherfäden
+1 Leinen
+1 Baumwolle
+1 Seide
+2 Drachenhaut
+38 Sternenstaub
+8 Todesstaub
+9 Magiestaub
+25 Mondstaub
+10 Schattenstaub
+04.04.2017 10:50 Bomdivash Gemmenauge Einlagerung
+2 Drachenhaut
+16 Schattenstaub
+28 Mondstaub
+38 Sternenstaub
+10 Todesstaub
+11 Magiestaub
+04.04.2017 00:00 Gebäudeverfall Gesamt 298 Strukturpunkte
+03.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+03.04.2017 23:59 Baumeister 81 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Marmorziegel entnommen 
+2 Eibenbretter entnommen 
+81 Gold entnommen
+03.04.2017 23:57 Nojheim Von Durkan Entnahme
+300 Sternenstaub
+06.04.2017 00:05 Gwudnyc Einlagerung
+2 Magiestaub
+7 Todesstaub
+10 Schattenstaub
+23 Mondstaub
+06.04.2017 00:05 Gwudnyc Entnahme
+1 Wasser-Runenstab (100) +1
+06.04.2017 00:01 Gwudnyc Einlagerung
+100 Einfacher Wollverband +1
+06.04.2017 00:01 Gwudnyc Entnahme
+100 Einfacher Wollverband +1
+06.04.2017 00:00 Dori Drachenzahn Entnahme
+88 Einfacher Wollverband +1
+06.04.2017 00:00 Gebäudeverfall Gesamt 239 Strukturpunkte
+05.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+05.04.2017 23:59 Baumeister 85 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Eibenbretter entnommen 
+85 Gold entnommen
+05.04.2017 23:57 Dori Drachenzahn Einlagerung
+13 Leinen
+15 Weichpelze
+7 Magiestaub
+5 Wolle
+2 Pelze
+5 Todesstaub
+6 Baumwolle
+4 Hartpelz
+80 Schattenstaub
+4 Seide
+4 Riesenhaut
+22 Mondstaub
+1 Sternenstaub
+05.04.2017 14:27 Nojheim Von Durkan Entnahme
+800 Magieessenz +1
+05.04.2017 12:30 Julia Einlagerung
+18 Buchenholz
+7 Birkenholz
+3 Eschenholz
+10 Eibenholz
+05.04.2017 12:17 Elazia Kapp Entnahme
+40 Magiesplitter
+10 Phasenkraut
+05.04.2017 12:17 Elazia Kapp Entnahme
+80 Schattenstaub
+05.04.2017 12:17 Elazia Kapp Einlagerung
+1500 Schattenessenz +1
+05.04.2017 11:30 Ragbald Einlagerung
+11 Magiestaub
+28 Mondstaub
+10 Todesstaub
+15 Schattenstaub
+3 Sternenstaub
+3 Weichpelze
+7 Hartpelz
+3 Baumwolle
+2 Leinen
+2 Wolle
+2 Seide
+3 Riesenhaut
+05.04.2017 10:26 Nojheim Von Durkan Einlagerung
+2 Leinen
+3 Weichpelze
+11 Magiestaub
+4 Wolle
+3 Pelze
+10 Todesstaub
+3 Baumwolle
+7 Hartpelz
+15 Schattenstaub
+4 Seide
+3 Riesenhaut
+25 Mondstaub
+5 Sternenstaub
+05.04.2017 08:10 Hardsequencer Entnahme
+20 Drachenzunder
+05.04.2017 08:05 Hardsequencer Entnahme
+60 Drachenzunder
+05.04.2017 08:03 Hardsequencer Entnahme
+48 Marmor
+05.04.2017 07:42 Hardsequencer Entnahme
+3 Marmorziegel
+07.04.2017 10:33 Elazia Kapp Entnahme
+39 Schattenstaub
+07.04.2017 09:11 Schahanschah Entnahme
+1366 Todesessenz +1
+07.04.2017 08:08 Bomdivash Gemmenauge Entnahme
+1000 Todesessenz +1
+07.04.2017 00:00 Gebäudeverfall Gesamt 240 Strukturpunkte
+06.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+06.04.2017 23:59 Baumeister 43 Strukturpunkte wiederhergestellt
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Eibenbretter entnommen 
+43 Gold entnommen
+06.04.2017 19:30 Hardsequencer Einlagerung
+29 Mondstaub
+43 Sternenstaub
+12 Magiestaub
+15 Schattenstaub
+12 Todesstaub
+1 Drescher [2H] (18)
+06.04.2017 19:23 Julia Entnahme
+200 Einfacher Wollverband +1
+06.04.2017 19:23 Julia Entnahme
+1000 Schattenessenz +1
+06.04.2017 19:23 Julia Einlagerung
+10 Magiestaub
+15 Todesstaub
+14 Schattenstaub
+5 Eschenholz
+30 Mondstaub
+5 Eibenholz
+44 Sternenstaub
+06.04.2017 18:04 Eloysius Rotzineck Einlagerung
+476 Magiesplitter
+06.04.2017 18:02 Eloysius Rotzineck Entnahme
+200 Todesstaub
+06.04.2017 18:00 Eloysius Rotzineck Entnahme
+700 Mondstaub
+06.04.2017 17:58 Eloysius Rotzineck Einlagerung
+1 Luft-Runenstab (100) +1
+1 Luft-Runenstab (100) +1
+460 Todesessenz +1
+06.04.2017 13:43 Ahn Wirrblick Entnahme
+30 Improvisierte Leinenbinde +1
+06.04.2017 12:04 Elazia Kapp Entnahme
+30 Magiesplitter
+12 Phasenkraut
+06.04.2017 12:03 Elazia Kapp Entnahme
+70 Schattenstaub
+06.04.2017 12:02 Elazia Kapp Einlagerung
+9 Magiestaub
+38 Todesstaub
+06.04.2017 00:07 Gwudnyc Einlagerung
+200 Todesessenz +1
+06.04.2017 00:06 Gwudnyc Entnahme
+400 Todesessenz +1
+07.04.2017 16:10 Dori Drachenzahn Einlagerung
+2 Leinen
+1 Weichpelze
+8 Magiestaub
+5 Wolle
+22 Todesstaub
+6 Baumwolle
+4 Hartpelz
+11 Schattenstaub
+5 Seide
+42 Mondstaub
+2 Sternenstaub
+07.04.2017 15:39 Alessia Einlagerung
+10 Buchenbretter
+07.04.2017 14:07 Julia Einlagerung
+13 Buchenholz
+5 Birkenholz
+17 Eschenholz
+07.04.2017 13:22 Elazia Kapp Einlagerung
+1700 Schattenessenz +1
+07.04.2017 12:50 Nojheim Von Durkan Gebührenänderung
+Wachdienst: 5 Plätze, 150 Gold
+Konstruktion: 5 Plätze, 150 Gold
+07.04.2017 12:40 Hardsequencer Einlagerung
+5 Granitziegel
+11 Marmor
+7 Kalkstein
+07.04.2017 12:04 Bomdivash Gemmenauge Einlagerung
+18 Kalkstein
+14 Magiestaub
+12 Todesstaub
+12 Schattenstaub
+24 Mondstaub
+47 Sternenstaub
+07.04.2017 11:36 Ragbald Einlagerung
+10 Magiestaub
+15 Schattenstaub
+20 Mondstaub
+11 Todesstaub
+5 Sternenstaub
+1 Drachenhaut
+2 Wolle
+1 Baumwolle
+2 Seide
+4 Pelze
+8 Hartpelz
+3 Weichpelze
+5 Riesenhaut
+1 Riesenleder-Hose (18)
+07.04.2017 11:36 Nojheim Von Durkan Einlagerung ins Gildenlager von [Boten]
+1 Sand-Bodenplatte
+3 Birken-Stützbalken
+07.04.2017 11:35 Nojheim Von Durkan Entnahme
+1 Sand-Bodenplatte
+3 Birken-Stützbalken
+07.04.2017 11:23 Nojheim Von Durkan Einlagerung
+1 Sand-Bodenplatte
+3 Birken-Stützbalken
+07.04.2017 11:22 Nojheim Von Durkan Entnahme
+1 Sand-Bodenplatte
+3 Birken-Stützbalken
+07.04.2017 11:20 Nojheim Von Durkan Einlagerung ins Gildenlager von [Boten]
+1 Kristall-Plattenpanzer (Plan)
+1 Pyrit-Wasserstab (Plan)
+1 Pyrit-Erdenstab (Plan)
+1 Pyrit-Schuhe (Plan)
+1 Achat-Lederstiefel (Plan)
+1 Topas-Lederharnisch (Plan)
+1 Jaspis-Luftstab (Plan)
+1 Topas-Lederstulpen (Plan)
+1 Perlmutt-Wasserstab (Plan)
+1 Jade-Wasserstab (Plan)
+1 Jade-Hose (Plan)
+1 Diamant-Bogen (Plan)
+07.04.2017 11:20 Nojheim Von Durkan Entnahme aus dem Gildenlager von [Boten]
+1 Jade-Hose (Plan)
+1 Diamant-Bogen (Plan)
+07.04.2017 11:20 Nojheim Von Durkan Entnahme aus dem Gildenlager von [Boten]
+1 Kristall-Plattenpanzer (Plan)
+1 Pyrit-Wasserstab (Plan)
+1 Pyrit-Erdenstab (Plan)
+1 Pyrit-Schuhe (Plan)
+1 Achat-Lederstiefel (Plan)
+1 Topas-Lederharnisch (Plan)
+1 Jaspis-Luftstab (Plan)
+1 Topas-Lederstulpen (Plan)
+1 Perlmutt-Wasserstab (Plan)
+1 Jade-Wasserstab (Plan)
+07.04.2017 11:19 Nojheim Von Durkan Einlagerung ins Gildenlager von [Boten]
+1 Kristall
+1 Topas
+1 Saphir
+1 Rubin
+1 Lapis
+1 Jade
+07.04.2017 11:19 Nojheim Von Durkan Entnahme aus dem Gildenlager von [Boten]
+1 Saphir
+1 Rubin
+1 Lapis
+1 Jade
+07.04.2017 11:19 Nojheim Von Durkan Entnahme
+1 Kristall
+1 Topas
+07.04.2017 11:17 Nojheim Von Durkan Einlagerung
+3 Weichpelze
+12 Magiestaub
+2 Wolle
+2 Pelze
+10 Todesstaub
+2 Baumwolle
+9 Hartpelz
+15 Schattenstaub
+2 Seide
+6 Riesenhaut
+20 Mondstaub
+1 Drachenhaut
+6 Sternenstaub
+1 Leinen
+07.04.2017 10:33 Elazia Kapp Entnahme
+6 Phasenkraut
+08.04.2017 15:58 Ragbald Einlagerung
+1 Weichleder-Stiefel (35) +1
+1 Leder-Haube (20) +1
+1 Leder-Hose (12) +1
+08.04.2017 15:57 Ragbald Entnahme
+1 Leder-Haube (100) +1
+1 Leder-Wappenrock (100) +1
+1 Leder-Hose (100) +1
+1 Leder-Schuhe (100) +1
+08.04.2017 14:44 Elazia Kapp Entnahme
+60 Magiesplitter
+10 Phasenkraut
+08.04.2017 14:44 Elazia Kapp Entnahme
+70 Schattenstaub
+08.04.2017 14:43 Elazia Kapp Einlagerung
+1 Leinen
+1 Wolle
+8 Todesstaub
+11 Magiestaub
+08.04.2017 13:08 Julia Einlagerung
+1 Wolle
+1 Baumwolle
+14 Todesstaub
+16 Schattenstaub
+26 Mondstaub
+49 Sternenstaub
+13 Magiestaub
+1 Schlangendolch (18)
+08.04.2017 10:28 Hardsequencer Einlagerung
+1 Wolle
+22 Mondstaub
+17 Todesstaub
+51 Sternenstaub
+13 Schattenstaub
+21 Magiestaub
+08.04.2017 00:00 Gebäudeverfall Gesamt 276 Strukturpunkte
+07.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+07.04.2017 23:59 Baumeister 218 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+1 Eibenbretter entnommen 
+270 Gold entnommen
+07.04.2017 17:28 Eloysius Rotzineck Einlagerung ins Gildenlager von [Boten]
+1 Smaragd
+07.04.2017 17:27 Eloysius Rotzineck Einlagerung
+7 Todesstaub
+17 Schattenstaub
+18 Mondstaub
+3 Sternenstaub
+7 Magiestaub
+5 Weichpelze
+1 Drachenhaut
+3 Baumwolle
+2 Seide
+4 Pelze
+8 Hartpelz
+4 Riesenhaut
+1 Wolle
+07.04.2017 16:54 Nojheim Von Durkan Entnahme
+500 Magieessenz +1
+07.04.2017 16:17 Gwudnyc Entnahme
+1000 Todesessenz +1
+07.04.2017 16:16 Gwudnyc Einlagerung
+60 Improvisierte Leinenbinde +1
+07.04.2017 16:15 Gwudnyc Entnahme
+1 Leinen-Handschuhe (100) +1
+1 Leinen-Hose (100) +1
+1 Leinen-Schuhe (100) +1
+07.04.2017 16:15 Gwudnyc Einlagerung
+1 Leinen-Haube (100) +1
+1 Leinen-Robe (100) +1
+07.04.2017 16:15 Gwudnyc Entnahme
+1 Leinen-Haube (100) +1
+1 Leinen-Robe (100) +1
+07.04.2017 16:14 Gwudnyc Entnahme
+1 Handarmbrust (100) +1
+07.04.2017 16:12 Gwudnyc Einlagerung
+1 Magiestaub
+1 Mondstaub
+09.04.2017 12:47 Eloysius Rotzineck Entnahme
+2 Wasser-Runenstab (100) +1
+1 Wasser-Wächterstab (16)
+09.04.2017 12:47 Eloysius Rotzineck Entnahme
+2 Erde-Runenstab (100) +1
+09.04.2017 12:47 Eloysius Rotzineck Entnahme
+1 Luft-Runenstab (65) +1
+09.04.2017 12:47 Eloysius Rotzineck Entnahme
+3 Luft-Runenstab (100) +1
+09.04.2017 12:46 Eloysius Rotzineck Entnahme
+1 Baumwoll-Beinlinge (8) +1
+09.04.2017 12:46 Eloysius Rotzineck Entnahme
+1 Mithril-Kettenstiefel (1)
+09.04.2017 12:45 Eloysius Rotzineck Entnahme
+1 Pavese (16)
+09.04.2017 12:45 Eloysius Rotzineck Entnahme
+500 Sternenstaub
+09.04.2017 12:39 Eloysius Rotzineck Entnahme
+1 Luft-Eschenstab (11)
+09.04.2017 12:37 Eloysius Rotzineck Einlagerung
+8 Todesstaub
+22 Mondstaub
+6 Sternenstaub
+12 Magiestaub
+10 Schattenstaub
+1 Leinen
+3 Baumwolle
+4 Seide
+2 Riesenhaut
+1 Drachenhaut
+2 Weichpelze
+2 Pelze
+2 Hartpelz
+09.04.2017 12:14 Bomdivash Gemmenauge Einlagerung
+12 Kalkstein
+20 Magiestaub
+17 Todesstaub
+1 Baumwolle
+16 Schattenstaub
+22 Mondstaub
+52 Sternenstaub
+09.04.2017 11:49 Schahanschah Entnahme
+30 Improvisierte Leinenbinde +1
+09.04.2017 07:44 Ragbald Einlagerung
+9 Buchenholz
+9 Birkenholz
+10 Eichenholz
+09.04.2017 00:00 Gebäudeverfall Gesamt 270 Strukturpunkte
+08.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+08.04.2017 23:59 Baumeister 261 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+3 Granitziegel entnommen 
+3 Eschenbretter entnommen 
+333 Gold entnommen
+08.04.2017 18:56 Alessia Einlagerung
+1 Leinen
+1 Wolle
+56 Sternenstaub
+12 Todesstaub
+25 Mondstaub
+12 Magiestaub
+16 Schattenstaub
+08.04.2017 17:38 Eloysius Rotzineck Entnahme
+100 Magiesplitter
+08.04.2017 17:37 Eloysius Rotzineck Entnahme
+30 Birkenbretter
+08.04.2017 17:36 Eloysius Rotzineck Einlagerung
+1 Wasser-Runenstab (100) +1
+1 Erde-Runenstab (100) +1
+09.04.2017 15:01 Alessia Entnahme
+200 Federn
+09.04.2017 15:00 Alessia Einlagerung
+84 Buchenholz
+5 Birkenbretter
+09.04.2017 14:14 Nojheim Von Durkan Einlagerung
+9 Magiestaub
+3 Sternenstaub
+7 Todesstaub
+9 Schattenstaub
+15 Mondstaub
+4 Seide
+1 Baumwolle
+1 Drachenhaut
+4 Hartpelz
+1 Weichpelze
+3 Pelze
+2 Riesenhaut
+1 Wolle
+09.04.2017 14:02 Elazia Kapp Entnahme
+46 Magiesplitter
+8 Phasenkraut
+09.04.2017 14:02 Elazia Kapp Entnahme
+50 Schattenstaub
+09.04.2017 14:02 Elazia Kapp Einlagerung
+1700 Schattenessenz +1
+09.04.2017 13:21 Julia Einlagerung
+17 Buchenholz
+13 Eibenholz
+7 Eichenholz
+09.04.2017 13:20 Hardsequencer Einlagerung
+1 Sandstein
+6 Schiefer
+22 Marmor
+09.04.2017 13:00 Eloysius Rotzineck Einlagerung
+110 Federn
+200 Nähgarn
+75 Granitharz
+09.04.2017 12:57 Eloysius Rotzineck Einlagerung
+450 Schleifstein
+400 Phasenkraut
+09.04.2017 12:56 Eloysius Rotzineck Einlagerung
+500 Salz
+125 Phasenkraut
+09.04.2017 12:56 Eloysius Rotzineck Entnahme
+500 Salz
+125 Phasenkraut
+09.04.2017 12:55 Eloysius Rotzineck Einlagerung
+200 Magiesplitter
+134 Federn
+09.04.2017 12:54 Eloysius Rotzineck Entnahme
+300 Einfacher Wollverband +1
+09.04.2017 12:54 Eloysius Rotzineck Entnahme
+300 Gute Baumwollbinde +1
+09.04.2017 12:51 Eloysius Rotzineck Einlagerung
+420 Salz
+100 Schmiedeöl
+100 Harz
+104 Steinkohle
+09.04.2017 12:48 Eloysius Rotzineck Entnahme
+1 Berserkeraxt [2H] (3)
+09.04.2017 12:48 Eloysius Rotzineck Entnahme
+1 Drescher [2H] (18)
+09.04.2017 12:48 Eloysius Rotzineck Entnahme
+1 Kriegsarmbrust (15)
+09.04.2017 12:48 Eloysius Rotzineck Entnahme
+1 Feuer-Wächterstab (20)
+10.04.2017 23:06 Dori Drachenzahn Entnahme
+500 Schattenessenz +1
+10.04.2017 19:52 Göttin Entnahme
+1000 Schattenessenz +1
+10.04.2017 19:52 Göttin Einlagerung
+3 Todesstaub
+3 Schattenstaub
+14 Mondstaub
+2 Sternenstaub
+2 Magiestaub
+1 Schlangendolch (23)
+1 Wolle
+1 Baumwolle
+1 Ätherfäden
+3 Weichpelze
+2 Hartpelz
+4 Riesenhaut
+2 Pelze
+4 Drachenhaut
+10.04.2017 19:46 Dori Drachenzahn Einlagerung
+1 Drescher [2H] (16)
+1 Leinen
+3 Weichpelze
+3 Magiestaub
+1 Wolle
+2 Pelze
+4 Todesstaub
+1 Baumwolle
+1 Hartpelz
+3 Riesenhaut
+1 Ätherfäden
+4 Drachenhaut
+2 Sternenstaub
+10.04.2017 19:36 Gwudnyc Entnahme
+400 Todesessenz +1
+10.04.2017 19:36 Gwudnyc Einlagerung
+60 Improvisierte Leinenbinde +1
+10.04.2017 18:21 Eloysius Rotzineck Einlagerung
+460 Todesessenz +1
+10.04.2017 17:50 Julia Entnahme
+700 Schattenessenz +1
+10.04.2017 17:50 Julia Einlagerung
+16 Schattenstaub
+25 Mondstaub
+41 Sternenstaub
+19 Magiestaub
+14 Todesstaub
+2 Wolle
+2 Ätherfäden
+1 Riesenhaut
+1 Drachenhaut
+10.04.2017 15:07 Hardsequencer Taverne V wurde in Auftrag gegeben.
+10.04.2017 15:07 Hardsequencer Einlagerung
+12 Magiestaub
+19 Todesstaub
+20 Schattenstaub
+27 Mondstaub
+41 Sternenstaub
+3 Marmor-Mauerstück
+2 Marmor-Bodenplatte
+2 Baumwolle
+1 Seide
+1 Ätherfäden
+1 Pelze
+10.04.2017 14:26 Elazia Kapp Einlagerung
+19 Magiestaub
+15 Todesstaub
+1 Seide
+2 Ätherfäden
+1 Drachenhaut
+10.04.2017 14:03 Bomdivash Gemmenauge Entnahme
+30 Improvisierte Leinenbinde +1
+10.04.2017 14:03 Bomdivash Gemmenauge Entnahme
+1000 Todesessenz +1
+10.04.2017 14:02 Bomdivash Gemmenauge Einlagerung
+16 Todesstaub
+24 Mondstaub
+44 Sternenstaub
+10 Schattenstaub
+15 Magiestaub
+1 Seide
+2 Ätherfäden
+1 Pelze
+1 Drachenhaut
+10.04.2017 13:02 Nojheim Von Durkan Entnahme
+400 Magieessenz +1
+10.04.2017 00:00 Gebäudeverfall Gesamt 229 Strukturpunkte
+09.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+09.04.2017 23:59 Baumeister 239 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+298 Gold entnommen
+09.04.2017 20:09 Ahn Wirrblick Entnahme
+400 Jagdpfeile +1
+11.04.2017 14:10 Nojheim Von Durkan Entnahme
+1 Kupfer-Plattenstiefel (100) +1
+11.04.2017 13:39 Nojheim Von Durkan Einlagerung
+150 Nähgarn
+1000 Magiesplitter
+200 Salz
+150 Drachenzunder
+50 Schutzpolster
+50 Ledernieten
+200 Pfeilharz
+100 Kristallat
+100 Edelmörtel
+11.04.2017 13:39 Nojheim Von Durkan Einlagerung
+29 Mondstaub
+12 Magiestaub
+15 Todesstaub
+15 Schattenstaub
+3 Leinen
+3 Baumwolle
+5 Weichpelze
+6 Pelze
+12 Hartpelz
+2 Drachenhaut
+3 Seide
+4 Riesenhaut
+1 Seiden-Stulpen (24)
+6 Sternenstaub
+1 Wolle
+11.04.2017 12:57 Julia Einlagerung
+12 Buchenholz
+11.04.2017 12:41 Ragbald Einlagerung
+6 Birkenholz
+28 Mondstaub
+20 Schattenstaub
+12 Todesstaub
+6 Weichpelze
+5 Riesenhaut
+12 Hartpelz
+10 Magiestaub
+7 Sternenstaub
+3 Seide
+6 Pelze
+3 Leinen
+2 Baumwolle
+11.04.2017 12:39 Hardsequencer Einlagerung
+6 Kalkstein
+4 Granit
+13 Marmor
+6 Sandstein
+11.04.2017 12:17 Elazia Kapp Entnahme
+7 Phasenkraut
+11.04.2017 12:16 Elazia Kapp Entnahme
+62 Schattenstaub
+11.04.2017 12:16 Elazia Kapp Einlagerung
+300 Schattenessenz +1
+11.04.2017 12:12 Alessia Einlagerung
+1 Baumwoll-Handschuhe (17)
+17 Magiestaub
+1 Pelze
+18 Todesstaub
+1 Baumwolle
+18 Schattenstaub
+1 Seide
+29 Mondstaub
+2 Ätherfäden
+38 Sternenstaub
+11.04.2017 11:56 Gwudnyc Einlagerung
+20 Improvisierte Leinenbinde +1
+11.04.2017 11:52 Bomdivash Gemmenauge Einlagerung
+11 Sandstein
+30 Schieferziegel
+5 Granit
+11.04.2017 11:51 Bomdivash Gemmenauge Entnahme
+50 Drachenzunder
+11.04.2017 08:51 Gwudnyc Entnahme
+6 Nähgarn
+11.04.2017 08:51 Gwudnyc Einlagerung
+1 Leinentuch
+11.04.2017 08:51 Gwudnyc Entnahme
+6 Leinentuch
+3 Weichleder
+11.04.2017 06:50 Elmo Einlagerung
+6 Magiestaub
+4 Todesstaub
+14 Mondstaub
+5 Schattenstaub
+2 Sternenstaub
+1 Wolle
+1 Seide
+2 Ätherfäden
+1 Weichpelze
+2 Hartpelz
+4 Riesenhaut
+4 Drachenhaut
+1 Pelze
+11.04.2017 00:00 Gebäudeverfall Steinbruch I (zerstört)
+Gesamt 261 Strukturpunkte
+10.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+10.04.2017 23:59 Baumeister 206 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+251 Gold entnommen
+12.04.2017 18:51 Hardsequencer Einlagerung
+9 Magiestaub
+10 Todesstaub
+16 Schattenstaub
+21 Mondstaub
+37 Sternenstaub
+3 Drachenhaut
+1 Weichpelze
+1 Hartpelz
+1 Riesenhaut
+2 Marmor
+2 Sandstein
+12.04.2017 18:00 Gwudnyc Einlagerung
+50 Improvisierte Leinenbinde +1
+12.04.2017 17:46 Julia Entnahme
+800 Schattenessenz +1
+12.04.2017 17:39 Julia Einlagerung
+23 Mondstaub
+9 Todesstaub
+40 Sternenstaub
+13 Magiestaub
+11 Schattenstaub
+1 Weichpelze
+1 Pelze
+1 Riesenhaut
+1 Drachenhaut
+12.04.2017 13:52 Dori Drachenzahn Einlagerung
+1 Luft-Spiralstab (17)
+1 Leinen
+1 Weichpelze
+15 Magiestaub
+3 Wolle
+1 Pelze
+1 Baumwolle
+4 Hartpelz
+1 Seide
+1 Riesenhaut
+37 Mondstaub
+2 Sternenstaub
+12.04.2017 13:40 Elazia Kapp Einlagerung
+1 Weichpelze
+14 Magiestaub
+1 Pelze
+10 Todesstaub
+1 Riesenhaut
+1 Drachenhaut
+12.04.2017 12:30 Bomdivash Gemmenauge Einlagerung
+9 Magiestaub
+15 Schattenstaub
+23 Mondstaub
+39 Sternenstaub
+10 Todesstaub
+1 Luft-Eschenstab (20)
+1 Pelze
+2 Hartpelz
+3 Drachenhaut
+1 Weichpelze
+12.04.2017 11:04 Gwudnyc Entnahme
+6 Nähgarn
+12.04.2017 11:04 Gwudnyc Entnahme
+3 Leinentuch
+3 Weichleder
+12.04.2017 08:40 Schahanschah Entnahme
+111 Drachenzunder
+12.04.2017 08:40 Schahanschah Einlagerung
+45 Sorandilbarren
+155 Adamantbarren
+12.04.2017 08:38 Schahanschah Entnahme
+1000 Todesessenz +1
+12.04.2017 00:00 Gebäudeverfall Gesamt 234 Strukturpunkte
+11.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+11.04.2017 23:59 Baumeister 242 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+4 Schieferziegel entnommen 
+4 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+275 Gold entnommen
+11.04.2017 21:37 Lysendria Einlagerung
+1 Leinen
+1 Weichpelze
+4 Magiestaub
+1 Wolle
+2 Pelze
+3 Todesstaub
+1 Baumwolle
+3 Hartpelz
+5 Schattenstaub
+3 Riesenhaut
+10 Mondstaub
+1 Ätherfäden
+2 Drachenhaut
+1 Sternenstaub
+11.04.2017 20:06 Eloysius Rotzineck Entnahme
+1000 Todesessenz +1
+11.04.2017 20:03 Eloysius Rotzineck Einlagerung
+28 Mondstaub
+19 Schattenstaub
+12 Todesstaub
+13 Hartpelz
+3 Riesenhaut
+13 Magiestaub
+8 Sternenstaub
+4 Seide
+3 Weichpelze
+6 Pelze
+2 Leinen
+2 Baumwolle
+11.04.2017 14:10 Nojheim Von Durkan Entnahme
+400 Magieessenz +1
+11.04.2017 14:10 Nojheim Von Durkan Einlagerung
+1 Luft-Spiralstab (3)
+1 Kupfer-Plattenstiefel (3) +1
+13.04.2017 12:07 Elazia Kapp Entnahme
+60 Schattenstaub
+13.04.2017 12:06 Elazia Kapp Einlagerung
+600 Schattenessenz +1
+13.04.2017 12:06 Alessia Einlagerung
+16 Buchenholz
+13.04.2017 08:39 Gwudnyc Entnahme
+6 Todesstaub
+13.04.2017 08:39 Gwudnyc Entnahme
+4 Magiesplitter
+13.04.2017 08:01 Dori Drachenzahn Entnahme
+50 Einfacher Wollverband +1
+13.04.2017 08:01 Dori Drachenzahn Entnahme
+500 Schattenessenz +1
+13.04.2017 00:00 Gebäudeverfall Gesamt 207 Strukturpunkte
+12.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+12.04.2017 23:59 Baumeister 231 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+282 Gold entnommen
+12.04.2017 23:55 Gwudnyc Einlagerung
+100 Improvisierte Leinenbinde +1
+12.04.2017 22:35 Lysendria Entnahme
+1500 Magieessenz +1
+12.04.2017 22:34 Lysendria Einlagerung
+1 Weichpelze
+14 Magiestaub
+2 Wolle
+12 Todesstaub
+2 Baumwolle
+4 Hartpelz
+26 Schattenstaub
+45 Mondstaub
+1 Sternenstaub
+12.04.2017 20:40 Gwudnyc Entnahme
+6 Nähgarn
+12.04.2017 20:10 Elmo Einlagerung
+12 Magiestaub
+44 Mondstaub
+27 Schattenstaub
+15 Todesstaub
+2 Sternenstaub
+1 Weichpelze
+2 Pelze
+1 Riesenhaut
+4 Hartpelz
+3 Wolle
+1 Baumwolle
+1 Leinen
+12.04.2017 19:17 Ahn Wirrblick Entnahme
+1000 Pfeile +1
+12.04.2017 19:14 Alessia Entnahme
+101 Federn
+12.04.2017 19:13 Alessia Entnahme
+29 Pfeilharz
+12.04.2017 19:13 Alessia Entnahme
+100 Einfacher Wollverband +1
+12.04.2017 19:12 Alessia Einlagerung
+34 Sternenstaub
+14 Magiestaub
+17 Schattenstaub
+20 Mondstaub
+11 Todesstaub
+1 Drescher [2H] (16)
+1 Drachenhaut
+10 Buchenholz
+14.04.2017 09:53 Eloysius Rotzineck Entnahme
+1000 Mondstaub
+14.04.2017 09:53 Eloysius Rotzineck Entnahme
+1 Adamant-Plattenbeinlinge (17)
+14.04.2017 09:51 Eloysius Rotzineck Entnahme
+1 Luft-Spiralstab (17)
+1 Luft-Spiralstab (3)
+14.04.2017 09:51 Eloysius Rotzineck Entnahme
+1 Kriegsarmbrust (18)
+14.04.2017 09:50 Eloysius Rotzineck Entnahme
+2 Drescher [2H] (16)
+14.04.2017 09:15 Julia Einlagerung
+17 Todesstaub
+42 Sternenstaub
+18 Schattenstaub
+22 Mondstaub
+14 Magiestaub
+14.04.2017 08:53 Hardsequencer Einlagerung
+9 Magiestaub
+46 Sternenstaub
+19 Schattenstaub
+23 Mondstaub
+12 Todesstaub
+14.04.2017 00:00 Gebäudeverfall Gesamt 214 Strukturpunkte
+13.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+13.04.2017 23:59 Baumeister 196 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+3 Granitziegel entnommen 
+3 Eschenbretter entnommen 
+267 Gold entnommen
+13.04.2017 23:59 Schahanschah Entnahme
+1000 Todesessenz +1
+13.04.2017 23:58 Schahanschah Einlagerung
+36 Mondstaub
+15 Todesstaub
+13 Schattenstaub
+13 Magiestaub
+7 Sternenstaub
+13.04.2017 20:59 Eloysius Rotzineck Entnahme
+440 Todesessenz +1
+13.04.2017 20:59 Eloysius Rotzineck Einlagerung ins Gildenlager von [Boten]
+1 Achat
+13.04.2017 20:58 Eloysius Rotzineck Einlagerung
+9 Magiestaub
+7 Todesstaub
+7 Schattenstaub
+27 Mondstaub
+4 Sternenstaub
+1 Hartpelz
+2 Riesenhaut
+2 Baumwolle
+1 Seide
+13.04.2017 12:23 Gwudnyc Entnahme
+600 Todesessenz +1
+13.04.2017 12:22 Gwudnyc Einlagerung
+30 Improvisierte Leinenbinde +1
+13.04.2017 12:22 Gwudnyc Einlagerung
+70 Improvisierte Leinenbinde +1
+13.04.2017 12:20 Hardsequencer Einlagerung
+1 Weichpelze
+5 Sandstein
+8 Granit
+15 Marmor
+13.04.2017 12:07 Elazia Kapp Entnahme
+40 Magiesplitter
+6 Phasenkraut
+15.04.2017 15:09 Hardsequencer Einlagerung
+14 Marmor
+12 Sandstein
+5 Granit
+15.04.2017 15:08 Julia Einlagerung
+8 Buchenholz
+11 Eichenholz
+21 Eschenholz
+18 Eibenholz
+15.04.2017 13:30 Elazia Kapp Einlagerung
+1400 Schattenessenz +1
+15.04.2017 13:29 Elazia Kapp Entnahme
+40 Magiesplitter
+10 Phasenkraut
+15.04.2017 13:29 Elazia Kapp Entnahme
+50 Schattenstaub
+15.04.2017 11:32 Eloysius Rotzineck Einlagerung
+13 Todesstaub
+19 Schattenstaub
+26 Mondstaub
+12 Magiestaub
+6 Sternenstaub
+1 Weichpelze
+1 Hartpelz
+2 Riesenhaut
+1 Baumwolle
+2 Ätherfäden
+1 Pelze
+15.04.2017 11:15 Ahn Wirrblick Entnahme
+50 Improvisierte Leinenbinde +1
+15.04.2017 09:38 Julia Entnahme
+600 Schattenessenz +1
+15.04.2017 00:00 Gebäudeverfall Gesamt 224 Strukturpunkte
+14.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+14.04.2017 23:59 Baumeister 160 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+171 Gold entnommen
+14.04.2017 23:28 Alessia Einlagerung
+20 Mondstaub
+46 Sternenstaub
+14 Todesstaub
+17 Schattenstaub
+8 Magiestaub
+14.04.2017 14:47 Elazia Kapp Einlagerung
+14 Todesstaub
+15 Magiestaub
+1 Wasser-Wächterstab (19)
+14.04.2017 14:06 Nojheim Von Durkan Entnahme
+600 Magieessenz +1
+14.04.2017 14:06 Nojheim Von Durkan Einlagerung
+12 Magiestaub
+37 Mondstaub
+11 Todesstaub
+13 Schattenstaub
+1 Gladius (16)
+7 Sternenstaub
+2 Riesenhaut
+1 Weichpelze
+1 Pelze
+1 Hartpelz
+1 Leinen
+1 Wolle
+1 Baumwolle
+2 Seide
+14.04.2017 12:07 Bomdivash Gemmenauge Entnahme
+1000 Todesessenz +1
+14.04.2017 12:07 Bomdivash Gemmenauge Einlagerung
+8 Magiestaub
+12 Todesstaub
+44 Sternenstaub
+25 Mondstaub
+14 Schattenstaub
+14.04.2017 10:12 Ragbald Einlagerung
+14 Todesstaub
+39 Mondstaub
+14 Magiestaub
+15 Schattenstaub
+1 Prunkschild (18)
+6 Sternenstaub
+2 Riesenhaut
+1 Pelze
+1 Baumwolle
+14.04.2017 09:57 Eloysius Rotzineck Einlagerung
+300 Federn
+320 Drachenzunder
+171 Granitharz
+14.04.2017 09:54 Eloysius Rotzineck Entnahme
+400 Sternenstaub
+17.04.2017 12:42 Julia Einlagerung
+26 Buchenholz
+7 Birkenholz
+5 Eschenholz
+9 Eibenholz
+17.04.2017 12:42 Julia Entnahme
+400 Schattenessenz +1
+17.04.2017 12:22 Bomdivash Gemmenauge Entnahme
+500 Todesessenz +1
+17.04.2017 12:21 Bomdivash Gemmenauge Einlagerung
+5 Kalkstein
+11 Magiestaub
+11 Todesstaub
+60 Schieferziegel
+17 Schattenstaub
+23 Mondstaub
+39 Sternenstaub
+1 Achat
+17.04.2017 11:08 Eloysius Rotzineck Entnahme
+200 Todesstaub
+17.04.2017 11:07 Eloysius Rotzineck Entnahme
+150 Magiesplitter
+17.04.2017 00:00 Gebäudeverfall Bergwerk I (zerstört)
+Gesamt 225 Strukturpunkte
+16.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+16.04.2017 23:59 Baumeister 249 Strukturpunkte wiederhergestellt
+3 Kalkziegel entnommen 
+3 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+294 Gold entnommen
+16.04.2017 16:53 Elazia Kapp Entnahme
+60 Magiesplitter
+12 Phasenkraut
+16.04.2017 16:53 Elazia Kapp Entnahme
+60 Schattenstaub
+16.04.2017 16:50 Elazia Kapp Einlagerung
+13 Magiestaub
+17 Todesstaub
+16.04.2017 14:37 Nojheim Von Durkan Entnahme
+500 Magieessenz +1
+16.04.2017 12:27 Alessia Einlagerung
+15 Schattenstaub
+22 Mondstaub
+44 Sternenstaub
+16 Magiestaub
+11 Todesstaub
+16.04.2017 11:41 Julia Einlagerung
+45 Sternenstaub
+12 Todesstaub
+20 Mondstaub
+19 Schattenstaub
+13 Magiestaub
+16.04.2017 11:32 Hardsequencer Einlagerung
+20 Schattenstaub
+23 Mondstaub
+44 Sternenstaub
+10 Magiestaub
+12 Todesstaub
+16.04.2017 00:00 Gebäudeverfall Gesamt 303 Strukturpunkte
+15.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+15.04.2017 23:59 Baumeister 185 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+224 Gold entnommen
+15.04.2017 18:43 Nojheim Von Durkan Einlagerung
+14 Todesstaub
+19 Schattenstaub
+25 Mondstaub
+6 Sternenstaub
+9 Magiestaub
+1 Weichpelze
+2 Pelze
+1 Hartpelz
+2 Riesenhaut
+1 Baumwolle
+1 Seide
+1 Ätherfäden
+18.04.2017 17:47 Hardsequencer Einlagerung
+20 Magiestaub
+33 Mondstaub
+60 Sternenstaub
+20 Schattenstaub
+18 Todesstaub
+4 Marmor
+18.04.2017 12:16 Nojheim Von Durkan Einlagerung
+40 Granitziegel
+18.04.2017 12:12 Nojheim Von Durkan Entnahme
+4 Eschenbretter
+18.04.2017 12:12 Elazia Kapp Entnahme
+40 Magiesplitter
+8 Phasenkraut
+18.04.2017 12:12 Elazia Kapp Entnahme
+50 Schattenstaub
+18.04.2017 12:11 Nojheim Von Durkan Entnahme
+100 Granitziegel
+18.04.2017 12:11 Elazia Kapp Einlagerung
+19 Magiestaub
+18 Todesstaub
+18.04.2017 12:09 Nojheim Von Durkan Entnahme
+100 Edelmörtel
+18.04.2017 12:08 Nojheim Von Durkan Entnahme
+148 Eschenbretter
+18.04.2017 12:07 Nojheim Von Durkan Entnahme
+58 Granitziegel
+240 Granitharz
+18.04.2017 12:00 Bomdivash Gemmenauge Einlagerung
+15 Magiestaub
+31 Mondstaub
+21 Schattenstaub
+57 Sternenstaub
+20 Todesstaub
+18.04.2017 11:51 Ahn Wirrblick Entnahme
+1000 Pfeile +1
+18.04.2017 00:00 Gebäudeverfall Gesamt 244 Strukturpunkte
+17.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+17.04.2017 23:59 Baumeister 173 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+195 Gold entnommen
+17.04.2017 22:24 Eloysius Rotzineck Umbuchung
+Gildenkasse: -250000 Gold
+Stadtkasse: +250000 Gold
+17.04.2017 21:31 Schahanschah Entnahme
+100 Improvisierte Leinenbinde +1
+17.04.2017 21:31 Schahanschah Entnahme
+520 Todesessenz +1
+17.04.2017 18:00 Elazia Kapp Einlagerung
+1600 Schattenessenz +1
+17.04.2017 12:48 Hardsequencer Einlagerung
+16 Sandstein
+6 Schiefer
+12 Marmor
+6 Kalkstein
+19.04.2017 11:35 Nojheim Von Durkan Entnahme
+1 Leinen-Haube (100) +1
+1 Leinen-Robe (100) +1
+1 Leinen-Stulpen (100) +1
+1 Leinen-Beinlinge (100) +1
+1 Leinen-Stiefel (100) +1
+1 Woll-Robe (100) +1
+19.04.2017 11:35 Nojheim Von Durkan Entnahme
+1 Wasser-Runenstab (100) +1
+19.04.2017 11:34 Nojheim Von Durkan Entnahme
+18 Magieessenz +1
+19.04.2017 11:34 Nojheim Von Durkan Entnahme
+500 Magieessenz +1
+19.04.2017 11:33 Nojheim Von Durkan Einlagerung
+7 Weichpelze
+8 Hartpelz
+7 Riesenhaut
+18 Todesstaub
+20 Schattenstaub
+39 Mondstaub
+8 Sternenstaub
+9 Seide
+6 Baumwolle
+4 Wolle
+2 Pelze
+12 Magiestaub
+1 Riesenleder-Schuhe (21)
+2 Leinen
+19.04.2017 11:30 Schahanschah Entnahme
+1000 Schattenessenz +1
+19.04.2017 09:20 Bomdivash Gemmenauge Entnahme
+805 Todesessenz +1
+19.04.2017 09:20 Bomdivash Gemmenauge Einlagerung
+4 Granit
+19.04.2017 00:00 Gebäudeverfall Gesamt 252 Strukturpunkte
+18.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+18.04.2017 23:59 Baumeister 223 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+273 Gold entnommen
+18.04.2017 21:45 Elmo Einlagerung
+2 Pelze
+4 Hartpelz
+4 Leinen
+5 Seide
+1 Ätherfäden
+2 Wolle
+2 Baumwolle
+14 Mondstaub
+11 Todesstaub
+7 Magiestaub
+4 Sternenstaub
+2 Schattenstaub
+18.04.2017 21:41 Julia Entnahme
+700 Schattenessenz +1
+18.04.2017 21:40 Julia Einlagerung
+11 Magiestaub
+34 Mondstaub
+49 Sternenstaub
+18 Todesstaub
+23 Schattenstaub
+10 Eibenholz
+7 Buchenholz
+18.04.2017 19:30 Göttin Einlagerung
+4 Leinen
+1 Weichpelze
+5 Magiestaub
+2 Wolle
+2 Pelze
+8 Todesstaub
+2 Baumwolle
+3 Hartpelz
+3 Schattenstaub
+4 Seide
+1 Riesenhaut
+18.04.2017 19:16 Dori Drachenzahn Entnahme
+400 Schattenessenz +1
+18.04.2017 19:14 Dori Drachenzahn Einlagerung
+15 Todesstaub
+18.04.2017 19:14 Dori Drachenzahn Einlagerung
+2 Pelze
+4 Hartpelz
+3 Leinen
+2 Wolle
+3 Baumwolle
+5 Seide
+2 Riesenhaut
+6 Schattenstaub
+16 Mondstaub
+1 Weichpelze
+8 Magiestaub
+6 Todesstaub
+4 Sternenstaub
+18.04.2017 18:27 Eloysius Rotzineck Einlagerung
+1 Luft-Krummstab (100) +1
+805 Todesessenz +1
+18.04.2017 18:08 Alessia Einlagerung
+7 Buchenholz
+24 Magiestaub
+23 Todesstaub
+18 Schattenstaub
+30 Mondstaub
+61 Sternenstaub
+19.04.2017 16:48 Julia Einlagerung
+5 Buchenholz
+5 Eichenholz
+8 Eibenholz
+19.04.2017 16:47 Hardsequencer Einlagerung
+7 Granit
+20 Marmor
+19.04.2017 13:49 Ragbald Entnahme
+1 Tartsche (100) +1
+19.04.2017 13:48 Ragbald Entnahme
+40 Jagdbolzen +1
+19.04.2017 13:48 Ragbald Einlagerung
+9 Hartpelz
+1 Repetierarmbrust (16)
+38 Mondstaub
+4 Weichpelze
+5 Pelze
+6 Riesenhaut
+5 Leinen
+7 Baumwolle
+8 Seide
+1 Ätherfäden
+18 Todesstaub
+16 Schattenstaub
+7 Sternenstaub
+4 Wolle
+11 Magiestaub
+19.04.2017 13:07 Elazia Kapp Entnahme
+46 Magiesplitter
+6 Phasenkraut
+19.04.2017 13:07 Elazia Kapp Entnahme
+50 Schattenstaub
+19.04.2017 13:05 Elazia Kapp Einlagerung
+1600 Schattenessenz +1
+19.04.2017 12:17 Alessia Entnahme
+75 Pfeilharz
+19.04.2017 12:17 Alessia Entnahme
+150 Federn
+19.04.2017 12:16 Alessia Einlagerung
+11 Buchenholz
+19.04.2017 12:10 Nojheim Von Durkan Entnahme
+500 Magieessenz +1
+19.04.2017 11:46 Xiatax Entnahme
+15 Wattierung
+6 Ledernieten
+19.04.2017 11:45 Xiatax Entnahme
+46 Schmiedeöl
+19.04.2017 11:44 Xiatax Entnahme
+45 Sorandilbarren
+19.04.2017 11:40 Xiatax Einlagerung
+22 Todesstaub
+18 Schattenstaub
+41 Mondstaub
+8 Sternenstaub
+10 Magiestaub
+19.04.2017 11:36 Nojheim Von Durkan Einlagerung
+1 Wasser-Runenstab (100) +1
+1 Leinen-Haube (100) +1
+1 Leinen-Robe (100) +1
+1 Leinen-Stulpen (100) +1
+1 Leinen-Beinlinge (100) +1
+1 Leinen-Stiefel (100) +1
+1 Woll-Robe (100) +1
+142 Eisenerz
+97 Pelze
+607 Schieferziegel
+121 Baumwolle
+271 Baumwolltuch
+62 Hartleder
+349 Schattenstaub
+180 Improvisierte Leinenbinde +1
+3491 Pfeile +1
+1860 Kriegspfeile +1
+433 Bolzen +1
+36 Kriegsbolzen
+518 Magieessenz +1
+19.04.2017 11:36 Nojheim Von Durkan Entnahme
+180 Improvisierte Leinenbinde +1
+3491 Pfeile +1
+1860 Kriegspfeile +1
+433 Bolzen +1
+36 Kriegsbolzen
+19.04.2017 11:36 Nojheim Von Durkan Entnahme
+97 Pelze
+607 Schieferziegel
+121 Baumwolle
+271 Baumwolltuch
+62 Hartleder
+349 Schattenstaub
+19.04.2017 11:36 Nojheim Von Durkan Entnahme
+142 Eisenerz
+21.04.2017 08:40 Alessia Einlagerung
+10 Buchenholz
+21.04.2017 08:13 Dori Drachenzahn Entnahme
+50 Magiesplitter
+50 Phasenkraut
+21.04.2017 08:11 Dori Drachenzahn Einlagerung
+59 Hartpelz
+22 Seide
+27 Riesenhaut
+4 Drachenhaut
+13 Sternenstaub
+3 Mondstaub
+1 Todesstaub
+1 Schattenstaub
+1 Weichpelze
+21.04.2017 00:00 Gebäudeverfall Gesamt 225 Strukturpunkte
+20.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+20.04.2017 23:59 Baumeister 177 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+212 Gold entnommen
+20.04.2017 19:36 Julia Einlagerung
+38 Sternenstaub
+11 Todesstaub
+25 Mondstaub
+11 Schattenstaub
+8 Magiestaub
+8 Eibenholz
+20.04.2017 19:35 Eloysius Rotzineck Entnahme
+120 Magiesplitter
+20.04.2017 19:07 Elazia Kapp Einlagerung
+115 Todesessenz +1
+20.04.2017 14:45 Elazia Kapp Einlagerung
+10 Magiestaub
+13 Todesstaub
+20.04.2017 12:12 Ahn Wirrblick Entnahme
+50 Improvisierte Leinenbinde +1
+20.04.2017 11:58 Nojheim Von Durkan Einlagerung ins Gildenlager von [Boten]
+1 Eschen-Dachkonstrukt
+20.04.2017 11:03 Alessia Einlagerung
+22 Sternenstaub
+12 Mondstaub
+7 Magiestaub
+11 Todesstaub
+5 Schattenstaub
+6 Leinen
+20.04.2017 10:48 Bomdivash Gemmenauge Einlagerung
+39 Sternenstaub
+15 Magiestaub
+23 Mondstaub
+7 Todesstaub
+18 Schattenstaub
+20.04.2017 09:53 Nojheim Von Durkan Schmiede IV wurde in Auftrag gegeben.
+20.04.2017 09:52 Nojheim Von Durkan Einlagerung ins Gildenlager von [Boten]
+4 Granit-Mauerstück
+2 Granit-Bodenplatte
+1 Eschen-Dachkonstrukt
+2 Eschen-Stützbalken
+20.04.2017 00:00 Gebäudeverfall Gesamt 235 Strukturpunkte
+19.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+19.04.2017 23:59 Baumeister 205 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+4 Schieferziegel entnommen 
+4 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+207 Gold entnommen
+19.04.2017 19:16 Eloysius Rotzineck Einlagerung
+18 Todesstaub
+20 Schattenstaub
+5 Weichpelze
+6 Hartpelz
+36 Mondstaub
+9 Sternenstaub
+7 Baumwolle
+8 Seide
+4 Wolle
+2 Pelze
+5 Riesenhaut
+4 Leinen
+13 Magiestaub
+1 Drachenhaut
+460 Todesessenz +1
+22.04.2017 10:13 Eloysius Rotzineck Entnahme
+1500 Magieessenz
+22.04.2017 10:13 Eloysius Rotzineck Einlagerung
+1753 Todesessenz +1
+22.04.2017 10:03 Eloysius Rotzineck Einlagerung
+300 Granitharz
+112 Schmiedeöl
+22.04.2017 10:01 Eloysius Rotzineck Entnahme
+1200 Mondstaub
+22.04.2017 09:38 Eloysius Rotzineck Einlagerung
+460 Todesessenz +1
+22.04.2017 00:38 Nojheim Von Durkan Laboratorium IV wurde in Auftrag gegeben.
+22.04.2017 00:38 Nojheim Von Durkan Einlagerung
+2 Eschen-Stützbalken
+22.04.2017 00:00 Gebäudeverfall Forstanlage I (zerstört)
+Gesamt 248 Strukturpunkte
+21.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+21.04.2017 23:59 Baumeister 160 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+172 Gold entnommen
+21.04.2017 19:15 Eloysius Rotzineck Einlagerung
+13 Magiestaub
+17 Mondstaub
+11 Schattenstaub
+7 Sternenstaub
+6 Todesstaub
+6 Seide
+3 Hartpelz
+2 Riesenhaut
+2 Leinen
+3 Baumwolle
+2 Pelze
+1 Drachenhaut
+1 Wolle
+1 Ätherfäden
+345 Todesessenz +1
+21.04.2017 16:56 Julia Einlagerung
+14 Buchenholz
+11 Birkenholz
+13 Eibenholz
+21.04.2017 16:54 Julia Entnahme
+800 Schattenessenz +1
+21.04.2017 16:46 Hardsequencer Einlagerung
+13 Magiestaub
+13 Todesstaub
+6 Schiefer
+19 Schattenstaub
+21 Mondstaub
+33 Marmor
+39 Sternenstaub
+5 Kalkstein
+21.04.2017 16:03 Elazia Kapp Einlagerung
+100 Gute Baumwollbinde +1
+700 Schattenessenz +1
+21.04.2017 11:42 Xiatax Einlagerung
+17 Magiestaub
+13 Schattenstaub
+24 Mondstaub
+8 Todesstaub
+10 Sternenstaub
+21.04.2017 11:41 Schahanschah Entnahme
+1000 Schattenessenz +1
+21.04.2017 11:41 Schahanschah Einlagerung
+25 Mondstaub
+17 Magiestaub
+9 Todesstaub
+12 Schattenstaub
+6 Sternenstaub
+21.04.2017 10:26 Nojheim Von Durkan Einlagerung
+20000 Magieessenz
+21.04.2017 10:25 Nojheim Von Durkan Einlagerung
+2 Leinen
+1 Weichpelze
+18 Magiestaub
+1 Wolle
+1 Pelze
+10 Todesstaub
+3 Baumwolle
+2 Hartpelz
+9 Schattenstaub
+9 Seide
+3 Riesenhaut
+23 Mondstaub
+1 Ätherfäden
+1 Drachenhaut
+10 Sternenstaub
+23.04.2017 09:16 Elazia Kapp Entnahme
+51 Mondstaub
+23.04.2017 09:13 Elazia Kapp Entnahme
+80 Magiesplitter
+30 Phasenkraut
+23.04.2017 09:11 Elazia Kapp Einlagerung
+1316 Schattenessenz +1
+1200 Mondessenz +1
+23.04.2017 00:00 Gebäudeverfall Gesamt 242 Strukturpunkte
+22.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+22.04.2017 23:59 Baumeister 183 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+216 Gold entnommen
+22.04.2017 21:16 Elazia Kapp Entnahme
+60 Magiesplitter
+18 Phasenkraut
+22.04.2017 21:16 Elazia Kapp Entnahme
+90 Mondstaub
+22.04.2017 21:15 Elazia Kapp Einlagerung
+1 Seiden-Stulpen (17)
+17 Magiestaub
+21 Todesstaub
+51 Schattenstaub
+22.04.2017 18:15 Nojheim Von Durkan Einlagerung
+127 Magieessenz +1
+22.04.2017 18:15 Nojheim Von Durkan Entnahme
+800 Magieessenz
+22.04.2017 13:20 Julia Entnahme
+500 Schattenessenz +1
+22.04.2017 13:20 Julia Einlagerung ins Gildenlager von [Boten]
+1 Rubin
+1 Onyx
+22.04.2017 13:20 Julia Einlagerung
+46 Sternenstaub
+24 Magiestaub
+21 Schattenstaub
+19 Todesstaub
+38 Mondstaub
+22.04.2017 12:17 Ahn Wirrblick Entnahme
+1000 Pfeile +1
+22.04.2017 12:09 Hardsequencer Einlagerung
+22 Todesstaub
+46 Sternenstaub
+17 Magiestaub
+20 Schattenstaub
+33 Mondstaub
+22.04.2017 12:01 Alessia Einlagerung
+39 Mondstaub
+52 Sternenstaub
+17 Todesstaub
+21 Schattenstaub
+16 Magiestaub
+1 Erde-Rute (18)
+22.04.2017 11:38 Bomdivash Gemmenauge Entnahme
+50 Improvisierte Leinenbinde +1
+22.04.2017 11:37 Bomdivash Gemmenauge Entnahme
+1000 Todesessenz +1
+22.04.2017 11:37 Bomdivash Gemmenauge Einlagerung
+48 Sternenstaub
+20 Magiestaub
+16 Todesstaub
+21 Schattenstaub
+36 Mondstaub
+24.04.2017 19:02 Julia Entnahme
+1000 Mondessenz +1
+24.04.2017 19:01 Julia Einlagerung
+18 Schattenstaub
+31 Mondstaub
+54 Sternenstaub
+16 Magiestaub
+12 Todesstaub
+4 Eschenholz
+6 Birkenholz
+24.04.2017 14:42 Nojheim Von Durkan Entnahme
+600 Magieessenz
+24.04.2017 14:41 Nojheim Von Durkan Einlagerung
+14 Magiestaub
+15 Todesstaub
+15 Schattenstaub
+46 Mondstaub
+6 Sternenstaub
+1 Drescher [2H] (18)
+1 Weichpelze
+2 Hartpelz
+24.04.2017 14:06 Alessia Einlagerung
+15 Magiestaub
+17 Schattenstaub
+50 Sternenstaub
+15 Todesstaub
+34 Mondstaub
+24.04.2017 12:40 Elazia Kapp Einlagerung
+16 Magiestaub
+15 Schattenstaub
+15 Todesstaub
+1 Schlangendolch (24)
+24.04.2017 09:08 Bomdivash Gemmenauge Einlagerung
+1 Hammer (51) +1
+1 Leinen
+15 Magiestaub
+1 Wolle
+19 Todesstaub
+1 Baumwolle
+18 Schattenstaub
+1 Seide
+31 Mondstaub
+2 Ätherfäden
+53 Sternenstaub
+24.04.2017 00:00 Gebäudeverfall Gesamt 188 Strukturpunkte
+23.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+23.04.2017 23:59 Baumeister 197 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+240 Gold entnommen
+23.04.2017 15:37 Alessia Einlagerung
+9 Buchenholz
+23.04.2017 13:10 Ragbald Einlagerung
+44 Mondstaub
+18 Todesstaub
+21 Schattenstaub
+7 Sternenstaub
+14 Magiestaub
+1 Weichpelze
+2 Hartpelz
+23.04.2017 12:33 Elazia Kapp Entnahme
+200 Mondessenz +1
+23.04.2017 12:04 Julia Einlagerung
+7 Buchenholz
+6 Birkenholz
+9 Eichenholz
+1 Eschenholz
+13 Eibenholz
+23.04.2017 12:03 Hardsequencer Einlagerung
+11 Sandstein
+7 Schiefer
+14 Marmor
+23.04.2017 11:31 Xiatax Einlagerung
+22 Todesstaub
+19 Schattenstaub
+48 Mondstaub
+14 Magiestaub
+7 Sternenstaub
+23.04.2017 11:30 Schahanschah Entnahme
+1000 Schattenessenz +1
+23.04.2017 11:30 Schahanschah Einlagerung
+20 Todesstaub
+21 Schattenstaub
+42 Mondstaub
+9 Sternenstaub
+13 Magiestaub
+23.04.2017 10:16 Eloysius Rotzineck Entnahme
+1000 Magieessenz
+23.04.2017 10:15 Eloysius Rotzineck Einlagerung
+17 Todesstaub
+24 Schattenstaub
+45 Mondstaub
+12 Magiestaub
+11 Sternenstaub
+1 Pelze
+4 Hartpelz
+25.04.2017 18:31 Nojheim Von Durkan Einlagerung
+17 Magiestaub
+37 Schattenstaub
+43 Mondstaub
+19 Todesstaub
+5 Hartpelz
+2 Pelze
+1 Wolle
+1 Seide
+1 Weichpelze
+25.04.2017 13:29 Ragbald Einlagerung
+24 Magiestaub
+18 Todesstaub
+44 Mondstaub
+37 Schattenstaub
+1 Jaspis
+1 Gladius (16)
+2 Weichpelze
+4 Hartpelz
+1 Baumwolle
+1 Seide
+1 Pelze
+25.04.2017 13:15 Elazia Kapp Entnahme
+60 Magiesplitter
+30 Phasenkraut
+25.04.2017 13:15 Elazia Kapp Entnahme
+83 Mondstaub
+25.04.2017 13:15 Elazia Kapp Einlagerung
+3100 Mondessenz +1
+25.04.2017 12:28 Julia Einlagerung
+17 Eibenholz
+8 Buchenholz
+9 Birkenholz
+25.04.2017 12:28 Hardsequencer Einlagerung
+12 Kalkstein
+19 Marmor
+25.04.2017 12:07 Alessia Einlagerung
+7 Buchenholz
+25.04.2017 12:07 Alessia Entnahme
+150 Federn
+25.04.2017 10:09 Xiatax Einlagerung
+22 Magiestaub
+18 Todesstaub
+38 Schattenstaub
+47 Mondstaub
+25.04.2017 10:07 Schahanschah Entnahme
+25 Improvisierte Leinenbinde +1
+25.04.2017 10:07 Schahanschah Entnahme
+25 Improvisierte Leinenbinde +1
+25.04.2017 10:07 Schahanschah Entnahme
+1000 Schattenessenz +1
+25.04.2017 10:06 Schahanschah Einlagerung
+19 Magiestaub
+19 Todesstaub
+37 Schattenstaub
+41 Mondstaub
+25.04.2017 00:00 Gebäudeverfall Gesamt 216 Strukturpunkte
+24.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+24.04.2017 23:59 Baumeister 164 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+182 Gold entnommen
+24.04.2017 19:04 Hardsequencer Einlagerung ins Gildenlager von [Boten]
+1 Onyx
+24.04.2017 19:04 Hardsequencer Einlagerung
+18 Magiestaub
+19 Schattenstaub
+34 Mondstaub
+51 Sternenstaub
+19 Todesstaub
+4 Marmor
+9 Kalkstein
+24.04.2017 19:02 Julia Einlagerung
+502 Schattenessenz +1
+07.04.2017 09:11 Schahanschah Einzahlung
+9400 Gold
+07.04.2017 07:59 Hardsequencer Entnahme
+25000 Gold
+06.04.2017 13:43 Ahn Wirrblick Einzahlung
+20000 Gold
+06.04.2017 10:23 Fin Einzahlung
+6000 Gold
+05.04.2017 15:36 Xiatax Einzahlung
+3444 Gold
+05.04.2017 10:27 Nojheim Von Durkan Einzahlung
+289687 Gold
+04.04.2017 13:13 Ragbald Einzahlung
+4000 Gold
+04.04.2017 12:24 Nojheim Von Durkan Entnahme
+185650 Gold
+03.04.2017 22:07 Nojheim Von Durkan Einzahlung
+5000 Gold
+03.04.2017 15:08 Dori Drachenzahn Einzahlung
+7000 Gold
+02.04.2017 20:59 Gwudnyc Einzahlung
+1000 Gold
+01.04.2017 22:56 Elmo Einzahlung
+15000 Gold
+01.04.2017 14:00 Xiatax Einzahlung
+1914 Gold
+01.04.2017 13:44 Elazia Kapp Einzahlung
+5000 Gold
+01.04.2017 13:11 Gwudnyc Gildendarstellung bearbeitet.
+01.04.2017 13:09 Gwudnyc Gildendarstellung bearbeitet.
+01.04.2017 13:05 Gwudnyc Gildendarstellung bearbeitet.
+01.04.2017 13:02 Gwudnyc Gildendarstellung bearbeitet.
+01.04.2017 13:01 Gwudnyc Gildendarstellung bearbeitet.
+01.04.2017 11:13 Gwudnyc Änderung (Nojheim Von Durkan)
+Neuer Rang: Stellv. Gildenleiter
+Neues Transaktionslimit: 400000
+Neuer Titel: Lagerverwalter
+14.04.2017 12:09 Xiatax Einzahlung
+3091 Gold
+14.04.2017 12:00 Gwudnyc Gwudnyc hat die Gilde verlassen.
+14.04.2017 12:00 Gwudnyc Nojheim Von Durkan wurde zum neuen Gildenleiter ernannt.
+14.04.2017 00:00 Schahanschah Einzahlung
+7000 Gold
+13.04.2017 12:23 Gwudnyc Einzahlung
+2000 Gold
+12.04.2017 21:06 Göttin Einzahlung
+5000 Gold
+12.04.2017 15:40 Dori Drachenzahn Einzahlung
+8000 Gold
+11.04.2017 20:10 Elmo Einzahlung
+10000 Gold
+11.04.2017 15:24 Nojheim Von Durkan Neue Haltung zu [Blutmond]: Freund
+11.04.2017 14:21 Nojheim Von Durkan Einzahlung
+5000 Gold
+11.04.2017 12:18 Schahanschah Einzahlung
+9000 Gold
+10.04.2017 19:37 Gwudnyc Einzahlung
+2000 Gold
+09.04.2017 20:59 Lysendria Einzahlung
+10000 Gold
+09.04.2017 12:57 Eloysius Rotzineck Entnahme
+200000 Gold
+09.04.2017 00:23 Gwudnyc Neue Haltung zu [Dunkelheit]: Freund
+08.04.2017 20:44 Elmo Einzahlung
+13000 Gold
+08.04.2017 15:57 Ragbald Einzahlung
+4500 Gold
+08.04.2017 11:33 Gwudnyc Neue Haltung zu [Dunkelheit]: Verbündet
+07.04.2017 16:17 Gwudnyc Einzahlung
+2000 Gold
+07.04.2017 11:37 Ragbald Einzahlung
+4000 Gold
+25.04.2017 13:30 Ragbald Einzahlung
+5000 Gold
+25.04.2017 10:07 Schahanschah Einzahlung
+7000 Gold
+24.04.2017 20:01 Fin Einzahlung
+8000 Gold
+24.04.2017 14:42 Nojheim Von Durkan Einzahlung
+5000 Gold
+24.04.2017 14:42 Nojheim Von Durkan Einzahlung
+1578 Gold
+22.04.2017 18:17 Nojheim Von Durkan Einzahlung
+2104 Gold
+22.04.2017 11:36 Bomdivash Gemmenauge Einzahlung
+10000 Gold
+21.04.2017 19:23 Elmo Einzahlung
+10000 Gold
+21.04.2017 11:41 Schahanschah Einzahlung
+9000 Gold
+21.04.2017 08:14 Dori Drachenzahn Einzahlung
+9000 Gold
+20.04.2017 11:16 Nojheim Von Durkan Entnahme
+75200 Gold
+19.04.2017 13:49 Ragbald Einzahlung
+5900 Gold
+19.04.2017 11:30 Schahanschah Einzahlung
+9000 Gold
+18.04.2017 18:12 Alessia Einzahlung
+10000 Gold
+18.04.2017 12:09 Nojheim Von Durkan Entnahme
+20880 Gold
+18.04.2017 12:00 Bomdivash Gemmenauge Einzahlung
+9000 Gold
+18.04.2017 11:49 Nojheim Von Durkan Einzahlung
+5000 Gold
+17.04.2017 22:24 Eloysius Rotzineck Umbuchung
+Gildenkasse: -250000 Gold
+Stadtkasse: +250000 Gold
+17.04.2017 12:55 Fin Einzahlung
+9000 Gold
+17.04.2017 12:43 Julia Einzahlung
+5000 Gold
+25.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+27.04.2017 07:36 Dori Drachenzahn Entnahme
+15 Wolltuch
+9 Leder
+27.04.2017 00:00 Gebäudeverfall Gesamt 242 Strukturpunkte
+26.04.2017 23:59 Baumeister 172 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+172 Gold entnommen
+26.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+26.04.2017 18:59 Julia Entnahme
+96 Granitharz
+26.04.2017 18:59 Julia Entnahme
+120 Eschenholz
+26.04.2017 18:57 Julia Entnahme
+600 Mondessenz +1
+26.04.2017 18:55 Julia Einlagerung
+39 Sternenstaub
+10 Schattenstaub
+29 Mondstaub
+12 Magiestaub
+11 Todesstaub
+1 Leinen
+1 Wolle
+1 Seide
+1 Ätherfäden
+1 Pelze
+1 Hartpelz
+1 Riesenhaut
+1 Drachenhaut
+4 Eschenholz
+8 Buchenholz
+26.04.2017 18:40 Alessia Einlagerung
+31 Mondstaub
+45 Sternenstaub
+22 Schattenstaub
+11 Todesstaub
+12 Magiestaub
+2 Leinen
+2 Seide
+1 Ätherfäden
+1 Weichpelze
+1 Drachenhaut
+1 Baumwolle
+26.04.2017 17:47 Hardsequencer Einlagerung
+15 Magiestaub
+20 Todesstaub
+20 Schattenstaub
+26 Mondstaub
+44 Sternenstaub
+2 Leinen
+2 Ätherfäden
+1 Riesenhaut
+1 Wolle
+6 Marmor
+26.04.2017 13:39 Nojheim Von Durkan Entnahme
+600 Magieessenz
+26.04.2017 13:08 Bomdivash Gemmenauge Einlagerung
+44 Sternenstaub
+19 Schattenstaub
+26 Mondstaub
+13 Magiestaub
+17 Todesstaub
+1 Leinen
+1 Seide
+1 Pelze
+1 Riesenhaut
+1 Wolle
+1 Ätherfäden
+26.04.2017 13:07 Ragbald Entnahme
+45 Birkenholz
+45 Eichenholz
+26.04.2017 13:07 Ragbald Entnahme
+18 Harz
+18 Granitharz
+26.04.2017 12:10 Elazia Kapp Einlagerung
+1 Leinen
+1 Weichpelze
+14 Magiestaub
+1 Wolle
+9 Todesstaub
+1 Baumwolle
+14 Schattenstaub
+2 Seide
+1 Ätherfäden
+1 Drachenhaut
+26.04.2017 11:58 Schahanschah Entnahme
+16 Drachenzunder
+26.04.2017 11:58 Schahanschah Einlagerung
+40 Sorandilbarren
+26.04.2017 10:30 Nojheim Von Durkan Gebührenänderung
+Schmiede IV: 6 Plätze, 30 Gold
+26.04.2017 00:00 Gebäudeverfall Gesamt 224 Strukturpunkte
+25.04.2017 23:59 Baumeister 180 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+195 Gold entnommen
+27.04.2017 20:00 Eloysius Rotzineck Einlagerung
+10 Schattenstaub
+29 Mondstaub
+6 Sternenstaub
+11 Magiestaub
+9 Todesstaub
+1 Pelze
+1 Riesenhaut
+2 Wolle
+1 Baumwolle
+1 Ätherfäden
+1 Seide
+1 Drachenhaut
+27.04.2017 16:00 Julia Einlagerung
+24 Granitharz
+3 Eibenholz
+80 Eschenbretter
+27.04.2017 15:58 Hardsequencer Entnahme
+1 Sorandil-Kettenbeinlinge (100) +1
+27.04.2017 15:58 Hardsequencer Einlagerung
+31 Marmor
+5 Sandstein
+27.04.2017 13:31 Xiatax Einlagerung
+38 Mondstaub
+11 Todesstaub
+12 Sternenstaub
+15 Magiestaub
+14 Schattenstaub
+27.04.2017 12:26 Elazia Kapp Entnahme
+50 Magiesplitter
+40 Phasenkraut
+27.04.2017 12:26 Elazia Kapp Entnahme
+80 Mondstaub
+27.04.2017 12:25 Elazia Kapp Einlagerung
+3400 Mondessenz +1
+27.04.2017 10:40 Nojheim Von Durkan Einlagerung
+40 Mondstaub
+13 Todesstaub
+12 Sternenstaub
+15 Magiestaub
+1 Gladius (19)
+13 Schattenstaub
+1 Stachelschild (24)
+1 Riesenhaut
+2 Seide
+2 Ätherfäden
+1 Baumwolle
+1 Weichpelze
+1 Hartpelz
+1 Drachenhaut
+27.04.2017 08:48 Bomdivash Gemmenauge Entnahme
+30 Improvisierte Leinenbinde +1
+27.04.2017 08:47 Bomdivash Gemmenauge Entnahme
+1000 Todesessenz +1
+27.04.2017 08:11 Alessia Einlagerung
+1 Kriegsbogen (64)
+1 Kriegsbogen (6)
+1 Baumwoll-Robe (53)
+1 Hartleder-Stulpen (61) +1
+1 Hartleder-Beinlinge (94)
+1 Hartleder-Stiefel (91)
+1 Riesenleder-Haube (92)
+1 Riesenleder-Wappenrock (93)
+1 Dornenschild (67)
+27.04.2017 08:07 Alessia Entnahme
+75 Einfacher Wollverband +1
+27.04.2017 07:48 Dori Drachenzahn Einlagerung
+1 Leinen
+1 Pelze
+1 Todesstaub
+1 Baumwolle
+3 Hartpelz
+23 Schattenstaub
+1 Seide
+1 Riesenhaut
+27.04.2017 07:44 Dori Drachenzahn Entnahme
+50 Einfacher Wollverband +1
+27.04.2017 07:43 Dori Drachenzahn Entnahme
+1 Äther-Robe (16)
+27.04.2017 07:42 Dori Drachenzahn Entnahme
+1 Seiden-Stulpen (24)
+27.04.2017 07:41 Dori Drachenzahn Entnahme
+1 Luft-Eschenstab (20)
+27.04.2017 07:40 Dori Drachenzahn Entnahme
+36 Nähgarn
+27.04.2017 07:37 Dori Drachenzahn Entnahme
+36 Nähgarn
+29.04.2017 00:00 Gebäudeverfall Gesamt 322 Strukturpunkte
+28.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+28.04.2017 23:59 Baumeister 235 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+3 Granitziegel entnommen 
+3 Eschenbretter entnommen 
+299 Gold entnommen
+28.04.2017 22:27 Julia Einlagerung
+24 Mondstaub
+22 Schattenstaub
+58 Sternenstaub
+17 Todesstaub
+18 Magiestaub
+1 Perlmutt
+1 Schlangendolch (24)
+7 Eibenholz
+5 Buchenholz
+5 Eichenholz
+28.04.2017 17:35 Fin Einlagerung
+119 Magiestaub
+116 Todesstaub
+121 Schattenstaub
+217 Mondstaub
+353 Sternenstaub
+28.04.2017 12:21 Nojheim Von Durkan Einlagerung
+1 Seiden-Handschuhe (1)
+1 Seiden-Tunika (3) +1
+28.04.2017 12:20 Nojheim Von Durkan Entnahme
+1 Seiden-Tunika (20)
+1 Seiden-Stulpen (17)
+28.04.2017 12:18 Nojheim Von Durkan Entnahme
+600 Magieessenz
+28.04.2017 12:10 Elazia Kapp Entnahme
+70 Magiesplitter
+40 Phasenkraut
+28.04.2017 12:07 Elazia Kapp Einlagerung
+17 Magiestaub
+24 Todesstaub
+20 Schattenstaub
+28.04.2017 10:21 Alessia Einlagerung
+53 Sternenstaub
+22 Magiestaub
+21 Todesstaub
+37 Mondstaub
+24 Schattenstaub
+28.04.2017 10:13 Ragbald Einlagerung
+45 Birkenbretter
+45 Eichenbretter
+28.04.2017 09:37 Bomdivash Gemmenauge Entnahme
+1000 Todesessenz +1
+28.04.2017 08:42 Bomdivash Gemmenauge Einlagerung
+25 Mondstaub
+18 Schattenstaub
+53 Sternenstaub
+18 Todesstaub
+17 Magiestaub
+28.04.2017 08:09 Hardsequencer Entnahme
+200 Drachenzunder
+28.04.2017 08:06 Hardsequencer Entnahme
+220 Marmor
+28.04.2017 08:03 Hardsequencer Einlagerung
+18 Magiestaub
+24 Schattenstaub
+32 Mondstaub
+50 Sternenstaub
+16 Todesstaub
+28.04.2017 00:00 Gebäudeverfall Gesamt 281 Strukturpunkte
+27.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+27.04.2017 23:59 Baumeister 220 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+266 Gold entnommen
+30.04.2017 23:59 Baumeister 187 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+231 Gold entnommen
+30.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+30.04.2017 18:43 Julia Einlagerung
+1 Luft-Eibenlanze (3)
+11 Magiestaub
+56 Sternenstaub
+25 Mondstaub
+17 Todesstaub
+13 Schattenstaub
+1 Luft-Eschenstab (18)
+1 Luft-Eschenstab (20)
+4 Eibenholz
+5 Eschenholz
+30.04.2017 12:15 Eloysius Rotzineck Entnahme
+300 Todesstaub
+30.04.2017 12:10 Nojheim Von Durkan Entnahme
+500 Magieessenz
+30.04.2017 12:07 Nojheim Von Durkan Einlagerung
+9 Magiestaub
+34 Mondstaub
+2 Weichpelze
+3 Pelze
+6 Riesenhaut
+3 Leinen
+8 Baumwolle
+6 Seide
+4 Drachenhaut
+6 Sternenstaub
+3 Wolle
+7 Todesstaub
+8 Schattenstaub
+4 Hartpelz
+30.04.2017 10:54 Bomdivash Gemmenauge Einlagerung
+14 Magiestaub
+55 Sternenstaub
+24 Mondstaub
+14 Todesstaub
+15 Schattenstaub
+30.04.2017 10:34 Hardsequencer Einlagerung
+16 Schattenstaub
+55 Sternenstaub
+27 Mondstaub
+13 Magiestaub
+8 Todesstaub
+30.04.2017 10:17 Elazia Kapp Einlagerung
+15 Todesstaub
+15 Schattenstaub
+12 Magiestaub
+30.04.2017 00:00 Gebäudeverfall Gesamt 220 Strukturpunkte
+29.04.2017 23:59 Baumeister 275 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+3 Granitziegel entnommen 
+3 Eschenbretter entnommen 
+351 Gold entnommen
+29.04.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+29.04.2017 22:33 Eloysius Rotzineck Entnahme
+1000 Magieessenz
+29.04.2017 15:30 Julia Entnahme
+800 Mondessenz +1
+29.04.2017 15:30 Julia Einlagerung
+10 Eibenholz
+7 Birkenholz
+29.04.2017 14:23 Ahn Wirrblick Entnahme
+1000 Pfeile +1
+29.04.2017 12:44 Eloysius Rotzineck Einlagerung
+8 Riesenhaut
+4 Leinen
+5 Wolle
+7 Seide
+1 Ätherfäden
+10 Schattenstaub
+33 Mondstaub
+5 Sternenstaub
+7 Baumwolle
+8 Todesstaub
+5 Pelze
+3 Weichpelze
+3 Drachenhaut
+1 Hartpelz
+8 Magiestaub
+29.04.2017 12:17 Elazia Kapp Einlagerung
+2900 Mondessenz +1
+29.04.2017 10:18 Xiatax Einlagerung
+13 Magiestaub
+13 Todesstaub
+9 Schattenstaub
+33 Mondstaub
+7 Sternenstaub
+29.04.2017 07:51 Alessia Einlagerung
+21 Buchenholz
+30.04.2017 11:58 Xiatax Einzahlung
+1825 Gold
+28.04.2017 12:18 Nojheim Von Durkan Einzahlung
+1578 Gold
+27.04.2017 08:06 Alessia Einzahlung
+10000 Gold
+26.04.2017 21:17 Lysendria Einzahlung
+1 Gold
+26.04.2017 21:17 Lysendria Einzahlung
+9999 Gold
+26.04.2017 13:40 Nojheim Von Durkan Einzahlung
+1578 Gold

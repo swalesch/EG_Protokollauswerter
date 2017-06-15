@@ -1,0 +1,4233 @@
+01.04.2017 11:08 Nojheim Von Durkan Einlagerung
+700 Kupferbarren
+168 Leinentuch
+347 Weichleder
+99 Eisenerz
+52 Birkenbretter
+824 Wolle
+293 Wolltuch
+353 Leder
+01.04.2017 11:07 Nojheim Von Durkan Entnahme
+168 Leinentuch
+347 Weichleder
+99 Eisenerz
+52 Birkenbretter
+824 Wolle
+293 Wolltuch
+353 Leder
+01.04.2017 11:07 Nojheim Von Durkan Entnahme
+700 Kupferbarren
+01.04.2017 11:07 Nojheim Von Durkan Einlagerung ins Gildenlager von [Boten]
+1 Smaragd
+01.04.2017 11:06 Nojheim Von Durkan Einlagerung
+1 Pelze
+13 Magiestaub
+13 Todesstaub
+16 Schattenstaub
+40 Mondstaub
+12 Sternenstaub
+1 Weichpelze
+2 Seide
+01.04.2017 00:00 Gebäudeverfall Gesamt 231 Strukturpunkte
+31.03.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+31.03.2017 23:59 Baumeister 113 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Marmorziegel entnommen 
+2 Eibenbretter entnommen 
+113 Gold entnommen
+31.03.2017 22:29 Elazia Kapp Entnahme
+13 Schattenstaub
+31.03.2017 19:48 Eloysius Rotzineck Entnahme
+100 Magiesplitter
+31.03.2017 19:48 Eloysius Rotzineck Entnahme
+200 Todesstaub
+31.03.2017 19:47 Eloysius Rotzineck Entnahme
+1000 Todesessenz +1
+31.03.2017 19:46 Eloysius Rotzineck Einlagerung
+1 Wasser-Runenstab (100) +1
+1 Erde-Runenstab (100) +1
+1 Luft-Runenstab (100) +1
+31.03.2017 16:32 Alessia Einlagerung
+14 Todesstaub
+13 Schattenstaub
+15 Mondstaub
+3 Pelze
+3 Leinen
+2 Baumwolle
+3 Seide
+6 Ätherfäden
+4 Weichpelze
+4 Hartpelz
+9 Drachenhaut
+5 Magiestaub
+18 Sternenstaub
+1 Wolle
+2 Riesenhaut
+3 Buchenholz
+31.03.2017 14:58 Julia Entnahme
+800 Todesessenz +1
+31.03.2017 12:18 Elazia Kapp Entnahme
+38 Magiesplitter
+11 Phasenkraut
+31.03.2017 12:18 Elazia Kapp Entnahme
+44 Schattenstaub
+31.03.2017 12:17 Elazia Kapp Einlagerung
+2 Pelze
+9 Drachenhaut
+3 Leinen
+3 Seide
+3 Weichpelze
+2 Hartpelz
+7 Magiestaub
+4 Ätherfäden
+2 Riesenhaut
+31.03.2017 11:54 Ragbald Entnahme
+27 Harz
+8 Granitharz
+31.03.2017 09:23 Julia Einlagerung
+1 Luft-Runenstab (65) +1
+2 Leinen
+1 Weichpelze
+7 Magiestaub
+1 Wolle
+2 Pelze
+9 Todesstaub
+1 Baumwolle
+2 Hartpelz
+12 Schattenstaub
+4 Seide
+2 Riesenhaut
+14 Mondstaub
+5 Ätherfäden
+10 Drachenhaut
+14 Sternenstaub
+31.03.2017 09:01 Bomdivash Gemmenauge Einlagerung
+10 Todesstaub
+13 Mondstaub
+9 Drachenhaut
+3 Seide
+6 Ätherfäden
+3 Hartpelz
+9 Magiestaub
+11 Schattenstaub
+13 Sternenstaub
+2 Wolle
+2 Leinen
+3 Weichpelze
+5 Riesenhaut
+3 Baumwolle
+3 Pelze
+31.03.2017 09:00 Hardsequencer Einlagerung
+10 Todesstaub
+13 Schattenstaub
+11 Mondstaub
+10 Drachenhaut
+3 Leinen
+2 Baumwolle
+3 Seide
+4 Ätherfäden
+3 Weichpelze
+5 Magiestaub
+19 Sternenstaub
+2 Pelze
+2 Wolle
+4 Hartpelz
+2 Riesenhaut
+31.03.2017 06:44 Schahanschah Entnahme
+1000 Schattenessenz +1
+31.03.2017 00:00 Gebäudeverfall Gesamt 229 Strukturpunkte
+30.03.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+30.03.2017 23:59 Baumeister 110 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Marmorziegel entnommen 
+2 Eibenbretter entnommen 
+110 Gold entnommen
+30.03.2017 22:54 Nojheim Von Durkan Einlagerung
+1 Speer [2H] (100) +1
+1 Bauernsense [2H] (100) +1
+1 Jagdspeer [2H] (100) +1
+1 Sense [2H] (100) +1
+1 Kompositbogen (100) +1
+1 Weichleder-Haube (100) +1
+1 Weichleder-Harnisch (100) +1
+1 Weichleder-Stulpen (100) +1
+1 Weichleder-Beinlinge (100) +1
+1 Weichleder-Stiefel (100) +1
+1 Leder-Haube (100) +1
+1 Leder-Wappenrock (100) +1
+1 Leder-Hose (100) +1
+1 Leder-Schuhe (100) +1
+1 Lederschild (100) +1
+1 Tartsche (100) +1
+30.03.2017 22:54 Nojheim Von Durkan Entnahme
+1 Lederschild (100) +1
+1 Tartsche (100) +1
+30.03.2017 22:53 Nojheim Von Durkan Entnahme
+1 Weichleder-Harnisch (100) +1
+1 Weichleder-Stulpen (100) +1
+1 Weichleder-Beinlinge (100) +1
+1 Weichleder-Stiefel (100) +1
+1 Leder-Haube (100) +1
+1 Leder-Wappenrock (100) +1
+1 Leder-Hose (100) +1
+1 Leder-Schuhe (100) +1
+30.03.2017 22:53 Nojheim Von Durkan Entnahme
+1 Weichleder-Haube (100) +1
+30.03.2017 22:53 Nojheim Von Durkan Entnahme
+1 Speer [2H] (100) +1
+1 Bauernsense [2H] (100) +1
+1 Jagdspeer [2H] (100) +1
+1 Sense [2H] (100) +1
+1 Kompositbogen (100) +1
+30.03.2017 22:03 Hardsequencer Einlagerung ins Gildenlager von [Boten]
+1 Marmor-Mauerstück
+2 Eiben-Dachkonstrukt
+30.03.2017 21:18 Eloysius Rotzineck Umbuchung
+Gildenkasse: -200000 Gold
+Stadtkasse: +200000 Gold
+30.03.2017 21:16 Eloysius Rotzineck Einlagerung ins Gildenlager von [Boten]
+1 Jaspis
+30.03.2017 21:15 Eloysius Rotzineck Einlagerung
+1 Leinen
+4 Weichpelze
+6 Magiestaub
+2 Wolle
+2 Pelze
+5 Todesstaub
+5 Baumwolle
+7 Hartpelz
+8 Schattenstaub
+6 Seide
+6 Riesenhaut
+14 Mondstaub
+1 Ätherfäden
+3 Drachenhaut
+4 Sternenstaub
+1 Wasser-Runenstab (100) +1
+30.03.2017 15:22 Xiatax Einlagerung
+300 Magiesplitter
+140 Phasenkraut
+200 Mörtel
+88 Pfeilharz
+30.03.2017 15:18 Xiatax Einlagerung
+50 Magiesplitter
+14 Phasenkraut
+30.03.2017 14:22 Dori Drachenzahn Einlagerung
+2 Weichpelze
+1 Magiestaub
+2 Wolle
+2 Pelze
+1 Todesstaub
+1 Baumwolle
+5 Hartpelz
+5 Riesenhaut
+30.03.2017 14:16 Alessia Einlagerung
+4 Buchenholz
+35 Buchenbretter
+30.03.2017 13:45 Gwudnyc Entnahme
+1000 Todesessenz +1
+30.03.2017 13:43 Gwudnyc Entnahme
+10 Weichleder-Harnisch (100) +1
+30.03.2017 13:42 Gwudnyc Entnahme aus dem Gildenlager von [Boten]
+1 Diamant-Armbrust (Plan)
+30.03.2017 13:41 Gwudnyc Entnahme
+60 Improvisierte Leinenbinde +1
+30.03.2017 13:41 Gwudnyc Entnahme
+2 Woll-Robe (100) +1
+1 Seiden-Hose (13)
+1 Seiden-Spitzhut (1) +1
+30.03.2017 13:39 Gwudnyc Entnahme
+1 Gladius (20)
+1 Dolch (37)
+1 Schlangendolch (21)
+1 Schlangendolch (18)
+1 Kriegsarmbrust (20)
+30.03.2017 12:46 Hardsequencer Einlagerung
+15 Marmorziegel
+4 Marmor
+30.03.2017 12:45 Julia Einlagerung
+17 Eibenholz
+15 Eibenbretter
+6 Birkenholz
+30.03.2017 12:42 Elazia Kapp Einlagerung
+345 Todesessenz +1
+30.03.2017 12:40 Elazia Kapp Entnahme
+11 Schattenstaub
+30.03.2017 12:16 Nojheim Von Durkan Entnahme
+500 Todesessenz +1
+30.03.2017 12:16 Nojheim Von Durkan Einlagerung
+4 Pelze
+8 Hartpelz
+12 Riesenhaut
+23 Mondstaub
+10 Magiestaub
+9 Todesstaub
+6 Sternenstaub
+11 Schattenstaub
+4 Weichpelze
+2 Leinen
+9 Seide
+1 Ätherfäden
+3 Baumwolle
+2 Drachenhaut
+1 Riesenleder-Handschuhe (21)
+1 Wolle
+30.03.2017 12:03 Bomdivash Gemmenauge Einlagerung
+5 Kalkstein
+5 Sandstein
+30.03.2017 11:17 Elazia Kapp Einlagerung
+1000 Schattenessenz +1
+30.03.2017 11:16 Elazia Kapp Entnahme
+7 Schattenstaub
+30.03.2017 07:45 Hardsequencer Entnahme
+12 Drachenzunder
+30.03.2017 07:45 Hardsequencer Entnahme
+15 Marmor
+30.03.2017 07:44 Hardsequencer Einlagerung
+6 Weichpelze
+8 Wolle
+5 Baumwolle
+6 Seide
+13 Ätherfäden
+21 Drachenhaut
+5 Pelze
+6 Hartpelz
+7 Riesenhaut
+5 Todesstaub
+15 Sternenstaub
+3 Schattenstaub
+6 Mondstaub
+4 Magiestaub
+2 Leinen
+17 Marmor
+6 Schiefer
+1 Granit
+30.03.2017 00:00 Gebäudeverfall Gesamt 273 Strukturpunkte
+29.03.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+29.03.2017 21:06 Lysendria Entnahme
+40 Improvisierte Leinenbinde +1
+29.03.2017 21:05 Lysendria Entnahme
+1000 Todesessenz +1
+29.03.2017 20:57 Gwudnyc Einlagerung
+50 Improvisierte Leinenbinde +1
+29.03.2017 20:57 Gwudnyc Einlagerung
+50 Improvisierte Leinenbinde +1
+29.03.2017 20:19 Eloysius Rotzineck Entnahme
+300 Drachenhaut
+300 Sternenstaub
+29.03.2017 20:16 Eloysius Rotzineck Entnahme
+2 Luft-Runenstab (100) +1
+1 Luft-Eschenstab (6)
+1 Luft-Eschenstab (6) +1
+29.03.2017 20:16 Eloysius Rotzineck Entnahme
+3 Erde-Runenstab (100) +1
+29.03.2017 20:15 Eloysius Rotzineck Entnahme
+200 Ätherfäden
+30 Drachenhaut
+40 Sternenstaub
+29.03.2017 20:11 Eloysius Rotzineck Entnahme
+60 Magiesplitter
+29.03.2017 20:11 Eloysius Rotzineck Entnahme
+70 Birkenbretter
+29.03.2017 20:07 Göttin Entnahme
+50 Magiesplitter
+10 Phasenkraut
+29.03.2017 19:53 Dori Drachenzahn Entnahme
+3 Phasenkraut
+29.03.2017 19:51 Dori Drachenzahn Entnahme
+2000 Todesessenz +1
+29.03.2017 19:31 Dori Drachenzahn Einlagerung ins Gildenlager von [Boten]
+1 Achat
+1 Saphir
+1 Kristall-Plattenstiefel (Plan)
+29.03.2017 19:26 Elmo Einlagerung
+5 Wolle
+14 Ätherfäden
+22 Drachenhaut
+6 Pelze
+9 Hartpelz
+6 Riesenhaut
+6 Magiestaub
+14 Sternenstaub
+5 Weichpelze
+6 Todesstaub
+4 Schattenstaub
+5 Mondstaub
+5 Baumwolle
+4 Leinen
+5 Seide
+29.03.2017 19:07 Elazia Kapp Entnahme
+11 Schattenstaub
+29.03.2017 18:59 Gwudnyc Entnahme
+1 Todesessenz +1
+29.03.2017 18:59 Gwudnyc Entnahme
+12 Todesessenz +1
+29.03.2017 18:59 Gwudnyc Entnahme
+40 Todesessenz +1
+29.03.2017 18:59 Gwudnyc Entnahme
+4 Todesessenz +1
+29.03.2017 18:59 Gwudnyc Entnahme
+300 Todesessenz +1
+29.03.2017 18:19 Julia Entnahme
+12 Granitharz
+29.03.2017 18:19 Julia Entnahme
+15 Eibenholz
+29.03.2017 18:18 Julia Entnahme
+780 Schattenessenz +1
+29.03.2017 18:17 Julia Einlagerung
+10 Hartpelz
+9 Riesenhaut
+4 Leinen
+14 Ätherfäden
+6 Pelze
+6 Wolle
+4 Seide
+24 Drachenhaut
+3 Magiestaub
+11 Sternenstaub
+3 Weichpelze
+6 Todesstaub
+6 Schattenstaub
+3 Mondstaub
+2 Baumwolle
+5 Eibenholz
+9 Eschenholz
+29.03.2017 18:08 Gwudnyc Einlagerung
+50 Improvisierte Leinenbinde +1
+29.03.2017 18:06 Gwudnyc Entnahme
+5 Feuer-Runenstab (100) +1
+29.03.2017 18:05 Gwudnyc Einlagerung
+200 Pelze
+376 Todesstaub
+29.03.2017 18:04 Gwudnyc Einlagerung
+150 Baumwolltuch
+200 Hartleder
+29.03.2017 17:37 Gwudnyc Entnahme
+2 Kurzschwert (100) +1
+29.03.2017 17:20 Gwudnyc Einlagerung
+2 Leinentuch
+8 Wolltuch
+34 Nähgarn
+29.03.2017 17:19 Gwudnyc Entnahme
+100 Nähgarn
+29.03.2017 17:19 Gwudnyc Entnahme
+7 Leinentuch
+3 Weichleder
+50 Wolltuch
+29.03.2017 15:36 Göttin Einlagerung
+230 Todesessenz +1
+29.03.2017 15:35 Göttin Einlagerung
+1 Leinen
+5 Weichpelze
+9 Magiestaub
+1 Wolle
+5 Pelze
+6 Baumwolle
+13 Hartpelz
+6 Seide
+3 Riesenhaut
+25 Mondstaub
+800 Magieessenz +1
+29.03.2017 15:26 Dori Drachenzahn Einlagerung
+115 Todesessenz +1
+29.03.2017 12:34 Bomdivash Gemmenauge Einlagerung
+10 Hartpelz
+8 Riesenhaut
+13 Ätherfäden
+8 Pelze
+7 Wolle
+4 Seide
+24 Drachenhaut
+4 Weichpelze
+1 Magiestaub
+12 Sternenstaub
+4 Todesstaub
+5 Schattenstaub
+2 Mondstaub
+2 Leinen
+2 Baumwolle
+29.03.2017 12:07 Elazia Kapp Entnahme
+11 Schattenstaub
+29.03.2017 12:06 Elazia Kapp Einlagerung
+5 Weichpelze
+5 Wolle
+7 Baumwolle
+5 Seide
+13 Ätherfäden
+22 Drachenhaut
+5 Pelze
+7 Hartpelz
+7 Riesenhaut
+5 Magiestaub
+4 Leinen
+29.03.2017 09:38 Dori Drachenzahn Entnahme
+35 Magiesplitter
+24 Phasenkraut
+29.03.2017 09:32 Dori Drachenzahn Entnahme
+2 Schattenstaub
+29.03.2017 09:31 Dori Drachenzahn Einlagerung
+10 Riesenhaut
+5 Leinen
+6 Wolle
+20 Drachenhaut
+10 Hartpelz
+6 Pelze
+13 Ätherfäden
+7 Magiestaub
+12 Sternenstaub
+5 Weichpelze
+6 Todesstaub
+3 Seide
+3 Baumwolle
+1 Adamant-Plattenbeinlinge (17)
+1 Äther-Tunika (17)
+29.03.2017 08:48 Alessia Einlagerung
+30 Buchenbretter
+29.03.2017 00:00 Gebäudeverfall Gesamt 172 Strukturpunkte
+28.03.2017 23:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+28.03.2017 23:59 Baumeister 78 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Marmorziegel entnommen 
+2 Eibenbretter entnommen 
+78 Gold entnommen
+28.03.2017 20:39 Dori Drachenzahn Entnahme aus dem Gildenlager von [Boten]
+1 Smaragd-Schwert (Plan)
+28.03.2017 19:00 Elmo Einlagerung
+16 Kupfererz
+302 Eisenerz
+185 Eisenbarren
+23 Sorandilerz
+100 Sorandilbarren
+17 Drachenzunder
+28.03.2017 18:30 Eloysius Rotzineck Einlagerung
+6 Schattenstaub
+7 Weichpelze
+6 Drachenhaut
+8 Magiestaub
+17 Mondstaub
+1 Wolle
+4 Seide
+5 Sternenstaub
+5 Pelze
+3 Riesenhaut
+2 Todesstaub
+1 Leinen
+3 Baumwolle
+12 Hartpelz
+345 Todesessenz +1
+28.03.2017 18:29 Xiatax Einlagerung
+79 Mörtel
+28.03.2017 15:15 Nojheim Von Durkan Entnahme
+500 Todesessenz +1
+28.03.2017 15:14 Nojheim Von Durkan Einlagerung
+8 Magiestaub
+11 Todesstaub
+7 Schattenstaub
+17 Mondstaub
+2 Leinen
+4 Wolle
+6 Baumwolle
+3 Seide
+1 Pavese (16)
+4 Pelze
+6 Hartpelz
+1 Riesenhaut
+7 Drachenhaut
+3 Sternenstaub
+3 Weichpelze
+28.03.2017 13:30 Hardsequencer Entnahme
+9 Eibenbretter
+28.03.2017 13:29 Hardsequencer Einlagerung
+2 Marmor
+2 Marmorziegel
+28.03.2017 13:27 Julia Einlagerung
+6 Birkenholz
+9 Eibenholz
+15 Eibenbretter
+28.03.2017 12:33 Elazia Kapp Einlagerung
+100 Gute Baumwollbinde +1
+250 Schattenessenz +1
+28.03.2017 12:33 Elazia Kapp Entnahme
+7 Baumwolltuch
+4 Hartleder
+28.03.2017 12:32 Elazia Kapp Entnahme
+6 Phasenkraut
+28.03.2017 12:31 Elazia Kapp Entnahme
+30 Schattenstaub
+28.03.2017 12:30 Elazia Kapp Einlagerung
+690 Todesessenz +1
+530 Schattenessenz +1
+28.03.2017 12:28 Elazia Kapp Entnahme
+26 Schattenstaub
+28.03.2017 12:12 Dori Drachenzahn Einlagerung
+100 Gute Baumwollbinde +1
+28.03.2017 11:56 Bomdivash Gemmenauge Einlagerung
+14 Kalkstein
+28.03.2017 08:00 Hardsequencer Entnahme
+2 Edelmörtel
+28.03.2017 07:22 Julia Entnahme
+12 Granitharz
+28.03.2017 07:21 Julia Entnahme
+11 Eibenholz
+28.03.2017 07:20 Hardsequencer Entnahme
+27 Eibenbretter
+28.03.2017 07:18 Hardsequencer Entnahme
+8 Drachenzunder
+28.03.2017 07:16 Hardsequencer Entnahme
+27 Marmorziegel
+28.03.2017 01:00 Gebäudeverfall Gesamt 270 Strukturpunkte
+28.03.2017 00:59 Baumeister 92 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Marmorziegel entnommen 
+2 Eibenbretter entnommen 
+92 Gold entnommen
+28.03.2017 00:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+27.03.2017 22:02 Julia Einlagerung
+9 Magiestaub
+13 Schattenstaub
+16 Mondstaub
+29 Sternenstaub
+7 Drachenhaut
+5 Ätherfäden
+10 Todesstaub
+2 Weichpelze
+4 Pelze
+2 Hartpelz
+1 Seide
+1 Baumwolle
+1 Wolle
+1 Riesenhaut
+6 Eibenholz
+1 Eichenholz
+27.03.2017 22:00 Hardsequencer Einlagerung
+2 Weichpelze
+9 Magiestaub
+5 Sandstein
+1 Wolle
+8 Todesstaub
+1 Baumwolle
+12 Schattenstaub
+19 Mondstaub
+7 Ätherfäden
+5 Drachenhaut
+29 Sternenstaub
+27.03.2017 21:58 Hardsequencer Entnahme
+16 Drachenzunder
+27.03.2017 21:58 Hardsequencer Entnahme
+12 Marmor
+27.03.2017 20:18 Dori Drachenzahn Entnahme
+12 Nähgarn
+27.03.2017 20:18 Dori Drachenzahn Entnahme
+3 Leder
+27.03.2017 20:18 Dori Drachenzahn Entnahme
+5 Wolltuch
+27.03.2017 20:16 Dori Drachenzahn Entnahme
+50 Magiesplitter
+27.03.2017 19:46 Elmo Einlagerung
+9 Magiestaub
+8 Todesstaub
+9 Schattenstaub
+33 Sternenstaub
+2 Leinen
+2 Wolle
+5 Ätherfäden
+18 Mondstaub
+2 Pelze
+5 Drachenhaut
+1 Riesenhaut
+2 Weichpelze
+27.03.2017 19:32 Eloysius Rotzineck Entnahme
+50 Todesstaub
+27.03.2017 19:31 Eloysius Rotzineck Entnahme
+60 Magiesplitter
+27.03.2017 19:29 Eloysius Rotzineck Einlagerung
+1035 Todesessenz +1
+27.03.2017 17:49 Göttin Einlagerung
+1300 Magieessenz +1
+27.03.2017 17:48 Göttin Entnahme
+2 Magiesplitter
+27.03.2017 17:48 Göttin Entnahme
+60 Magiestaub
+27.03.2017 16:33 Bomdivash Gemmenauge Entnahme
+30 Improvisierte Leinenbinde +1
+27.03.2017 16:06 Xiatax Einlagerung
+1 Pavese (100) +1
+27.03.2017 14:42 Nojheim Von Durkan Einlagerung
+8 Schattenstaub
+27.03.2017 13:38 Ragbald Einlagerung
+400 Jagdpfeile +1
+40 Jagdbolzen +1
+27.03.2017 12:19 Elazia Kapp Einlagerung
+11 Magiestaub
+5 Drachenhaut
+2 Wolle
+7 Ätherfäden
+1 Riesenhaut
+1 Baumwolle
+1 Weichpelze
+1 Pelze
+27.03.2017 10:17 Dori Drachenzahn Einlagerung
+8 Magiestaub
+7 Todesstaub
+28 Sternenstaub
+2 Leinen
+4 Ätherfäden
+3 Weichpelze
+6 Drachenhaut
+2 Pelze
+2 Hartpelz
+1 Baumwolle
+1 Wolle
+1 Riesenhaut
+27.03.2017 10:06 Bomdivash Gemmenauge Einlagerung
+8 Magiestaub
+14 Schattenstaub
+18 Mondstaub
+28 Sternenstaub
+4 Weichpelze
+5 Drachenhaut
+5 Ätherfäden
+10 Todesstaub
+2 Pelze
+1 Hartpelz
+1 Seide
+1 Baumwolle
+1 Wolle
+1 Riesenhaut
+27.03.2017 01:00 Gebäudeverfall Gesamt 284 Strukturpunkte
+27.03.2017 00:59 Baumeister 132 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Marmorziegel entnommen 
+2 Eibenbretter entnommen 
+132 Gold entnommen
+27.03.2017 00:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+26.03.2017 21:40 Nojheim Von Durkan Entnahme
+400 Todesessenz +1
+26.03.2017 21:33 Nojheim Von Durkan Entnahme
+8 Schattenstaub
+26.03.2017 21:32 Nojheim Von Durkan Einlagerung
+10 Riesenhaut
+7 Todesstaub
+22 Mondstaub
+6 Sternenstaub
+7 Magiestaub
+11 Baumwolle
+6 Hartpelz
+5 Drachenhaut
+5 Wolle
+11 Seide
+3 Pelze
+3 Leinen
+8 Schattenstaub
+3 Weichpelze
+2 Ätherfäden
+26.03.2017 16:57 Xiatax Entnahme
+1 Pavese (100) +1
+26.03.2017 16:22 Hardsequencer Entnahme
+80 Eibenbretter
+26.03.2017 16:22 Hardsequencer Einlagerung
+5 Kalkstein
+4 Marmor
+31 Marmorziegel
+26.03.2017 16:12 Julia Entnahme
+1500 Schattenessenz +1
+26.03.2017 16:11 Julia Einlagerung
+100 Eibenbretter
+2 Eibenholz
+26.03.2017 12:38 Xiatax Einlagerung
+200 Magiesplitter
+26 Salz
+26.03.2017 12:25 Ahn Wirrblick Entnahme
+50 Improvisierte Leinenbinde +1
+26.03.2017 12:12 Elazia Kapp Einlagerung
+200 Gute Baumwollbinde +1
+26.03.2017 12:12 Dori Drachenzahn Einlagerung
+50 Einfacher Wollverband +1
+500 Schattenessenz +1
+26.03.2017 12:09 Dori Drachenzahn Entnahme
+25 Magiesplitter
+26.03.2017 12:09 Elazia Kapp Entnahme
+7 Baumwolltuch
+4 Hartleder
+26.03.2017 12:09 Bomdivash Gemmenauge Einlagerung
+105 Schieferziegel
+26.03.2017 12:07 Elazia Kapp Entnahme
+14 Schattenstaub
+26.03.2017 12:06 Elazia Kapp Einlagerung
+690 Todesessenz +1
+26.03.2017 12:05 Alessia Einlagerung
+15 Buchenbretter
+26.03.2017 11:43 Schahanschah Entnahme
+1000 Schattenessenz +1
+26.03.2017 11:13 Göttin Einlagerung
+6 Leinen
+2 Weichpelze
+7 Magiestaub
+6 Wolle
+6 Pelze
+6 Todesstaub
+7 Baumwolle
+4 Hartpelz
+6 Schattenstaub
+8 Seide
+9 Riesenhaut
+21 Mondstaub
+2 Ätherfäden
+6 Drachenhaut
+5 Sternenstaub
+26.03.2017 10:53 Dori Drachenzahn Entnahme
+30 Magiesplitter
+25.03.2017 23:00 Gebäudeverfall Gesamt 219 Strukturpunkte
+25.03.2017 22:59 Baumeister 104 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Eibenbretter entnommen 
+104 Gold entnommen
+25.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+25.03.2017 20:38 Elmo Einlagerung
+50 Birkenbretter
+1 Leinen
+3 Wolle
+1 Baumwolle
+25.03.2017 19:05 Nojheim Von Durkan Entnahme
+600 Todesessenz +1
+25.03.2017 19:05 Nojheim Von Durkan Einlagerung
+26 Mondstaub
+12 Todesstaub
+6 Magiestaub
+8 Schattenstaub
+5 Sternenstaub
+1 Gladius (20)
+1 Weichpelze
+1 Hartpelz
+2 Riesenhaut
+25.03.2017 16:31 Ragbald Entnahme
+100 Federn
+25.03.2017 16:23 Dori Drachenzahn Einlagerung
+1 Luft-Eschenstab (6) +1
+1 Seiden-Hose (13)
+25.03.2017 16:02 Elazia Kapp Einlagerung
+5 Leinen
+7 Weichpelze
+4 Magiestaub
+3 Wolle
+5 Pelze
+8 Baumwolle
+9 Hartpelz
+7 Seide
+10 Riesenhaut
+11 Ätherfäden
+14 Drachenhaut
+25.03.2017 16:01 Elazia Kapp Entnahme
+25 Schattenstaub
+25.03.2017 15:51 Alessia Einlagerung
+7 Buchenholz
+5 Leinen
+8 Weichpelze
+1 Magiestaub
+4 Wolle
+8 Pelze
+5 Todesstaub
+7 Baumwolle
+9 Hartpelz
+8 Schattenstaub
+5 Seide
+12 Riesenhaut
+9 Mondstaub
+11 Ätherfäden
+11 Drachenhaut
+7 Sternenstaub
+25.03.2017 13:48 Dori Drachenzahn Einlagerung
+10 Sternenstaub
+7 Weichpelze
+9 Hartpelz
+14 Drachenhaut
+5 Pelze
+4 Leinen
+6 Baumwolle
+7 Seide
+3 Magiestaub
+6 Todesstaub
+4 Riesenhaut
+14 Ätherfäden
+1 Wolle
+25.03.2017 13:36 Göttin Einlagerung
+1 Weichpelze
+1 Hartpelz
+2 Riesenhaut
+28 Mondstaub
+800 Magieessenz +1
+25.03.2017 12:08 Julia Einlagerung
+14 Mondstaub
+11 Sternenstaub
+8 Hartpelz
+9 Riesenhaut
+14 Drachenhaut
+6 Pelze
+6 Leinen
+6 Baumwolle
+4 Seide
+7 Todesstaub
+13 Ätherfäden
+5 Weichpelze
+3 Magiestaub
+3 Schattenstaub
+1 Wolle
+25.03.2017 11:52 Gwudnyc Entnahme
+300 Todesessenz +1
+25.03.2017 11:50 Gwudnyc Einlagerung
+6 Leinentuch
+43 Wolltuch
+30 Nähgarn
+60 Improvisierte Leinenbinde +1
+25.03.2017 11:50 Gwudnyc Entnahme
+3 Weichleder
+25.03.2017 11:50 Gwudnyc Einlagerung
+3 Weichpelze
+25.03.2017 11:49 Gwudnyc Entnahme
+33 Nähgarn
+25.03.2017 11:49 Gwudnyc Entnahme
+11 Leinentuch
+3 Weichpelze
+25.03.2017 11:44 Lysendria Entnahme
+40 Salz
+25.03.2017 11:44 Lysendria Einlagerung
+45 Weichpelze
+25.03.2017 11:44 Lysendria Entnahme
+200 Weichpelze
+25.03.2017 11:41 Lysendria Entnahme
+20 Improvisierte Leinenbinde +1
+25.03.2017 11:41 Lysendria Entnahme
+10 Salz
+25.03.2017 11:40 Lysendria Entnahme
+1 Feuer-Langholz (100) +1
+25.03.2017 11:36 Lysendria Entnahme
+50 Salz
+25.03.2017 11:35 Lysendria Entnahme
+1000 Todesessenz +1
+25.03.2017 11:34 Lysendria Einlagerung
+1 Weichleder-Harnisch (100) +1
+1 Weichleder-Harnisch (100) +1
+1 Weichleder-Harnisch (100) +1
+136 Weichleder
+25.03.2017 11:13 Bomdivash Gemmenauge Einlagerung
+7 Kalkstein
+6 Schattenstaub
+12 Mondstaub
+12 Sternenstaub
+13 Drachenhaut
+5 Weichpelze
+8 Baumwolle
+3 Seide
+12 Ätherfäden
+3 Todesstaub
+9 Hartpelz
+11 Riesenhaut
+4 Pelze
+3 Wolle
+5 Leinen
+2 Magiestaub
+25.03.2017 10:52 Hardsequencer Einlagerung
+3 Todesstaub
+8 Schattenstaub
+10 Mondstaub
+10 Sternenstaub
+6 Weichpelze
+13 Drachenhaut
+3 Leinen
+3 Wolle
+3 Seide
+11 Ätherfäden
+12 Riesenhaut
+7 Pelze
+8 Hartpelz
+4 Baumwolle
+3 Magiestaub
+24.03.2017 23:00 Gebäudeverfall Gesamt 296 Strukturpunkte
+24.03.2017 22:59 Baumeister 75 Strukturpunkte wiederhergestellt
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+2 Eibenbretter entnommen 
+75 Gold entnommen
+24.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+24.03.2017 16:00 Eloysius Rotzineck Einlagerung
+1 Feuer-Runenstab (100) +1
+1 Wasser-Langholz (100) +1
+24.03.2017 15:38 Schahanschah Entnahme
+1000 Schattenessenz +1
+24.03.2017 15:08 Alessia Einlagerung
+10 Buchenholz
+82 Harz
+24.03.2017 15:08 Alessia Entnahme
+100 Harz
+24.03.2017 15:07 Alessia Entnahme
+100 Buchenholz
+24.03.2017 15:07 Alessia Einlagerung
+10 Buchenholz
+50 Birkenbretter
+24.03.2017 14:50 Alessia Entnahme
+150 Federn
+24.03.2017 13:29 Julia Einlagerung
+7 Buchenholz
+1 Birkenholz
+15 Eibenbretter
+24.03.2017 12:00 Xiatax Einlagerung
+125 Drachenzunder
+100 Granitharz
+50 Phasenkraut
+24.03.2017 11:46 Hardsequencer Einlagerung
+6 Kalkstein
+6 Sandstein
+7 Granit
+8 Marmor
+24.03.2017 11:26 Elazia Kapp Entnahme
+18 Schattenstaub
+24.03.2017 09:18 Dori Drachenzahn Einlagerung
+700 Schattenessenz +1
+24.03.2017 07:42 Bomdivash Gemmenauge Einlagerung
+15 Kalkstein
+24.03.2017 07:41 Bomdivash Gemmenauge Entnahme
+90 Drachenzunder
+24.03.2017 07:13 Dori Drachenzahn Entnahme
+20 Phasenkraut
+24.03.2017 07:10 Hardsequencer Entnahme
+100 Marmor
+24.03.2017 07:09 Hardsequencer Entnahme
+80 Drachenzunder
+24.03.2017 07:02 Julia Entnahme
+100 Granitharz
+24.03.2017 07:00 Julia Entnahme
+110 Eibenholz
+23.03.2017 23:00 Gebäudeverfall Gesamt 227 Strukturpunkte
+23.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+23.03.2017 22:59 Baumeister 228 Strukturpunkte wiederhergestellt
+3 Kalkziegel entnommen 
+3 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+2 Granitziegel entnommen 
+2 Eschenbretter entnommen 
+265 Gold entnommen
+23.03.2017 22:26 Dori Drachenzahn Entnahme
+60 Magiesplitter
+5 Phasenkraut
+23.03.2017 18:34 Eloysius Rotzineck Entnahme
+800 Todesessenz +1
+23.03.2017 18:33 Eloysius Rotzineck Entnahme
+1 Seiden-Haube (3) +1
+23.03.2017 18:30 Eloysius Rotzineck Einlagerung
+1 Feuer-Langholz (100) +1
+23.03.2017 18:26 Julia Einlagerung
+11 Ätherfäden
+6 Seide
+6 Riesenhaut
+4 Leinen
+1 Wolle
+7 Baumwolle
+20 Mondstaub
+2 Hartpelz
+5 Drachenhaut
+1 Weichpelze
+8 Magiestaub
+27 Sternenstaub
+8 Todesstaub
+8 Schattenstaub
+5 Eschenholz
+4 Eibenholz
+23.03.2017 18:23 Hardsequencer Einlagerung
+5 Baumwolle
+8 Ätherfäden
+2 Hartpelz
+6 Drachenhaut
+3 Leinen
+3 Wolle
+7 Seide
+10 Todesstaub
+26 Sternenstaub
+3 Riesenhaut
+2 Pelze
+17 Mondstaub
+7 Magiestaub
+10 Schattenstaub
+1 Weichpelze
+6 Sandstein
+7 Marmor
+23.03.2017 17:12 Elazia Kapp Einlagerung
+1 Wasser-Wächterstab (16)
+1 Äther-Robe (16)
+3 Leinen
+2 Weichpelze
+5 Magiestaub
+3 Wolle
+2 Pelze
+6 Baumwolle
+3 Hartpelz
+5 Seide
+2 Riesenhaut
+9 Ätherfäden
+6 Drachenhaut
+23.03.2017 17:10 Elazia Kapp Entnahme
+12 Schattenstaub
+23.03.2017 12:50 Göttin Einlagerung
+200 Magieessenz +1
+23.03.2017 12:12 Bomdivash Gemmenauge Einlagerung
+4 Leinen
+11 Magiestaub
+1 Wolle
+2 Pelze
+10 Todesstaub
+6 Baumwolle
+3 Hartpelz
+12 Schattenstaub
+5 Seide
+2 Riesenhaut
+18 Mondstaub
+11 Ätherfäden
+6 Drachenhaut
+23 Sternenstaub
+23.03.2017 11:42 Dori Drachenzahn Einlagerung
+1 Seiden-Spitzhut (1) +1
+23.03.2017 11:31 Dori Drachenzahn Einlagerung
+1 Luft-Eschenstab (6)
+23.03.2017 11:11 Elazia Kapp Entnahme
+21 Schattenstaub
+23.03.2017 09:31 Göttin Einlagerung
+230 Todesessenz +1
+23.03.2017 09:30 Göttin Entnahme
+40 Magiesplitter
+23.03.2017 09:30 Göttin Entnahme
+120 Magiestaub
+23.03.2017 09:29 Göttin Einlagerung
+600 Magieessenz +1
+23.03.2017 09:18 Nojheim Von Durkan Entnahme
+300 Todesessenz +1
+23.03.2017 09:14 Nojheim Von Durkan Einlagerung ins Gildenlager von [Boten]
+1 Jade
+23.03.2017 09:14 Nojheim Von Durkan Einlagerung
+6 Baumwolle
+10 Ätherfäden
+9 Drachenhaut
+3 Leinen
+1 Wolle
+6 Seide
+12 Todesstaub
+24 Sternenstaub
+2 Hartpelz
+3 Pelze
+9 Magiestaub
+18 Mondstaub
+9 Schattenstaub
+1 Riesenhaut
+23.03.2017 09:03 Dori Drachenzahn Entnahme
+20 Magiesplitter
+23.03.2017 09:01 Dori Drachenzahn Einlagerung
+8 Ätherfäden
+6 Seide
+1 Pelze
+6 Riesenhaut
+6 Drachenhaut
+3 Leinen
+1 Wolle
+8 Baumwolle
+1 Hartpelz
+2 Weichpelze
+7 Magiestaub
+30 Sternenstaub
+11 Todesstaub
+22.03.2017 23:00 Gebäudeverfall Gesamt 228 Strukturpunkte
+22.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+22.03.2017 22:59 Baumeister 291 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+3 Granitziegel entnommen 
+3 Eschenbretter entnommen 
+379 Gold entnommen
+22.03.2017 21:13 Göttin Entnahme
+30 Magiesplitter
+22.03.2017 21:13 Göttin Entnahme
+90 Magiestaub
+22.03.2017 21:12 Göttin Einlagerung
+12 Mondstaub
+5 Leinen
+3 Wolle
+1 Baumwolle
+3 Seide
+5 Weichpelze
+6 Pelze
+8 Hartpelz
+13 Riesenhaut
+1 Sternenstaub
+5 Schattenstaub
+2 Drachenhaut
+3 Todesstaub
+22.03.2017 21:04 Eloysius Rotzineck Entnahme
+500 Leinen
+22.03.2017 20:58 Eloysius Rotzineck Entnahme
+100 Ätherfäden
+100 Drachenhaut
+400 Sternenstaub
+22.03.2017 20:29 Eloysius Rotzineck Einlagerung
+10 Mondstaub
+3 Leinen
+3 Wolle
+3 Baumwolle
+4 Seide
+7 Weichpelze
+5 Pelze
+6 Hartpelz
+10 Riesenhaut
+7 Schattenstaub
+2 Sternenstaub
+2 Magiestaub
+2 Drachenhaut
+2 Todesstaub
+22.03.2017 12:31 Nojheim Von Durkan Entnahme
+200 Todesessenz +1
+22.03.2017 11:31 Hardsequencer Einlagerung
+5 Sandstein
+22.03.2017 11:31 Hardsequencer Einlagerung
+23 Marmor
+22.03.2017 11:30 Julia Einlagerung
+5 Eichenholz
+14 Eibenholz
+6 Buchenholz
+6 Eschenholz
+22.03.2017 11:16 Elazia Kapp Entnahme
+50 Todesstaub
+22.03.2017 11:15 Elazia Kapp Entnahme
+14 Baumwolltuch
+8 Hartleder
+22.03.2017 11:13 Elazia Kapp Einlagerung
+805 Todesessenz +1
+22.03.2017 11:10 Bomdivash Gemmenauge Einlagerung
+6 Kalkstein
+22.03.2017 07:57 Dori Drachenzahn Einlagerung
+80 Einfacher Wollverband +1
+1000 Schattenessenz +1
+22.03.2017 07:53 Dori Drachenzahn Entnahme
+9 Nähgarn
+22.03.2017 07:53 Dori Drachenzahn Entnahme
+7 Baumwolltuch
+4 Hartleder
+22.03.2017 07:50 Dori Drachenzahn Entnahme
+34 Nähgarn
+22.03.2017 07:49 Dori Drachenzahn Entnahme
+6 Leder
+22.03.2017 07:49 Dori Drachenzahn Entnahme
+10 Wolltuch
+21.03.2017 23:00 Gebäudeverfall Gesamt 291 Strukturpunkte
+21.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+21.03.2017 22:59 Baumeister 124 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+124 Gold entnommen
+21.03.2017 20:51 Julia Entnahme
+1 Luft-Runenstab (100) +1
+21.03.2017 17:44 Sheltin Entnahme
+1000 Kriegspfeile +1
+168 Kriegspfeile
+21.03.2017 17:27 Elazia Kapp Entnahme
+13 Schattenstaub
+21.03.2017 15:09 Eloysius Rotzineck Entnahme
+50 Magiesplitter
+21.03.2017 15:07 Eloysius Rotzineck Entnahme
+30 Birkenbretter
+21.03.2017 15:06 Eloysius Rotzineck Einlagerung
+1035 Todesessenz +1
+21.03.2017 14:50 Xiatax Einlagerung
+1 Kupfer-Plattenstiefel (100) +1
+21.03.2017 12:19 Dori Drachenzahn Entnahme
+25 Magiesplitter
+5 Phasenkraut
+21.03.2017 12:18 Dori Drachenzahn Entnahme
+24 Schattenstaub
+21.03.2017 11:32 Alessia Einlagerung
+5 Drachenhaut
+16 Magiestaub
+13 Mondstaub
+35 Sternenstaub
+13 Schattenstaub
+7 Todesstaub
+2 Baumwolle
+3 Seide
+1 Leinen
+5 Ätherfäden
+2 Weichpelze
+1 Pelze
+3 Wolle
+1 Hartpelz
+21.03.2017 11:25 Julia Einlagerung
+2 Hartpelz
+3 Drachenhaut
+18 Mondstaub
+31 Sternenstaub
+10 Magiestaub
+6 Todesstaub
+8 Schattenstaub
+1 Leinen
+3 Baumwolle
+5 Ätherfäden
+2 Weichpelze
+1 Wolle
+3 Seide
+1 Pelze
+1 Riesenhaut
+21.03.2017 11:24 Hardsequencer Einlagerung
+1 Riesenhaut
+16 Schattenstaub
+17 Mondstaub
+32 Sternenstaub
+11 Magiestaub
+8 Todesstaub
+2 Pelze
+4 Drachenhaut
+3 Baumwolle
+6 Seide
+1 Leinen
+5 Ätherfäden
+2 Wolle
+2 Hartpelz
+21.03.2017 11:13 Elazia Kapp Entnahme
+220 Schattenessenz +1
+21.03.2017 11:11 Elazia Kapp Einlagerung
+3 Weichpelze
+6 Drachenhaut
+14 Magiestaub
+3 Baumwolle
+2 Seide
+1 Leinen
+6 Ätherfäden
+2 Pelze
+2 Hartpelz
+2 Wolle
+21.03.2017 11:07 Ahn Wirrblick Entnahme
+2000 Pfeile +1
+21.03.2017 11:01 Göttin Einlagerung
+115 Todesessenz +1
+21.03.2017 10:52 Göttin Einlagerung
+1 Dolch (37)
+21.03.2017 10:50 Göttin Einlagerung
+345 Todesessenz +1
+620 Schattenessenz +1
+21.03.2017 10:49 Göttin Entnahme
+50 Magiesplitter
+21.03.2017 10:46 Göttin Entnahme
+28 Schattenstaub
+21.03.2017 09:26 Bomdivash Gemmenauge Einlagerung
+2 Hartpelz
+1 Riesenhaut
+15 Schattenstaub
+32 Sternenstaub
+11 Magiestaub
+18 Mondstaub
+7 Todesstaub
+3 Pelze
+3 Drachenhaut
+3 Baumwolle
+6 Seide
+4 Ätherfäden
+1 Wolle
+21.03.2017 08:46 Dori Drachenzahn Entnahme
+5 Magiesplitter
+21.03.2017 08:45 Dori Drachenzahn Einlagerung
+2 Weichpelze
+9 Magiestaub
+1 Wolle
+1 Pelze
+9 Todesstaub
+1 Baumwolle
+2 Hartpelz
+3 Seide
+7 Ätherfäden
+4 Drachenhaut
+33 Sternenstaub
+20.03.2017 23:00 Gebäudeverfall Gesamt 236 Strukturpunkte
+20.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+20.03.2017 22:59 Baumeister 96 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+96 Gold entnommen
+20.03.2017 22:28 Eloysius Rotzineck Entnahme
+60 Birkenbretter
+20.03.2017 22:06 Sheltin Einlagerung
+8 Magiestaub
+6 Todesstaub
+10 Schattenstaub
+23 Mondstaub
+8 Sternenstaub
+1 Kriegsarmbrust (20)
+3 Leinen
+20.03.2017 21:04 Eloysius Rotzineck Einlagerung
+1 Weichpelze
+4 Pelze
+6 Drachenhaut
+3 Baumwolle
+4 Seide
+3 Riesenhaut
+4 Hartpelz
+3 Schattenstaub
+1 Sternenstaub
+3 Magiestaub
+4 Mondstaub
+1 Leinen
+1 Wolle
+575 Todesessenz +1
+20.03.2017 18:39 Göttin Einlagerung
+5 Leinen
+3 Weichpelze
+11 Magiestaub
+4 Wolle
+8 Pelze
+6 Todesstaub
+10 Baumwolle
+13 Hartpelz
+9 Seide
+17 Riesenhaut
+21 Mondstaub
+4 Ätherfäden
+8 Drachenhaut
+44 Sternenstaub
+20.03.2017 17:16 Alessia Einlagerung
+1 Birkenholz
+80 Harz
+20.03.2017 17:16 Alessia Entnahme
+100 Harz
+20.03.2017 17:16 Alessia Entnahme
+51 Birkenholz
+20.03.2017 17:15 Alessia Einlagerung
+5 Buchenbretter
+45 Birkenbretter
+20.03.2017 15:35 Xiatax Entnahme
+9 Kupferbarren
+20.03.2017 15:34 Xiatax Entnahme
+1 Kupfer-Kettenhemd (21)
+1 Eisen-Kettenstiefel (8) +1
+20.03.2017 15:33 Xiatax Entnahme
+52 Wattierung
+20.03.2017 15:32 Xiatax Entnahme
+102 Schmiedeöl
+20.03.2017 15:28 Göttin Entnahme
+10 Phasenkraut
+20.03.2017 14:23 Nojheim Von Durkan Einlagerung
+1 Seiden-Haube (3) +1
+20.03.2017 14:21 Nojheim Von Durkan Entnahme
+600 Todesessenz +1
+20.03.2017 13:48 Elazia Kapp Einlagerung
+690 Todesessenz +1
+20.03.2017 13:04 Julia Einlagerung
+5 Buchenholz
+11 Birkenholz
+13 Eichenholz
+20.03.2017 13:04 Julia Einlagerung
+4 Eibenholz
+20.03.2017 12:56 Ragbald Einlagerung
+20 Buchenbretter
+65 Birkenbretter
+20.03.2017 11:08 Hardsequencer Einlagerung
+4 Marmor
+20.03.2017 11:08 Hardsequencer Einlagerung
+3 Kalkstein
+12 Sandstein
+15 Granit
+20.03.2017 11:04 Bomdivash Gemmenauge Einlagerung
+18 Kalkstein
+11 Sandstein
+20.03.2017 10:58 Nojheim Von Durkan Entnahme
+11 Schattenstaub
+20.03.2017 10:57 Nojheim Von Durkan Einlagerung
+9 Magiestaub
+8 Todesstaub
+24 Mondstaub
+7 Hartpelz
+6 Sternenstaub
+5 Wolle
+6 Baumwolle
+10 Seide
+7 Drachenhaut
+3 Leinen
+7 Pelze
+12 Riesenhaut
+3 Ätherfäden
+2 Weichpelze
+20.03.2017 10:22 Schahanschah Entnahme
+1000 Schattenessenz +1
+20.03.2017 10:04 Dori Drachenzahn Entnahme
+25 Magiesplitter
+20.03.2017 08:06 Dori Drachenzahn Einlagerung
+100 Gute Baumwollbinde +1
+900 Schattenessenz +1
+20.03.2017 07:01 Julia Einlagerung
+92 Eibenholz
+20.03.2017 07:00 Julia Entnahme
+1 Eibenholz
+20.03.2017 06:41 Hardsequencer Einlagerung
+66 Marmor
+20.03.2017 06:41 Hardsequencer Entnahme
+1 Marmor
+19.03.2017 23:00 Gebäudeverfall Gesamt 246 Strukturpunkte
+19.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+19.03.2017 22:59 Baumeister 46 Strukturpunkte wiederhergestellt
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+46 Gold entnommen
+19.03.2017 21:58 Eloysius Rotzineck Entnahme
+120 Todesstaub
+19.03.2017 21:57 Eloysius Rotzineck Entnahme
+70 Magiesplitter
+19.03.2017 21:56 Eloysius Rotzineck Einlagerung
+1 Wasser-Krummstab (100) +1
+690 Todesessenz +1
+19.03.2017 20:48 Dori Drachenzahn Entnahme
+15 Magiesplitter
+5 Phasenkraut
+19.03.2017 20:47 Dori Drachenzahn Entnahme
+24 Schattenstaub
+19.03.2017 18:08 Hardsequencer Einlagerung
+4 Seide
+6 Ätherfäden
+15 Magiestaub
+42 Sternenstaub
+13 Todesstaub
+15 Schattenstaub
+30 Mondstaub
+3 Wolle
+3 Baumwolle
+4 Drachenhaut
+3 Weichpelze
+1 Pelze
+2 Riesenhaut
+5 Granit
+19.03.2017 14:34 Gwudnyc Entnahme
+250 Todesessenz +1
+19.03.2017 14:34 Gwudnyc Einlagerung
+40 Improvisierte Leinenbinde +1
+19.03.2017 14:34 Gwudnyc Entnahme
+32 Improvisierte Leinenbinde +1
+19.03.2017 14:34 Gwudnyc Einlagerung
+250 Todesessenz +1
+19.03.2017 14:33 Gwudnyc Einlagerung
+100 Todesessenz +1
+19.03.2017 14:33 Gwudnyc Einlagerung
+250 Todesessenz +1
+19.03.2017 14:33 Gwudnyc Entnahme
+500 Todesessenz +1
+19.03.2017 14:32 Gwudnyc Entnahme
+70 Wolltuch
+19.03.2017 14:32 Gwudnyc Entnahme
+100 Nähgarn
+19.03.2017 14:32 Lysendria Einlagerung
+8 Salz
+19.03.2017 14:30 Gwudnyc Entnahme
+1500 Todesessenz +1
+19.03.2017 14:30 Lysendria Entnahme
+60 Weichpelze
+19.03.2017 14:29 Lysendria Entnahme
+50 Weichpelze
+19.03.2017 14:28 Lysendria Entnahme
+40 Salz
+19.03.2017 14:28 Gwudnyc Entnahme
+7 Nähgarn
+19.03.2017 14:28 Gwudnyc Entnahme
+10 Leinentuch
+19.03.2017 14:25 Lysendria Einlagerung
+10 Salz
+19.03.2017 14:25 Lysendria Einlagerung
+5 Salz
+19.03.2017 14:25 Lysendria Einlagerung
+10 Salz
+19.03.2017 14:25 Lysendria Einlagerung
+25 Weichpelze
+19.03.2017 14:25 Lysendria Einlagerung
+30 Weichpelze
+19.03.2017 14:25 Lysendria Einlagerung
+2 Pelze
+19.03.2017 14:25 Lysendria Entnahme
+90 Weichpelze
+19.03.2017 14:24 Lysendria Entnahme
+60 Salz
+19.03.2017 14:24 Lysendria Entnahme
+1 Woll-Haube (100) +1
+19.03.2017 14:23 Lysendria Entnahme
+600 Todesessenz +1
+19.03.2017 14:17 Alessia Einlagerung
+100 Buchenholz
+40 Birkenholz
+308 Harz
+19.03.2017 14:17 Alessia Entnahme
+330 Harz
+19.03.2017 14:16 Alessia Entnahme
+100 Buchenholz
+95 Birkenholz
+19.03.2017 13:44 Göttin Einlagerung
+1466 Todesessenz +1
+19.03.2017 13:44 Göttin Einlagerung
+2 Leinen
+1 Weichpelze
+11 Magiestaub
+2 Baumwolle
+2 Hartpelz
+4 Seide
+3 Riesenhaut
+24 Mondstaub
+1 Drachenhaut
+7 Sternenstaub
+19.03.2017 13:42 Göttin Entnahme
+32 Schattenstaub
+19.03.2017 11:53 Elazia Kapp Einlagerung
+2 Seide
+14 Magiestaub
+3 Baumwolle
+6 Ätherfäden
+2 Leinen
+2 Wolle
+3 Drachenhaut
+1 Weichpelze
+3 Pelze
+1 Riesenhaut
+19.03.2017 11:35 Alessia Einlagerung
+3 Seide
+7 Ätherfäden
+15 Magiestaub
+16 Todesstaub
+42 Sternenstaub
+32 Mondstaub
+11 Schattenstaub
+3 Wolle
+3 Baumwolle
+1 Leinen
+2 Drachenhaut
+2 Weichpelze
+2 Pelze
+1 Riesenhaut
+19.03.2017 10:17 Dori Drachenzahn Entnahme
+50 Magiesplitter
+19.03.2017 10:15 Dori Drachenzahn Einlagerung
+1 Leinen
+1 Weichpelze
+13 Magiestaub
+3 Wolle
+2 Pelze
+9 Todesstaub
+2 Baumwolle
+2 Seide
+5 Ätherfäden
+5 Drachenhaut
+33 Sternenstaub
+19.03.2017 10:08 Julia Entnahme
+1000 Schattenessenz +1
+19.03.2017 10:07 Bomdivash Gemmenauge Einlagerung
+2 Leinen
+2 Weichpelze
+11 Magiestaub
+3 Wolle
+1 Pelze
+14 Todesstaub
+2 Baumwolle
+1 Hartpelz
+19 Schattenstaub
+4 Seide
+3 Riesenhaut
+30 Mondstaub
+4 Ätherfäden
+5 Drachenhaut
+43 Sternenstaub
+19.03.2017 10:07 Julia Einlagerung
+2 Leinen
+2 Weichpelze
+14 Magiestaub
+2 Wolle
+3 Pelze
+7 Todesstaub
+1 Baumwolle
+2 Hartpelz
+15 Schattenstaub
+1 Seide
+1 Riesenhaut
+29 Mondstaub
+5 Ätherfäden
+5 Drachenhaut
+33 Sternenstaub
+18.03.2017 23:00 Gebäudeverfall Gesamt 234 Strukturpunkte
+18.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+18.03.2017 22:59 Baumeister 36 Strukturpunkte wiederhergestellt
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+36 Gold entnommen
+18.03.2017 22:26 Eloysius Rotzineck Einlagerung
+300 Drachenzunder
+200 Federn
+100 Elbenhaar
+138 Granitharz
+18.03.2017 22:16 Eloysius Rotzineck Entnahme
+400 Riesenhaut
+18.03.2017 22:16 Eloysius Rotzineck Entnahme
+600 Seide
+750 Mondstaub
+18.03.2017 22:15 Eloysius Rotzineck Entnahme
+200 Sternenstaub
+18.03.2017 22:13 Eloysius Rotzineck Einlagerung ins Gildenlager von [Boten]
+1 Smaragd
+18.03.2017 22:11 Eloysius Rotzineck Einlagerung
+1 Feuer-Krummstab (100) +1
+1 Luft-Runenstab (100) +1
+1 Leinen
+2 Weichpelze
+8 Magiestaub
+1 Wolle
+2 Pelze
+6 Todesstaub
+1 Baumwolle
+2 Hartpelz
+7 Schattenstaub
+4 Seide
+3 Riesenhaut
+18 Mondstaub
+1 Drachenhaut
+5 Sternenstaub
+18.03.2017 15:11 Nojheim Von Durkan Entnahme
+400 Todesessenz +1
+18.03.2017 15:10 Nojheim Von Durkan Einlagerung
+12 Magiestaub
+27 Mondstaub
+8 Todesstaub
+9 Sternenstaub
+2 Hartpelz
+2 Riesenhaut
+2 Baumwolle
+4 Seide
+2 Leinen
+1 Weichpelze
+1 Drachenhaut
+18.03.2017 13:19 Ragbald Einlagerung
+13 Buchenholz
+7 Eichenholz
+1 Federn
+18.03.2017 13:10 Julia Entnahme
+1 Luft-Eschenstab (5)
+18.03.2017 11:58 Elazia Kapp Entnahme
+60 Todesstaub
+18.03.2017 11:55 Elazia Kapp Entnahme
+16 Schattenstaub
+18.03.2017 11:55 Elazia Kapp Einlagerung
+920 Todesessenz +1
+18.03.2017 11:34 Dori Drachenzahn Einlagerung
+300 Einfacher Wollverband +1
+700 Schattenessenz +1
+18.03.2017 11:33 Dori Drachenzahn Entnahme
+12 Nähgarn
+18.03.2017 11:32 Dori Drachenzahn Entnahme
+5 Wolltuch
+18.03.2017 10:20 Alessia Einlagerung
+10 Buchenholz
+3 Leinen
+5 Weichpelze
+10 Magiestaub
+2 Pelze
+11 Todesstaub
+1 Baumwolle
+4 Hartpelz
+9 Schattenstaub
+4 Seide
+2 Riesenhaut
+15 Mondstaub
+5 Ätherfäden
+10 Drachenhaut
+24 Sternenstaub
+18.03.2017 09:44 Bomdivash Gemmenauge Einlagerung
+80 Schieferziegel
+18.03.2017 09:00 Schahanschah Entnahme
+100 Improvisierte Leinenbinde +1
+18.03.2017 09:00 Schahanschah Entnahme
+1000 Schattenessenz +1
+17.03.2017 23:00 Gebäudeverfall Gesamt 224 Strukturpunkte
+17.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+17.03.2017 22:59 Baumeister 97 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+97 Gold entnommen
+17.03.2017 21:15 Hardsequencer Einlagerung
+4 Riesenhaut
+30 Sternenstaub
+12 Magiestaub
+16 Mondstaub
+12 Todesstaub
+7 Schattenstaub
+5 Weichpelze
+10 Drachenhaut
+2 Pelze
+3 Hartpelz
+2 Baumwolle
+3 Seide
+6 Ätherfäden
+2 Leinen
+17.03.2017 20:05 Eloysius Rotzineck Entnahme
+80 Buchenbretter
+17.03.2017 20:04 Eloysius Rotzineck Einlagerung
+1035 Todesessenz +1
+17.03.2017 18:39 Göttin Entnahme
+50 Todesstaub
+17.03.2017 18:38 Göttin Entnahme
+60 Magiesplitter
+17.03.2017 18:38 Göttin Entnahme
+12 Schattenstaub
+17.03.2017 18:37 Göttin Entnahme
+15 Phasenkraut
+17.03.2017 15:28 Julia Einlagerung
+6 Weichpelze
+4 Hartpelz
+3 Riesenhaut
+10 Todesstaub
+31 Sternenstaub
+8 Magiestaub
+12 Schattenstaub
+18 Mondstaub
+10 Drachenhaut
+4 Wolle
+6 Ätherfäden
+1 Baumwolle
+3 Seide
+2 Pelze
+17.03.2017 14:57 Elazia Kapp Entnahme
+31 Schattenstaub
+17.03.2017 14:57 Elazia Kapp Einlagerung
+3 Leinen
+4 Weichpelze
+9 Magiestaub
+1 Wolle
+1 Pelze
+2 Baumwolle
+3 Hartpelz
+2 Seide
+3 Riesenhaut
+6 Ätherfäden
+11 Drachenhaut
+17.03.2017 11:48 Nojheim Von Durkan Entnahme
+500 Todesessenz +1
+17.03.2017 10:36 Bomdivash Gemmenauge Einlagerung
+1 Schlangendolch (18)
+1 Feuer-Wächterstab (20)
+23 Kalkstein
+2 Leinen
+7 Weichpelze
+18 Magiestaub
+10 Sandstein
+5 Wolle
+4 Pelze
+21 Todesstaub
+3 Baumwolle
+4 Hartpelz
+23 Schattenstaub
+6 Seide
+8 Riesenhaut
+32 Mondstaub
+9 Ätherfäden
+18 Drachenhaut
+57 Sternenstaub
+1 Kristall
+17.03.2017 10:13 Ahn Wirrblick Entnahme
+682 Jagdpfeile +1
+17.03.2017 10:13 Ahn Wirrblick Entnahme
+50 Improvisierte Leinenbinde +1
+17.03.2017 10:05 Dori Drachenzahn Einlagerung ins Gildenlager von [Boten]
+1 Kristall
+3 Achat
+1 Quarz
+1 Rubin
+17.03.2017 10:05 Dori Drachenzahn Einlagerung
+1 Eisen-Kettenstiefel (8) +1
+17.03.2017 10:03 Dori Drachenzahn Einlagerung
+1 Luft-Eschenstab (5)
+17.03.2017 09:57 Dori Drachenzahn Einlagerung
+12 Todesstaub
+1 Nähgarn
+17.03.2017 09:55 Dori Drachenzahn Entnahme
+12 Nähgarn
+17.03.2017 09:53 Dori Drachenzahn Entnahme
+5 Schattenstaub
+17.03.2017 09:50 Dori Drachenzahn Einlagerung
+100 Phasenkraut
+17.03.2017 09:44 Dori Drachenzahn Einlagerung
+4 Weichpelze
+9 Magiestaub
+2 Wolle
+2 Pelze
+7 Todesstaub
+3 Baumwolle
+4 Hartpelz
+3 Seide
+3 Riesenhaut
+5 Ätherfäden
+10 Drachenhaut
+28 Sternenstaub
+17.03.2017 09:20 Sheltin Entnahme
+1000 Kriegspfeile +1
+17.03.2017 09:17 Schahanschah Entnahme
+1000 Schattenessenz +1
+17.03.2017 00:04 Sheltin Entnahme
+100 Federn
+16.03.2017 23:00 Gebäudeverfall Gesamt 209 Strukturpunkte
+16.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+16.03.2017 22:59 Baumeister 136 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+136 Gold entnommen
+16.03.2017 21:29 Eloysius Rotzineck Einlagerung
+281 Nähgarn
+200 Wattierung
+16.03.2017 21:26 Eloysius Rotzineck Entnahme
+350 Ätherfäden
+300 Drachenhaut
+250 Sternenstaub
+16.03.2017 21:24 Eloysius Rotzineck Einlagerung
+102 Granitharz
+105 Glaszwirn
+41 Pfeilharz
+106 Kristallat
+2 Edelmörtel
+16.03.2017 21:23 Eloysius Rotzineck Entnahme
+106 Kristallat
+2 Edelmörtel
+16.03.2017 21:23 Eloysius Rotzineck Entnahme
+102 Granitharz
+105 Glaszwirn
+41 Pfeilharz
+16.03.2017 21:20 Eloysius Rotzineck Umbuchung
+Gildenkasse: -200000 Gold
+Stadtkasse: +200000 Gold
+16.03.2017 21:16 Eloysius Rotzineck Einlagerung
+8 Schattenstaub
+12 Mondstaub
+4 Sternenstaub
+10 Pelze
+8 Baumwolle
+8 Seide
+15 Riesenhaut
+2 Leinen
+6 Wolle
+11 Hartpelz
+7 Drachenhaut
+5 Magiestaub
+5 Todesstaub
+4 Ätherfäden
+5 Weichpelze
+16.03.2017 16:51 Sheltin Einlagerung
+5 Schattenstaub
+13 Mondstaub
+5 Sternenstaub
+3 Magiestaub
+6 Todesstaub
+16.03.2017 13:07 Nojheim Von Durkan Einlagerung
+9 Pelze
+7 Baumwolle
+11 Seide
+13 Riesenhaut
+3 Leinen
+7 Wolle
+12 Hartpelz
+10 Weichpelze
+8 Drachenhaut
+4 Magiestaub
+14 Mondstaub
+5 Todesstaub
+2 Ätherfäden
+1 Sternenstaub
+16.03.2017 11:49 Göttin Einlagerung
+3 Leinen
+8 Weichpelze
+5 Magiestaub
+5 Wolle
+8 Pelze
+8 Baumwolle
+12 Hartpelz
+8 Seide
+14 Riesenhaut
+10 Mondstaub
+3 Ätherfäden
+8 Drachenhaut
+1 Sternenstaub
+16.03.2017 11:47 Alessia Einlagerung
+5 Buchenholz
+2 Leinen
+8 Weichpelze
+2 Wolle
+4 Pelze
+16.03.2017 11:13 Elazia Kapp Entnahme
+70 Magiesplitter
+16.03.2017 11:13 Elazia Kapp Einlagerung
+920 Todesessenz +1
+16.03.2017 11:12 Elazia Kapp Entnahme
+9 Schattenstaub
+16.03.2017 07:56 Dori Drachenzahn Entnahme
+12 Nähgarn
+16.03.2017 07:46 Dori Drachenzahn Entnahme
+12 Schattenstaub
+16.03.2017 07:25 Dori Drachenzahn Einlagerung
+300 Schattenessenz +1
+100 Einfacher Wollverband +1
+15.03.2017 23:00 Gebäudeverfall Gesamt 248 Strukturpunkte
+15.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+15.03.2017 22:59 Baumeister 136 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+136 Gold entnommen
+15.03.2017 20:04 Gwudnyc Entnahme
+100 Nähgarn
+15.03.2017 20:03 Gwudnyc Entnahme
+80 Wolltuch
+15.03.2017 20:03 Gwudnyc Entnahme
+1200 Todesessenz +1
+15.03.2017 20:00 Gwudnyc Einlagerung
+31 Leinentuch
+41 Wolltuch
+15 Nähgarn
+15.03.2017 20:00 Gwudnyc Entnahme
+3 Weichleder
+15.03.2017 19:59 Gwudnyc Entnahme
+55 Nähgarn
+15.03.2017 19:59 Gwudnyc Entnahme
+55 Leinentuch
+55 Wolltuch
+15.03.2017 19:58 Gwudnyc Einlagerung
+1 Wasser-Runenstab (100) +1
+15.03.2017 19:58 Gwudnyc Entnahme
+1 Wasser-Langholz (100) +1
+15.03.2017 19:57 Gwudnyc Entnahme
+1 Wasser-Runenstab (100) +1
+15.03.2017 19:53 Lysendria Entnahme
+100 Todesessenz +1
+15.03.2017 19:53 Lysendria Entnahme
+200 Todesessenz +1
+15.03.2017 19:53 Lysendria Entnahme
+40 Improvisierte Leinenbinde +1
+15.03.2017 19:52 Lysendria Einlagerung
+2 Leinen
+2 Weichpelze
+12 Weichleder
+14 Lederfett
+15.03.2017 19:51 Lysendria Entnahme
+20 Lederfett
+15.03.2017 19:51 Lysendria Entnahme
+20 Weichleder
+15.03.2017 19:27 Julia Entnahme
+1000 Schattenessenz +1
+15.03.2017 14:02 Göttin Entnahme
+60 Todesstaub
+15.03.2017 14:02 Göttin Entnahme
+50 Magiesplitter
+15.03.2017 14:02 Göttin Einlagerung
+2 Weichpelze
+14 Magiestaub
+1 Wolle
+1 Pelze
+1 Baumwolle
+3 Hartpelz
+2 Seide
+4 Riesenhaut
+31 Mondstaub
+3 Drachenhaut
+12 Sternenstaub
+15.03.2017 12:42 Ragbald Einlagerung
+2 Leinen
+3 Weichpelze
+11 Magiestaub
+1 Pelze
+15 Todesstaub
+2 Baumwolle
+4 Hartpelz
+14 Schattenstaub
+2 Seide
+3 Riesenhaut
+34 Mondstaub
+17 Sternenstaub
+15.03.2017 11:52 Bomdivash Gemmenauge Einlagerung
+1 Leinen
+1 Weichpelze
+6 Magiestaub
+1 Wolle
+13 Todesstaub
+7 Schattenstaub
+1 Seide
+18 Mondstaub
+2 Ätherfäden
+1 Drachenhaut
+38 Sternenstaub
+15.03.2017 07:59 Dori Drachenzahn Einlagerung
+1 Schlangendolch (21)
+1 Leinen
+1 Weichpelze
+14 Magiestaub
+1 Wolle
+3 Pelze
+15 Todesstaub
+3 Seide
+1 Riesenhaut
+2 Ätherfäden
+4 Drachenhaut
+37 Sternenstaub
+15.03.2017 07:59 Elazia Kapp Entnahme
+11 Schattenstaub
+15.03.2017 07:59 Elazia Kapp Einlagerung
+2 Ätherfäden
+4 Drachenhaut
+15 Magiestaub
+1 Weichpelze
+2 Wolle
+1 Leinen
+1 Baumwolle
+2 Seide
+1 Pelze
+2 Hartpelz
+14.03.2017 23:00 Gebäudeverfall Gesamt 248 Strukturpunkte
+14.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+14.03.2017 22:59 Baumeister 25 Strukturpunkte wiederhergestellt
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+25 Gold entnommen
+14.03.2017 21:39 Göttin Entnahme
+60 Magiesplitter
+14.03.2017 19:00 Eloysius Rotzineck Einlagerung
+177 Salz
+14.03.2017 18:57 Eloysius Rotzineck Entnahme
+500 Einfacher Wollverband +1
+300 Gute Baumwollbinde +1
+14.03.2017 18:54 Eloysius Rotzineck Einlagerung
+12 Steinkohle
+14.03.2017 18:52 Eloysius Rotzineck Einlagerung
+426 Zwirn
+14.03.2017 18:51 Eloysius Rotzineck Einlagerung
+400 Nähgarn
+400 Lederfett
+14.03.2017 18:49 Eloysius Rotzineck Entnahme
+300 Ätherfäden
+300 Drachenhaut
+14.03.2017 18:49 Eloysius Rotzineck Entnahme
+400 Baumwolle
+400 Hartpelz
+400 Seide
+400 Riesenhaut
+14.03.2017 18:48 Eloysius Rotzineck Entnahme
+500 Wolle
+14.03.2017 18:47 Eloysius Rotzineck Entnahme
+1 Luft-Spiralstab (3)
+14.03.2017 18:45 Eloysius Rotzineck Entnahme
+1 Seiden-Schuhe (7) +1
+14.03.2017 18:44 Eloysius Rotzineck Entnahme
+1 Kupfer-Kettenbeinlinge (19)
+1 Kupfer-Plattenhandschuhe (1)
+14.03.2017 18:41 Eloysius Rotzineck Einlagerung
+200 Bogensalbe
+300 Harz
+600 Magiesplitter
+230 Steinkohle
+14.03.2017 18:37 Eloysius Rotzineck Entnahme
+1000 Sternenstaub
+14.03.2017 18:37 Eloysius Rotzineck Entnahme
+1000 Mondstaub
+14.03.2017 18:33 Eloysius Rotzineck Einlagerung
+29 Mondstaub
+2 Drachenhaut
+10 Sternenstaub
+3 Seide
+2 Hartpelz
+2 Weichpelze
+5 Riesenhaut
+1 Pelze
+13 Todesstaub
+11 Schattenstaub
+10 Magiestaub
+1 Leinen
+14.03.2017 15:40 Nojheim Von Durkan Entnahme
+600 Todesessenz +1
+14.03.2017 15:39 Nojheim Von Durkan Einlagerung
+1 Luft-Spiralstab (3)
+1 Seiden-Schuhe (7) +1
+1 Kupfer-Plattenhandschuhe (1)
+14.03.2017 15:39 Nojheim Von Durkan Entnahme
+1 Kupfer-Plattenstiefel (100) +1
+14.03.2017 15:00 Göttin Entnahme
+60 Magiesplitter
+14.03.2017 14:35 Bomdivash Gemmenauge Einlagerung
+5 Sandstein
+22 Kalkstein
+14.03.2017 13:55 Nojheim Von Durkan Einlagerung
+10 Todesstaub
+14.03.2017 13:55 Nojheim Von Durkan Entnahme
+30 Schattenstaub
+14.03.2017 13:54 Nojheim Von Durkan Einlagerung
+9 Sternenstaub
+13 Magiestaub
+33 Mondstaub
+5 Riesenhaut
+3 Drachenhaut
+1 Kriegsarmbrust (15)
+3 Seide
+14 Schattenstaub
+4 Hartpelz
+1 Baumwolle
+3 Weichpelze
+2 Pelze
+1 Wolle
+14.03.2017 12:55 Schahanschah Entnahme
+1000 Schattenessenz +1
+14.03.2017 11:41 Julia Einlagerung
+18 Buchenholz
+5 Eschenholz
+8 Eichenholz
+1 Eibenholz
+14.03.2017 11:35 Hardsequencer Einlagerung
+35 Granitziegel
+12 Granit
+15 Kalkstein
+6 Schiefer
+1 Marmor
+14.03.2017 11:30 Sheltin Einlagerung
+15 Todesstaub
+16 Schattenstaub
+14 Sternenstaub
+12 Magiestaub
+32 Mondstaub
+14.03.2017 11:23 Elazia Kapp Entnahme
+14 Baumwolltuch
+8 Hartleder
+14.03.2017 11:21 Elazia Kapp Entnahme
+40 Magiesplitter
+14.03.2017 11:21 Elazia Kapp Entnahme
+50 Todesstaub
+14.03.2017 11:20 Elazia Kapp Einlagerung
+1035 Todesessenz +1
+14.03.2017 07:05 Dori Drachenzahn Entnahme
+11 Nähgarn
+14.03.2017 07:01 Dori Drachenzahn Einlagerung
+89 Einfacher Wollverband +1
+100 Gute Baumwollbinde +1
+14.03.2017 07:01 Dori Drachenzahn Einlagerung
+80 Nähgarn
+13.03.2017 23:00 Gebäudeverfall Gesamt 309 Strukturpunkte
+13.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+13.03.2017 22:59 Baumeister 60 Strukturpunkte wiederhergestellt
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+60 Gold entnommen
+13.03.2017 18:55 Gwudnyc Einlagerung
+20 Wolltuch
+13.03.2017 18:55 Gwudnyc Entnahme
+20 Wolltuch
+13.03.2017 18:54 Lysendria Einlagerung
+2700 Todesessenz +1
+13.03.2017 18:54 Lysendria Entnahme
+3000 Todesessenz +1
+13.03.2017 18:54 Lysendria Entnahme
+60 Improvisierte Leinenbinde +1
+13.03.2017 18:53 Lysendria Einlagerung
+1 Weichleder-Harnisch (100) +1
+1 Weichleder-Harnisch (100) +1
+55 Weichleder
+44 Salz
+13.03.2017 18:53 Gwudnyc Einlagerung
+100 Todesessenz +1
+13.03.2017 18:53 Gwudnyc Einlagerung
+200 Todesessenz +1
+13.03.2017 18:53 Lysendria Entnahme
+60 Salz
+13.03.2017 18:53 Gwudnyc Entnahme
+500 Todesessenz +1
+13.03.2017 18:53 Lysendria Entnahme
+80 Weichpelze
+13.03.2017 18:19 Gwudnyc Entnahme aus dem Gildenlager von [Boten]
+1 Pyrit-Robe (Plan)
+13.03.2017 18:15 Eloysius Rotzineck Entnahme
+1000 Todesessenz +1
+13.03.2017 15:18 Göttin Einlagerung
+1767 Todesessenz +1
+13.03.2017 13:06 Ragbald Entnahme
+400 Jagdpfeile +1
+13.03.2017 13:06 Ragbald Einlagerung
+2 Leinen
+5 Weichpelze
+8 Magiestaub
+2 Todesstaub
+1 Kupfer-Kettenhemd (21)
+1 Kupfer-Kettenbeinlinge (19)
+13.03.2017 11:27 Elazia Kapp Einlagerung
+7 Magiestaub
+8 Drachenhaut
+2 Weichpelze
+1 Hartpelz
+1 Riesenhaut
+4 Ätherfäden
+1 Leinen
+1 Wolle
+1 Baumwolle
+3 Seide
+1 Pelze
+13.03.2017 11:15 Nojheim Von Durkan Entnahme
+600 Todesessenz +1
+13.03.2017 10:15 Dori Drachenzahn Entnahme
+12 Nähgarn
+50 Magiesplitter
+13 Phasenkraut
+13.03.2017 10:14 Dori Drachenzahn Entnahme
+15 Leder
+35 Baumwolltuch
+20 Hartleder
+13.03.2017 10:13 Dori Drachenzahn Entnahme
+20 Wolltuch
+13.03.2017 10:12 Dori Drachenzahn Einlagerung
+2 Leinen
+2 Weichpelze
+7 Magiestaub
+1 Wolle
+1 Pelze
+1 Baumwolle
+1 Hartpelz
+2 Seide
+1 Riesenhaut
+4 Ätherfäden
+10 Drachenhaut
+34 Sternenstaub
+13.03.2017 07:46 Gwudnyc Einlagerung
+500 Todesessenz +1
+13.03.2017 07:46 Gwudnyc Entnahme
+2000 Todesessenz +1
+13.03.2017 07:45 Gwudnyc Einlagerung
+18 Wolltuch
+12 Nähgarn
+13.03.2017 07:45 Gwudnyc Entnahme
+9 Nähgarn
+13.03.2017 07:44 Gwudnyc Entnahme
+10 Wolltuch
+13.03.2017 07:44 Gwudnyc Entnahme
+10 Nähgarn
+13.03.2017 07:44 Gwudnyc Entnahme
+40 Nähgarn
+13.03.2017 07:43 Gwudnyc Entnahme
+40 Wolltuch
+13.03.2017 07:43 Gwudnyc Entnahme
+10 Improvisierte Leinenbinde +1
+13.03.2017 07:37 Gwudnyc Einlagerung
+1 Woll-Haube (100) +1
+12.03.2017 23:00 Gebäudeverfall Gesamt 248 Strukturpunkte
+12.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+12.03.2017 22:59 Baumeister 72 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+72 Gold entnommen
+12.03.2017 18:08 Göttin Entnahme
+10 Phasenkraut
+12.03.2017 17:19 Eloysius Rotzineck Einlagerung
+400 Schmiedeöl
+327 Bogensalbe
+12.03.2017 17:08 Nojheim Von Durkan Entnahme
+25 Schattenstaub
+12.03.2017 17:08 Nojheim Von Durkan Einlagerung
+4 Hartpelz
+9 Magiestaub
+15 Todesstaub
+24 Mondstaub
+5 Baumwolle
+3 Ätherfäden
+4 Seide
+7 Drachenhaut
+10 Sternenstaub
+4 Weichpelze
+3 Riesenhaut
+3 Wolle
+2 Pelze
+1 Leinen
+12.03.2017 16:56 Eloysius Rotzineck Einlagerung
+102 Schmiedeöl
+43 Bogensalbe
+187 Harz
+96 Zwirn
+154 Steinkohle
+59 Nähgarn
+58 Lederfett
+430 Magiesplitter
+406 Federn
+60 Salz
+48 Mörtel
+50 Schleifstein
+25 Elbenhaar
+102 Wattierung
+45 Drachenzunder
+5 Schutzpolster
+5 Ledernieten
+12.03.2017 16:56 Eloysius Rotzineck Entnahme
+102 Schmiedeöl
+43 Bogensalbe
+187 Harz
+96 Zwirn
+154 Steinkohle
+59 Nähgarn
+58 Lederfett
+430 Magiesplitter
+406 Federn
+60 Salz
+48 Mörtel
+50 Schleifstein
+25 Elbenhaar
+102 Wattierung
+45 Drachenzunder
+5 Schutzpolster
+5 Ledernieten
+12.03.2017 16:54 Eloysius Rotzineck Einlagerung
+1 Kurzschwert (100) +1
+1 Kurzschwert (100) +1
+1 Kurzschwert (100) +1
+1 Knüppel (100) +1
+1 Knüppel (100) +1
+12.03.2017 16:54 Eloysius Rotzineck Entnahme
+1 Turmschild (21)
+12.03.2017 16:53 Eloysius Rotzineck Entnahme
+1 Eisen-Kettenbeinlinge (22)
+12.03.2017 16:53 Eloysius Rotzineck Entnahme
+1 Mithril-Kettenhemd (2)
+12.03.2017 16:53 Eloysius Rotzineck Entnahme
+1 Weichleder-Beinlinge (21)
+1 Drachenleder-Harnisch (23)
+1 Drachenleder-Beinlinge (17)
+1 Kupfer-Plattenpanzer (22)
+12.03.2017 16:52 Eloysius Rotzineck Entnahme
+1 Weichleder-Helm (22)
+12.03.2017 16:51 Eloysius Rotzineck Entnahme
+1 Kriegsarmbrust (19)
+1 Kriegsarmbrust (16)
+1 Wasser-Wächterstab (18)
+12.03.2017 16:50 Eloysius Rotzineck Entnahme
+3 Kurzschwert (100) +1
+1 Schlangendolch (18)
+1 Spitzdolch (22)
+1 Nebeldolch (20)
+1 Sonnensichel [2H] (19)
+2 Knüppel (100) +1
+1 Bauernsense [2H] (15)
+1 Langbogen (19)
+1 Armbrust (17)
+1 Kolossusarmbrust (21)
+1 Kolossusarmbrust (18)
+1 Kolossusarmbrust (17)
+12.03.2017 16:48 Eloysius Rotzineck Einlagerung
+3 Leinen
+2 Weichpelze
+7 Magiestaub
+3 Wolle
+10 Todesstaub
+2 Baumwolle
+1 Hartpelz
+11 Schattenstaub
+6 Seide
+5 Riesenhaut
+32 Mondstaub
+4 Ätherfäden
+9 Drachenhaut
+16 Sternenstaub
+12.03.2017 16:47 Eloysius Rotzineck Einlagerung ins Gildenlager von [Boten]
+4 Saphir
+4 Perlmutt
+4 Rubin
+7 Lapis
+3 Diamant
+1 Onyx
+12.03.2017 16:47 Eloysius Rotzineck Entnahme aus dem Gildenlager von [Boten]
+4 Saphir
+4 Perlmutt
+4 Rubin
+3 Diamant
+1 Onyx
+12.03.2017 16:47 Eloysius Rotzineck Entnahme
+7 Lapis
+12.03.2017 16:08 Göttin Einlagerung
+4 Weichpelze
+8 Magiestaub
+2 Wolle
+1 Pelze
+14 Todesstaub
+6 Baumwolle
+3 Hartpelz
+4 Seide
+3 Riesenhaut
+28 Mondstaub
+2 Ätherfäden
+9 Drachenhaut
+14 Sternenstaub
+12.03.2017 16:06 Lysendria Einlagerung
+5 Weichpelze
+29 Salz
+12.03.2017 16:05 Lysendria Entnahme
+40 Salz
+12.03.2017 16:05 Lysendria Entnahme
+60 Weichpelze
+12.03.2017 15:26 Alessia Entnahme
+160 Federn
+12.03.2017 15:25 Alessia Entnahme
+800 Jagdpfeile +1
+12.03.2017 15:01 Sheltin Einlagerung
+8 Todesstaub
+11 Schattenstaub
+28 Mondstaub
+1 Sonnensichel [2H] (19)
+15 Sternenstaub
+12.03.2017 14:57 Lysendria Einlagerung
+1 Kristall-Plattenpanzer (Plan)
+1 Achat-Lederstiefel (Plan)
+1 Topas-Lederharnisch (Plan)
+1 Topas-Lederstulpen (Plan)
+12.03.2017 14:29 Lysendria Entnahme aus dem Gildenlager von [Boten]
+1 Achat-Lederstiefel (Plan)
+12.03.2017 14:29 Lysendria Entnahme aus dem Gildenlager von [Boten]
+1 Kristall-Plattenpanzer (Plan)
+12.03.2017 14:29 Lysendria Entnahme aus dem Gildenlager von [Boten]
+1 Topas-Lederharnisch (Plan)
+12.03.2017 14:29 Lysendria Entnahme aus dem Gildenlager von [Boten]
+1 Topas-Lederstulpen (Plan)
+12.03.2017 14:28 Lysendria Einlagerung
+7 Lapis
+12.03.2017 14:28 Lysendria Entnahme aus dem Gildenlager von [Boten]
+7 Lapis
+12.03.2017 14:16 Gwudnyc Einlagerung ins Gildenlager von [Boten]
+4 Saphir
+4 Perlmutt
+4 Rubin
+3 Diamant
+1 Onyx
+12.03.2017 14:16 Gwudnyc Entnahme aus dem Gildenlager von [Boten]
+4 Saphir
+4 Perlmutt
+3 Rubin
+3 Diamant
+1 Onyx
+12.03.2017 14:16 Gwudnyc Entnahme
+1 Rubin
+12.03.2017 13:58 Alessia Einlagerung
+4 Weichpelze
+12 Pelze
+2 Schattenstaub
+105 Improvisierte Leinenbinde +1
+978 Jagdpfeile +1
+12.03.2017 13:57 Alessia Entnahme
+150 Einfacher Wollverband +1
+12.03.2017 13:49 Gwudnyc Entnahme
+1 Woll-Haube (100) +1
+1 Woll-Robe (100) +1
+12.03.2017 13:38 Jannib Lundalarum Einlagerung
+1 Todesstaub
+1 Schattenstaub
+1 Mondstaub
+3 Sternenstaub
+12.03.2017 13:37 Jannib Lundalarum Entnahme aus dem Gildenlager von [Boten]
+1 Topas-Lederbeinlinge (Plan)
+12.03.2017 13:36 Jannib Lundalarum Entnahme aus dem Gildenlager von [Boten]
+5 Achat
+2 Pyrit
+12.03.2017 13:35 Jannib Lundalarum Entnahme
+400 Bolzen +1
+126 Jagdbolzen +1
+12.03.2017 12:18 Elazia Kapp Entnahme
+55 Magiesplitter
+12.03.2017 12:18 Elazia Kapp Entnahme
+75 Todesstaub
+16 Schattenstaub
+12.03.2017 12:18 Elazia Kapp Einlagerung
+1610 Todesessenz +1
+12.03.2017 12:17 Elazia Kapp Einlagerung
+4 Pelze
+6 Drachenhaut
+1 Weichpelze
+1 Wolle
+2 Seide
+3 Ätherfäden
+1 Hartpelz
+7 Magiestaub
+12.03.2017 11:38 Hardsequencer Einlagerung
+9 Kalkstein
+19 Sandstein
+4 Granit
+3 Drachenzunder
+15 Granitziegel
+12.03.2017 11:26 Dori Drachenzahn Einlagerung
+100 Einfacher Wollverband +1
+12.03.2017 11:03 Julia Entnahme
+1000 Schattenessenz +1
+12.03.2017 11:02 Julia Einlagerung
+8 Birkenholz
+14 Eichenholz
+17 Eschenholz
+12.03.2017 11:00 Anharyl Lualanna Entnahme
+20 Salz
+12.03.2017 11:00 Anharyl Lualanna Entnahme
+50 Pelze
+12.03.2017 10:59 Anharyl Lualanna Entnahme
+40 Federn
+12.03.2017 10:58 Gwudnyc Einlagerung
+100 Improvisierte Leinenbinde +1
+12.03.2017 10:35 Bomdivash Gemmenauge Einlagerung
+5 Sandstein
+30 Schieferziegel
+12.03.2017 10:25 Dori Drachenzahn Einlagerung
+90 Einfacher Wollverband +1
+1000 Schattenessenz +1
+12.03.2017 10:25 Jannib Lundalarum Einlagerung
+126 Jagdbolzen +1
+12.03.2017 10:14 Jannib Lundalarum Einlagerung
+273 Bolzen +1
+12.03.2017 09:14 Dori Drachenzahn Entnahme
+16 Schattenstaub
+12.03.2017 09:09 Dori Drachenzahn Entnahme
+3 Leder
+7 Baumwolltuch
+4 Hartleder
+12.03.2017 09:08 Dori Drachenzahn Entnahme
+5 Wolltuch
+12.03.2017 09:07 Dori Drachenzahn Entnahme
+20 Nähgarn
+12.03.2017 08:42 Anharyl Lualanna Einlagerung
+45 Leinentuch
+4 Weichpelze
+50 Weichleder
+9 Magiestaub
+1 Wolle
+3 Pelze
+15 Todesstaub
+1 Baumwolle
+2 Hartpelz
+14 Schattenstaub
+24 Mondstaub
+3 Ätherfäden
+8 Drachenhaut
+39 Sternenstaub
+12.03.2017 07:38 Gwudnyc Entnahme
+30 Improvisierte Leinenbinde +1
+12.03.2017 07:38 Gwudnyc Einlagerung
+100 Improvisierte Leinenbinde +1
+12.03.2017 07:21 Hardsequencer Entnahme
+42 Granit
+12.03.2017 07:21 Hardsequencer Entnahme
+36 Drachenzunder
+11.03.2017 23:33 Lysendria Entnahme
+500 Todesessenz +1
+11.03.2017 23:30 Lysendria Einlagerung
+10 Leinen
+12 Wolle
+14 Todesstaub
+6 Baumwolle
+11 Hartpelz
+3 Magiestaub
+3 Schattenstaub
+4 Pelze
+3 Weichpelze
+11.03.2017 23:02 Alessia Einlagerung
+13 Wolle
+4 Magiestaub
+13 Todesstaub
+11 Leinen
+7 Baumwolle
+3 Weichpelze
+5 Pelze
+9 Hartpelz
+2 Schattenstaub
+1 Bauernsense [2H] (15)
+11.03.2017 23:00 Gebäudeverfall Gesamt 223 Strukturpunkte
+11.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+11.03.2017 22:44 Gwudnyc Einlagerung
+34 Leinentuch
+38 Weichleder
+32 Nähgarn
+11.03.2017 22:44 Gwudnyc Entnahme
+44 Leinentuch
+44 Weichleder
+11.03.2017 22:44 Gwudnyc Entnahme
+44 Nähgarn
+11.03.2017 22:43 Gwudnyc Entnahme
+20 Nähgarn
+11.03.2017 22:43 Gwudnyc Entnahme
+14 Wolltuch
+11.03.2017 20:24 Gwudnyc Entnahme
+1000 Todesessenz +1
+11.03.2017 19:30 Jannib Lundalarum Einlagerung
+164 Magiesplitter
+11.03.2017 19:30 Jannib Lundalarum Einlagerung
+300 Magiesplitter
+80 Nähgarn
+400 Federn
+11.03.2017 19:28 Jannib Lundalarum Entnahme
+200 Ätherfäden
+523 Sternenstaub
+11.03.2017 19:07 Anharyl Lualanna Einlagerung
+31 Nähgarn
+11.03.2017 17:31 Jannib Lundalarum Einlagerung
+3 Pelze
+6 Drachenhaut
+11 Todesstaub
+42 Sternenstaub
+3 Hartpelz
+1 Wolle
+1 Baumwolle
+1 Seide
+3 Ätherfäden
+22 Mondstaub
+13 Schattenstaub
+9 Magiestaub
+11.03.2017 15:15 Eloysius Rotzineck Einlagerung
+1 Feuer-Runenstab (100) +1
+1 Luft-Runenstab (100) +1
+1 Erde-Runenstab (100) +1
+1 Erde-Runenstab (100) +1
+11.03.2017 14:27 Dori Drachenzahn Entnahme
+30 Magiesplitter
+20 Phasenkraut
+11.03.2017 13:51 Göttin Entnahme
+50 Magiesplitter
+10 Phasenkraut
+11.03.2017 13:51 Göttin Entnahme
+50 Schattenstaub
+11.03.2017 13:50 Göttin Einlagerung
+1000 Todesessenz +1
+11.03.2017 13:12 Lysendria Entnahme
+300 Todesessenz +1
+11.03.2017 13:11 Lysendria Einlagerung
+5 Schattenstaub
+2 Weichpelze
+7 Pelze
+10 Hartpelz
+5 Leinen
+11 Todesstaub
+1 Wolle
+2 Magiestaub
+11.03.2017 11:02 Alessia Einlagerung
+5 Buchenholz
+11.03.2017 11:00 Bomdivash Gemmenauge Einlagerung
+4 Pelze
+4 Hartpelz
+7 Drachenhaut
+12 Todesstaub
+43 Sternenstaub
+1 Weichpelze
+1 Baumwolle
+1 Seide
+4 Ätherfäden
+20 Mondstaub
+14 Schattenstaub
+11 Magiestaub
+11.03.2017 10:24 Alessia Entnahme
+200 Federn
+11.03.2017 10:16 Dori Drachenzahn Einlagerung
+3 Pelze
+14 Todesstaub
+7 Drachenhaut
+42 Sternenstaub
+3 Weichpelze
+2 Seide
+3 Ätherfäden
+2 Hartpelz
+6 Magiestaub
+1 Baumwolle
+11.03.2017 09:55 Sheltin Entnahme
+60 Pfeilharz
+11.03.2017 09:55 Sheltin Entnahme
+100 Federn
+10.03.2017 23:00 Gebäudeverfall Gesamt 230 Strukturpunkte
+10.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+10.03.2017 22:59 Baumeister 132 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+2 Schieferziegel entnommen 
+2 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+132 Gold entnommen
+10.03.2017 18:33 Eloysius Rotzineck Einlagerung
+2 Leinen
+2 Weichpelze
+4 Magiestaub
+4 Wolle
+1 Pelze
+7 Todesstaub
+4 Baumwolle
+1 Hartpelz
+7 Schattenstaub
+5 Seide
+17 Mondstaub
+10.03.2017 17:03 Sheltin Einlagerung
+4 Leinen
+1 Weichpelze
+10 Magiestaub
+2 Wolle
+1 Pelze
+12 Todesstaub
+6 Baumwolle
+1 Hartpelz
+10 Schattenstaub
+7 Seide
+31 Mondstaub
+2 Ätherfäden
+2 Drachenhaut
+16 Sternenstaub
+10.03.2017 16:11 Xiatax Einlagerung
+5 Leinen
+1 Weichpelze
+13 Magiestaub
+3 Wolle
+2 Pelze
+11 Todesstaub
+6 Baumwolle
+14 Schattenstaub
+7 Seide
+1 Riesenhaut
+24 Mondstaub
+3 Ätherfäden
+3 Drachenhaut
+13 Sternenstaub
+10.03.2017 16:02 Schahanschah Entnahme
+1000 Schattenessenz +1
+10.03.2017 15:34 Elazia Kapp Einlagerung
+920 Todesessenz +1
+10.03.2017 14:39 Alessia Einlagerung
+1 Leder-Harnisch (10) +1
+1 Hartleder-Hose (64) +1
+1 Hartleder-Stiefel (63) +1
+10.03.2017 14:14 Göttin Entnahme
+30 Magiesplitter
+10.03.2017 14:13 Göttin Einlagerung
+1 Leinen
+2 Weichpelze
+5 Magiestaub
+3 Wolle
+1 Pelze
+6 Todesstaub
+4 Baumwolle
+6 Seide
+18 Mondstaub
+3 Ätherfäden
+3 Drachenhaut
+13 Sternenstaub
+10.03.2017 14:11 Göttin Entnahme
+10 Phasenkraut
+10.03.2017 13:31 Alessia Einlagerung
+7 Leinen
+10 Weichpelze
+9 Wolle
+14 Pelze
+10 Todesstaub
+1 Hartpelz
+10.03.2017 13:26 Nojheim Von Durkan Entnahme
+18 Schattenstaub
+10.03.2017 13:22 Nojheim Von Durkan Entnahme
+650 Todesessenz +1
+10.03.2017 12:35 Nojheim Von Durkan Einlagerung ins Gildenlager von [Boten]
+1 Kristall
+10.03.2017 12:35 Nojheim Von Durkan Einlagerung
+6 Baumwolle
+7 Seide
+9 Todesstaub
+16 Schattenstaub
+29 Mondstaub
+12 Magiestaub
+15 Sternenstaub
+5 Leinen
+2 Pelze
+1 Riesenhaut
+3 Drachenhaut
+1 Weichpelze
+2 Wolle
+3 Ätherfäden
+10.03.2017 11:58 Hardsequencer Einlagerung
+6 Kalkstein
+18 Sandstein
+14 Granit
+8 Schiefer
+10.03.2017 11:48 Julia Entnahme
+1000 Schattenessenz +1
+10.03.2017 11:47 Julia Einlagerung
+6 Buchenholz
+12 Birkenholz
+6 Eichenholz
+18 Eschenholz
+10.03.2017 11:46 Ahn Wirrblick Entnahme
+30 Improvisierte Leinenbinde +1
+10.03.2017 11:23 Bomdivash Gemmenauge Entnahme
+50 Drachenzunder
+10.03.2017 11:23 Bomdivash Gemmenauge Einlagerung
+22 Sandstein
+10.03.2017 10:33 Gwudnyc Entnahme
+20 Improvisierte Leinenbinde +1
+10.03.2017 10:33 Gwudnyc Entnahme
+400 Todesessenz +1
+10.03.2017 10:31 Lysendria Entnahme
+500 Todesessenz +1
+10.03.2017 10:31 Lysendria Einlagerung
+11 Leinen
+13 Wolle
+14 Weichpelze
+20 Pelze
+4 Magiestaub
+12 Todesstaub
+10.03.2017 07:46 Dori Drachenzahn Einlagerung
+80 Einfacher Wollverband +1
+100 Gute Baumwollbinde +1
+09.03.2017 23:19 Dori Drachenzahn Entnahme
+20 Magiesplitter
+09.03.2017 23:00 Gebäudeverfall Gesamt 282 Strukturpunkte
+09.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+09.03.2017 22:59 Baumeister 160 Strukturpunkte wiederhergestellt
+1 Kalkziegel entnommen 
+1 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+160 Gold entnommen
+09.03.2017 21:04 Alessia Einlagerung
+34 Birkenholz
+6 Buchenholz
+6 Eichenholz
+09.03.2017 18:57 Lysendria Einlagerung
+3 Lederfett
+09.03.2017 18:56 Lysendria Entnahme
+60 Weichleder
+09.03.2017 18:56 Lysendria Entnahme
+48 Lederfett
+09.03.2017 18:53 Lysendria Entnahme
+30 Improvisierte Leinenbinde +1
+09.03.2017 18:53 Lysendria Entnahme
+120 Improvisierte Leinenbinde +1
+09.03.2017 18:52 Lysendria Einlagerung
+1 Weichleder-Harnisch (100) +1
+09.03.2017 18:52 Lysendria Entnahme
+1200 Todesessenz +1
+09.03.2017 18:07 Dori Drachenzahn Entnahme
+3 Leder
+09.03.2017 18:07 Dori Drachenzahn Entnahme
+5 Wolltuch
+09.03.2017 18:07 Dori Drachenzahn Entnahme
+11 Nähgarn
+09.03.2017 18:06 Dori Drachenzahn Entnahme
+20 Magiesplitter
+20 Phasenkraut
+09.03.2017 17:57 Göttin Einlagerung
+765 Todesessenz +1
+09.03.2017 17:56 Göttin Entnahme
+40 Magiesplitter
+09.03.2017 17:56 Göttin Entnahme
+32 Schattenstaub
+09.03.2017 17:52 Eloysius Rotzineck Entnahme
+120 Magiesplitter
+09.03.2017 17:51 Eloysius Rotzineck Entnahme
+60 Birkenbretter
+09.03.2017 17:51 Eloysius Rotzineck Einlagerung
+1 Feuer-Runenstab (100) +1
+1 Feuer-Runenstab (100) +1
+09.03.2017 17:44 Dori Drachenzahn Einlagerung
+6 Leinen
+12 Ätherfäden
+22 Sternenstaub
+8 Magiestaub
+4 Weichpelze
+5 Hartpelz
+16 Drachenhaut
+5 Pelze
+2 Baumwolle
+6 Seide
+1 Wolle
+3 Riesenhaut
+4 Todesstaub
+09.03.2017 16:18 Ahn Wirrblick Entnahme
+1000 Kriegspfeile +1
+09.03.2017 13:34 Bomdivash Gemmenauge Einlagerung
+1 Nietenschild (88)
+09.03.2017 13:31 Bomdivash Gemmenauge Einlagerung
+4 Magiestaub
+6 Todesstaub
+4 Mondstaub
+21 Sternenstaub
+2 Wolle
+4 Baumwolle
+10 Seide
+7 Weichpelze
+7 Pelze
+12 Drachenhaut
+7 Ätherfäden
+5 Schattenstaub
+3 Riesenhaut
+2 Hartpelz
+2 Leinen
+09.03.2017 13:10 Elazia Kapp Einlagerung
+5 Leinen
+3 Weichpelze
+3 Magiestaub
+3 Wolle
+4 Pelze
+2 Baumwolle
+4 Hartpelz
+8 Seide
+2 Riesenhaut
+12 Ätherfäden
+15 Drachenhaut
+09.03.2017 11:55 Gwudnyc Einlagerung
+1 Woll-Robe (100) +1
+09.03.2017 11:11 Schahanschah Entnahme
+50 Drachenzunder
+09.03.2017 11:10 Schahanschah Einlagerung
+125 Sorandilbarren
+09.03.2017 10:37 Anharyl Lualanna Entnahme
+10 Zwirn
+09.03.2017 10:37 Anharyl Lualanna Entnahme
+50 Leinen
+09.03.2017 10:36 Anharyl Lualanna Entnahme
+30 Federn
+09.03.2017 10:36 Anharyl Lualanna Entnahme
+12 Buchenholz
+12 Birkenholz
+09.03.2017 10:35 Anharyl Lualanna Entnahme
+11 Einfacher Wollverband +1
+09.03.2017 10:34 Anharyl Lualanna Einlagerung
+4 Weichpelze
+9 Pelze
+11 Drachenhaut
+3 Leinen
+8 Seide
+7 Ätherfäden
+2 Todesstaub
+4 Schattenstaub
+8 Mondstaub
+17 Sternenstaub
+3 Baumwolle
+5 Hartpelz
+4 Riesenhaut
+3 Magiestaub
+09.03.2017 10:23 Jannib Lundalarum Entnahme
+70 Jagdbolzen +1
+09.03.2017 10:21 Jannib Lundalarum Einlagerung
+5 Pelze
+13 Drachenhaut
+6 Seide
+8 Ätherfäden
+3 Baumwolle
+15 Sternenstaub
+2 Hartpelz
+3 Wolle
+4 Weichpelze
+4 Todesstaub
+4 Mondstaub
+2 Magiestaub
+3 Schattenstaub
+09.03.2017 07:09 Gwudnyc Einlagerung
+100 Improvisierte Leinenbinde +1
+1 Woll-Robe (100) +1
+09.03.2017 00:02 Jannib Lundalarum Einlagerung
+1 Leinen
+1 Weichpelze
+3 Magiestaub
+1 Wolle
+1 Pelze
+2 Todesstaub
+1 Baumwolle
+1 Schattenstaub
+1 Seide
+1 Mondstaub
+5 Ätherfäden
+8 Sternenstaub
+09.03.2017 00:01 Anharyl Lualanna Entnahme
+40 Einfacher Wollverband +1
+09.03.2017 00:00 Anharyl Lualanna Einlagerung
+20 Improvisierte Leinenbinde +1
+08.03.2017 23:00 Gebäudeverfall Gesamt 308 Strukturpunkte
+08.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+08.03.2017 22:59 Baumeister 160 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+160 Gold entnommen
+08.03.2017 20:39 Lysendria Einlagerung
+1 Weichleder-Harnisch (100) +1
+1 Weichleder-Harnisch (100) +1
+26 Leinen
+8 Weichpelze
+5 Magiestaub
+20 Wolle
+16 Pelze
+25 Todesstaub
+3 Hartpelz
+08.03.2017 20:38 Lysendria Entnahme
+1 Feuer-Langholz (100) +1
+08.03.2017 19:04 Eloysius Rotzineck Einlagerung
+5 Magiestaub
+6 Todesstaub
+7 Schattenstaub
+19 Mondstaub
+10 Hartpelz
+5 Riesenhaut
+6 Leinen
+13 Seide
+8 Drachenhaut
+5 Sternenstaub
+6 Wolle
+10 Baumwolle
+5 Weichpelze
+5 Pelze
+3 Ätherfäden
+08.03.2017 17:11 Sheltin Entnahme
+50 Improvisierte Leinenbinde +1
+08.03.2017 16:44 Sheltin Einlagerung
+7 Schattenstaub
+17 Mondstaub
+7 Magiestaub
+5 Wolle
+8 Baumwolle
+15 Seide
+5 Riesenhaut
+5 Leinen
+5 Sternenstaub
+7 Hartpelz
+8 Drachenhaut
+6 Todesstaub
+3 Ätherfäden
+3 Weichpelze
+4 Pelze
+08.03.2017 15:34 Xiatax Einlagerung
+7 Schattenstaub
+08.03.2017 15:30 Göttin Einlagerung
+8 Leinen
+8 Weichpelze
+5 Magiestaub
+6 Wolle
+8 Pelze
+4 Todesstaub
+12 Baumwolle
+14 Hartpelz
+14 Seide
+7 Riesenhaut
+19 Mondstaub
+3 Ätherfäden
+14 Drachenhaut
+7 Sternenstaub
+08.03.2017 14:29 Gwudnyc Einlagerung
+100 Improvisierte Leinenbinde +1
+08.03.2017 14:03 Elazia Kapp Entnahme
+50 Magiesplitter
+08.03.2017 14:03 Elazia Kapp Entnahme
+80 Todesstaub
+08.03.2017 14:03 Elazia Kapp Einlagerung
+1155 Todesessenz +1
+08.03.2017 12:46 Nojheim Von Durkan Entnahme
+650 Todesessenz +1
+08.03.2017 12:43 Nojheim Von Durkan Entnahme
+28 Schattenstaub
+08.03.2017 12:42 Nojheim Von Durkan Einlagerung
+439 Todesstaub
+08.03.2017 12:42 Nojheim Von Durkan Entnahme
+428 Todesstaub
+08.03.2017 12:41 Nojheim Von Durkan Einlagerung
+6 Schattenstaub
+8 Magiestaub
+17 Mondstaub
+10 Wolle
+8 Baumwolle
+12 Seide
+7 Sternenstaub
+10 Hartpelz
+13 Riesenhaut
+7 Leinen
+8 Pelze
+9 Weichpelze
+14 Drachenhaut
+1 Schlangendolch (18)
+3 Ätherfäden
+08.03.2017 12:34 Ragbald Einlagerung
+10 Weichpelze
+15 Pelze
+23 Leinen
+20 Wolle
+7 Magiestaub
+28 Todesstaub
+1 Leder-Hose (24)
+2 Hartpelz
+2 Schattenstaub
+1 Armbrust (17)
+1 Langbogen (19)
+08.03.2017 12:01 Hardsequencer Einlagerung
+1 Mithril-Kettenhemd (2)
+26 Granit
+2 Sandstein
+08.03.2017 12:00 Julia Einlagerung
+12 Buchenholz
+30 Eschenholz
+08.03.2017 11:25 Alessia Einlagerung
+4 Buchenholz
+100 Eichenholz
+08.03.2017 11:12 Alessia Entnahme
+150 Improvisierte Leinenbinde +1
+08.03.2017 11:11 Alessia Einlagerung
+9 Weichpelze
+18 Pelze
+24 Leinen
+18 Wolle
+9 Magiestaub
+29 Todesstaub
+2 Hartpelz
+2 Schattenstaub
+08.03.2017 11:10 Jannib Lundalarum Einlagerung
+66 Bolzen +1
+08.03.2017 11:03 Anharyl Lualanna Einlagerung
+15 Weichleder
+239 Jagdpfeile +1
+08.03.2017 11:01 Schahanschah Entnahme
+1000 Schattenessenz +1
+08.03.2017 10:40 Anharyl Lualanna Entnahme
+10 Salz
+08.03.2017 10:40 Anharyl Lualanna Entnahme
+50 Weichpelze
+08.03.2017 10:38 Anharyl Lualanna Entnahme
+10 Federn
+08.03.2017 10:38 Anharyl Lualanna Entnahme
+4 Birkenholz
+08.03.2017 10:37 Anharyl Lualanna Entnahme
+20 Federn
+08.03.2017 10:37 Anharyl Lualanna Einlagerung
+4 Leinen
+2 Weichpelze
+12 Magiestaub
+8 Wolle
+9 Pelze
+15 Todesstaub
+2 Baumwolle
+2 Hartpelz
+18 Schattenstaub
+4 Seide
+4 Riesenhaut
+31 Mondstaub
+9 Ätherfäden
+16 Drachenhaut
+38 Sternenstaub
+35 Weichleder
+08.03.2017 09:07 Jannib Lundalarum Einlagerung
+149 Magiestaub
+08.03.2017 09:07 Jannib Lundalarum Einlagerung
+130 Buchenholz
+60 Federn
+08.03.2017 09:07 Jannib Lundalarum Entnahme
+100 Federn
+08.03.2017 08:46 Gwudnyc Einlagerung
+36 Wolltuch
+11 Nähgarn
+08.03.2017 08:46 Gwudnyc Entnahme
+44 Wolltuch
+08.03.2017 08:46 Gwudnyc Entnahme
+35 Nähgarn
+08.03.2017 08:45 Gwudnyc Entnahme
+10 Leinentuch
+6 Weichleder
+08.03.2017 08:44 Gwudnyc Entnahme
+65 Improvisierte Leinenbinde +1
+08.03.2017 08:43 Gwudnyc Entnahme
+1000 Todesessenz +1
+08.03.2017 08:13 Jannib Lundalarum Einlagerung
+132 Bolzen +1
+230 Todesessenz +1
+08.03.2017 08:12 Jannib Lundalarum Entnahme
+30 Jagdbolzen +1
+08.03.2017 08:12 Jannib Lundalarum Entnahme
+40 Jagdbolzen +1
+08.03.2017 08:08 Bomdivash Gemmenauge Entnahme
+50 Improvisierte Leinenbinde +1
+08.03.2017 08:07 Bomdivash Gemmenauge Einlagerung
+75 Schieferziegel
+7 Kalkstein
+08.03.2017 07:09 Julia Einlagerung ins Gildenlager von [Boten]
+1 Lapis
+08.03.2017 07:07 Julia Entnahme
+240 Einfacher Wollverband +1
+08.03.2017 06:47 Dori Drachenzahn Entnahme
+12 Nähgarn
+08.03.2017 06:46 Dori Drachenzahn Entnahme
+12 Nähgarn
+08.03.2017 06:45 Dori Drachenzahn Entnahme
+10 Wolltuch
+08.03.2017 06:45 Dori Drachenzahn Entnahme
+6 Leder
+08.03.2017 06:39 Dori Drachenzahn Einlagerung
+70 Einfacher Wollverband +1
+100 Gute Baumwollbinde +1
+1200 Schattenessenz +1
+07.03.2017 23:00 Gebäudeverfall Gesamt 272 Strukturpunkte
+07.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+07.03.2017 22:59 Baumeister 33 Strukturpunkte wiederhergestellt
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+33 Gold entnommen
+07.03.2017 20:24 Jannib Lundalarum Einlagerung
+345 Todesessenz +1
+07.03.2017 18:39 Eloysius Rotzineck Entnahme
+200 Todesstaub
+07.03.2017 18:37 Eloysius Rotzineck Einlagerung
+1 Luft-Runenstab (100) +1
+1 Feuer-Runenstab (100) +1
+1 Wasser-Runenstab (100) +1
+07.03.2017 17:18 Göttin Entnahme
+60 Todesstaub
+07.03.2017 13:17 Nojheim Von Durkan Entnahme
+600 Todesessenz +1
+07.03.2017 13:10 Elazia Kapp Einlagerung
+6 Wolle
+4 Baumwolle
+2 Seide
+11 Ätherfäden
+5 Weichpelze
+14 Drachenhaut
+3 Pelze
+5 Riesenhaut
+4 Leinen
+5 Hartpelz
+19 Magiestaub
+07.03.2017 12:49 Dori Drachenzahn Entnahme
+50 Magiesplitter
+10 Phasenkraut
+07.03.2017 12:49 Dori Drachenzahn Entnahme
+40 Schattenstaub
+07.03.2017 12:46 Dori Drachenzahn Einlagerung
+3 Leinen
+2 Weichpelze
+17 Magiestaub
+6 Wolle
+4 Pelze
+17 Todesstaub
+1 Baumwolle
+4 Hartpelz
+3 Seide
+4 Riesenhaut
+7 Ätherfäden
+14 Drachenhaut
+39 Sternenstaub
+07.03.2017 11:39 Gwudnyc Entnahme
+40 Improvisierte Leinenbinde +1
+07.03.2017 11:33 Jannib Lundalarum Entnahme
+60 Federn
+07.03.2017 11:32 Jannib Lundalarum Einlagerung ins Gildenlager von [Boten]
+1 Jaspis
+07.03.2017 11:32 Jannib Lundalarum Einlagerung
+9 Wolle
+4 Baumwolle
+5 Seide
+10 Ätherfäden
+5 Weichpelze
+12 Drachenhaut
+6 Riesenhaut
+29 Mondstaub
+3 Hartpelz
+1 Kriegsarmbrust (19)
+37 Sternenstaub
+3 Leinen
+3 Pelze
+16 Schattenstaub
+16 Todesstaub
+15 Magiestaub
+1 Wasser-Wächterstab (18)
+07.03.2017 11:09 Bomdivash Gemmenauge Einlagerung
+7 Wolle
+5 Seide
+11 Ätherfäden
+4 Weichpelze
+15 Drachenhaut
+5 Pelze
+4 Riesenhaut
+1 Baumwolle
+29 Mondstaub
+2 Leinen
+2 Hartpelz
+17 Schattenstaub
+41 Sternenstaub
+16 Todesstaub
+13 Magiestaub
+1 Rubin
+07.03.2017 11:01 Anharyl Lualanna Entnahme
+300 Einfacher Wollverband +1
+07.03.2017 07:55 Gwudnyc Einlagerung
+1 Woll-Robe (100) +1
+07.03.2017 07:54 Gwudnyc Einlagerung
+200 Improvisierte Leinenbinde +1
+07.03.2017 04:12 Lysendria Einlagerung
+8 Pelze
+9 Magiestaub
+31 Weichpelze
+1 Leinen
+1 Wolle
+4 Todesstaub
+1 Weichleder-Harnisch (100) +1
+1 Weichleder-Harnisch (100) +1
+07.03.2017 00:03 Nojheim Von Durkan Einlagerung
+4 Riesenhaut
+13 Drachenhaut
+5 Leinen
+6 Wolle
+7 Baumwolle
+11 Seide
+8 Ätherfäden
+6 Sternenstaub
+6 Hartpelz
+18 Mondstaub
+10 Magiestaub
+3 Todesstaub
+2 Weichpelze
+1 Nebeldolch (20)
+1 Kriegsarmbrust (16)
+7 Schattenstaub
+2 Pelze
+06.03.2017 23:00 Gebäudeverfall Gesamt 217 Strukturpunkte
+06.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+06.03.2017 21:13 Göttin Entnahme
+40 Magiesplitter
+06.03.2017 21:13 Göttin Entnahme
+10 Phasenkraut
+06.03.2017 21:10 Göttin Entnahme
+7 Schattenstaub
+06.03.2017 21:10 Göttin Einlagerung
+28 Todesstaub
+06.03.2017 19:58 Gwudnyc Entnahme
+1 Wasser-Runenstab (100) +1
+06.03.2017 19:57 Gwudnyc Entnahme
+540 Todesessenz +1
+06.03.2017 19:57 Gwudnyc Entnahme
+60 Todesessenz +1
+06.03.2017 18:58 Göttin Entnahme
+60 Todesstaub
+06.03.2017 18:58 Göttin Entnahme
+40 Magiesplitter
+06.03.2017 18:57 Göttin Einlagerung
+6 Leinen
+1 Weichpelze
+7 Magiestaub
+4 Wolle
+3 Pelze
+2 Todesstaub
+9 Baumwolle
+7 Hartpelz
+7 Schattenstaub
+11 Seide
+4 Riesenhaut
+15 Mondstaub
+6 Ätherfäden
+16 Drachenhaut
+8 Sternenstaub
+345 Todesessenz +1
+06.03.2017 14:36 Gwudnyc Einlagerung
+15 Leinentuch
+60 Wolltuch
+42 Nähgarn
+06.03.2017 14:35 Gwudnyc Entnahme
+60 Nähgarn
+06.03.2017 14:35 Gwudnyc Entnahme
+30 Leinentuch
+9 Weichleder
+60 Wolltuch
+06.03.2017 12:48 Dori Drachenzahn Entnahme
+19 Nähgarn
+2 Phasenkraut
+06.03.2017 12:48 Dori Drachenzahn Entnahme
+7 Baumwolltuch
+4 Hartleder
+06.03.2017 12:35 Ragbald Entnahme
+70 Federn
+06.03.2017 11:40 Julia Einlagerung
+15 Buchenholz
+5 Eichenholz
+17 Eschenholz
+06.03.2017 11:39 Hardsequencer Einlagerung
+135 Granitziegel
+06.03.2017 11:38 Elazia Kapp Entnahme
+70 Todesstaub
+29 Schattenstaub
+06.03.2017 11:37 Elazia Kapp Einlagerung
+1380 Todesessenz +1
+06.03.2017 11:09 Bomdivash Gemmenauge Einlagerung
+1 Spitzdolch (22)
+12 Kalkstein
+1 Leinen
+2 Weichpelze
+8 Magiestaub
+1 Wolle
+4 Pelze
+8 Todesstaub
+1 Hartpelz
+7 Schattenstaub
+2 Seide
+1 Riesenhaut
+13 Mondstaub
+1 Ätherfäden
+6 Drachenhaut
+23 Sternenstaub
+06.03.2017 11:06 Anharyl Lualanna Einlagerung
+1 Weichpelze
+50 Weichleder
+11 Magiestaub
+3 Pelze
+7 Todesstaub
+3 Hartpelz
+10 Schattenstaub
+2 Seide
+1 Riesenhaut
+10 Mondstaub
+1 Ätherfäden
+6 Drachenhaut
+22 Sternenstaub
+135 Pfeile +1
+289 Jagdpfeile +1
+06.03.2017 11:05 Anharyl Lualanna Entnahme
+5 Federn
+06.03.2017 11:05 Anharyl Lualanna Entnahme
+6 Buchenholz
+06.03.2017 11:04 Anharyl Lualanna Entnahme
+10 Federn
+06.03.2017 11:04 Anharyl Lualanna Entnahme
+4 Birkenholz
+06.03.2017 11:03 Anharyl Lualanna Entnahme
+20 Federn
+06.03.2017 11:03 Anharyl Lualanna Entnahme
+10 Salz
+06.03.2017 11:02 Anharyl Lualanna Entnahme
+50 Weichpelze
+06.03.2017 10:52 Alessia Einlagerung
+20 Leinen
+18 Wolle
+1 Weichleder-Beinlinge (21)
+12 Todesstaub
+2 Schattenstaub
+4 Magiestaub
+6 Weichpelze
+6 Pelze
+06.03.2017 10:32 Anharyl Lualanna Entnahme
+28 Improvisierte Leinenbinde +1
+06.03.2017 10:14 Schahanschah Entnahme
+100 Improvisierte Leinenbinde +1
+06.03.2017 10:14 Schahanschah Entnahme
+1000 Schattenessenz +1
+06.03.2017 09:41 Jannib Lundalarum Einlagerung
+805 Todesessenz +1
+06.03.2017 09:34 Sheltin Einlagerung
+7 Pelze
+5 Riesenhaut
+12 Drachenhaut
+6 Leinen
+10 Baumwolle
+11 Seide
+8 Sternenstaub
+16 Mondstaub
+3 Wolle
+8 Magiestaub
+3 Todesstaub
+7 Schattenstaub
+7 Ätherfäden
+4 Hartpelz
+2 Weichpelze
+06.03.2017 07:35 Dori Drachenzahn Einlagerung
+3 Leder
+06.03.2017 07:33 Dori Drachenzahn Entnahme
+12 Nähgarn
+5 Magiesplitter
+1 Phasenkraut
+06.03.2017 07:32 Dori Drachenzahn Entnahme
+3 Leder
+06.03.2017 07:32 Dori Drachenzahn Entnahme
+5 Wolltuch
+06.03.2017 07:31 Dori Drachenzahn Entnahme
+3 Leder
+8 Schattenstaub
+06.03.2017 07:28 Dori Drachenzahn Einlagerung
+100 Einfacher Wollverband +1
+800 Schattenessenz +1
+06.03.2017 07:05 Julia Entnahme
+1027 Schattenessenz +1
+05.03.2017 23:00 Gebäudeverfall Gesamt 191 Strukturpunkte
+05.03.2017 22:59 Baumeister 175 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+3 Schieferziegel entnommen 
+3 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+175 Gold entnommen
+05.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+05.03.2017 19:18 Jannib Lundalarum Einlagerung
+60 Jagdbolzen +1
+05.03.2017 11:34 Lysendria Entnahme
+200 Todesessenz +1
+05.03.2017 11:34 Lysendria Einlagerung
+20 Magiestaub
+26 Weichpelze
+12 Leinen
+2 Todesstaub
+05.03.2017 11:18 Göttin Entnahme
+60 Todesstaub
+05.03.2017 11:18 Göttin Entnahme
+40 Magiesplitter
+05.03.2017 11:16 Göttin Einlagerung
+2 Leinen
+4 Weichpelze
+5 Magiestaub
+3 Wolle
+4 Pelze
+7 Todesstaub
+5 Baumwolle
+4 Hartpelz
+6 Schattenstaub
+5 Seide
+9 Riesenhaut
+12 Mondstaub
+3 Ätherfäden
+3 Drachenhaut
+5 Sternenstaub
+1100 Todesessenz +1
+05.03.2017 11:06 Gwudnyc Entnahme
+50 Improvisierte Leinenbinde +1
+05.03.2017 11:02 Eloysius Rotzineck Entnahme
+200 Magiesplitter
+05.03.2017 11:02 Eloysius Rotzineck Entnahme
+120 Birkenbretter
+05.03.2017 11:01 Eloysius Rotzineck Entnahme
+1200 Todesessenz +1
+05.03.2017 10:58 Jannib Lundalarum Entnahme
+156 Hartpelz
+05.03.2017 10:57 Eloysius Rotzineck Einlagerung
+1 Wasser-Runenstab (100) +1
+1 Erde-Runenstab (100) +1
+1 Luft-Runenstab (100) +1
+05.03.2017 10:57 Jannib Lundalarum Entnahme
+164 Leinen
+149 Magiestaub
+168 Wolle
+05.03.2017 10:31 Jannib Lundalarum Einlagerung
+140 Magiestaub
+9 Improvisierte Leinenbinde +1
+05.03.2017 10:31 Jannib Lundalarum Einlagerung
+374 Todesstaub
+05.03.2017 10:31 Jannib Lundalarum Einlagerung
+140 Magiesplitter
+05.03.2017 10:30 Jannib Lundalarum Entnahme
+200 Magiesplitter
+05.03.2017 10:30 Jannib Lundalarum Entnahme
+56 Improvisierte Leinenbinde
+05.03.2017 10:28 Jannib Lundalarum Entnahme
+30 Federn
+05.03.2017 10:28 Jannib Lundalarum Entnahme
+18 Birkenholz
+05.03.2017 10:25 Jannib Lundalarum Einlagerung
+600 Magiesplitter
+200 Federn
+77 Drachenzunder
+05.03.2017 10:24 Jannib Lundalarum Einlagerung
+40 Zwirn
+40 Nähgarn
+80 Lederfett
+100 Magiesplitter
+20 Elbenhaar
+60 Wattierung
+50 Glaszwirn
+10 Drachenzunder
+40 Pfeilharz
+30 Kristallat
+05.03.2017 10:22 Jannib Lundalarum Einlagerung
+600 Federn
+90 Drachenzunder
+60 Phasenkraut
+60 Pfeilharz
+05.03.2017 10:20 Jannib Lundalarum Einlagerung
+1 Schmiedeöl
+1 Bogensalbe
+1 Zwirn
+1 Steinkohle
+1 Nähgarn
+1 Lederfett
+1 Magiesplitter
+1 Federn
+1 Salz
+1 Mörtel
+1 Schleifstein
+1 Elbenhaar
+1 Wattierung
+1 Granitharz
+1 Glaszwirn
+1 Drachenzunder
+1 Schutzpolster
+1 Ledernieten
+1 Phasenkraut
+1 Pfeilharz
+1 Kristallat
+1 Edelmörtel
+05.03.2017 10:19 Jannib Lundalarum Entnahme
+1 Adamant-Plattenhandschuhe (19)
+1 Adamant-Plattenbeinlinge (20)
+1 Mithril-Kettenbeinlinge (24)
+1 Mithril-Kettenstiefel (20)
+05.03.2017 10:18 Jannib Lundalarum Entnahme
+1 Kupfer-Plattenstiefel (4) +1
+05.03.2017 10:18 Jannib Lundalarum Entnahme
+7 Weichleder-Wappenrock (100) +1
+1 Weichleder-Helm (24)
+11 Weichleder-Harnisch (100) +1
+1 Leder-Helm (58) +1
+1 Hartleder-Helm (20)
+1 Riesenleder-Handschuhe (19)
+05.03.2017 10:18 Jannib Lundalarum Entnahme
+1 Leinen-Handschuhe (15) +1
+05.03.2017 10:17 Jannib Lundalarum Entnahme
+1 Leinen-Haube (93) +1
+05.03.2017 10:17 Jannib Lundalarum Entnahme
+1 Leinen-Schuhe (69) +1
+05.03.2017 10:17 Jannib Lundalarum Entnahme
+6 Leinen-Stulpen (100) +1
+3 Leinen-Beinlinge (100) +1
+4 Leinen-Stiefel (100) +1
+1 Woll-Haube (100) +1
+1 Baumwoll-Stulpen (2)
+1 Seiden-Haube (22)
+1 Seiden-Haube (9)
+1 Seiden-Robe (3)
+1 Seiden-Beinlinge (21)
+05.03.2017 10:17 Jannib Lundalarum Entnahme
+6 Luft-Langholz (100) +1
+1 Luft-Rute (53)
+1 Luft-Spiralstab (19) +1
+1 Luft-Spiralstab (16)
+1 Luft-Spiralstab (10)
+1 Luft-Spiralstab (8) +1
+1 Luft-Eschenstab (16)
+1 Luft-Eschenstab (5)
+1 Luft-Eschenstab (4)
+05.03.2017 10:16 Jannib Lundalarum Entnahme
+3 Erde-Langholz (100) +1
+1 Erde-Runenstab (100) +1
+1 Erde-Lichtstab (42)
+1 Erde-Rute (61)
+1 Erde-Rute (16)
+1 Erde-Rute (15)
+1 Erde-Eschenstab (14)
+05.03.2017 10:16 Jannib Lundalarum Entnahme
+1 Wasser-Krummstab (14)
+1 Wasser-Eschenstab (14)
+1 Wasser-Wächterstab (20)
+05.03.2017 10:16 Jannib Lundalarum Entnahme
+1 Feuer-Stecken (49) +1
+1 Feuer-Runenstab (100) +1
+1 Feuer-Runenstab (21)
+1 Feuer-Runenstab (20)
+1 Feuer-Runenstab (17)
+1 Feuer-Eibenlanze (14)
+05.03.2017 10:16 Jannib Lundalarum Entnahme
+1 Arbaleste (18) +1
+1 Ballista (18) +1
+2 Ballista (16)
+1 Kriegsarmbrust (20)
+1 Kriegsarmbrust (16)
+2 Kriegsarmbrust (15)
+1 Kriegsarmbrust (14)
+1 Dämonenarmbrust (16)
+05.03.2017 10:15 Jannib Lundalarum Entnahme
+1 Langbogen (18)
+1 Spinnenbogen (37)
+1 Runenbogen (19)
+05.03.2017 10:15 Jannib Lundalarum Entnahme
+1 Drescher [2H] (21)
+1 Drescher [2H] (19)
+05.03.2017 10:15 Jannib Lundalarum Entnahme
+1 Vorschlaghammer [2H] (14)
+1 Knochenbrecher [2H] (20)
+1 Knochenbrecher [2H] (16)
+1 Knochenbrecher [2H] (14)
+05.03.2017 10:15 Jannib Lundalarum Entnahme
+1 Heldenaxt [2H] (20)
+1 Sonnensichel [2H] (19)
+05.03.2017 10:15 Jannib Lundalarum Entnahme
+1 Breitaxt (19)
+1 Tomahawk (19)
+1 Tomahawk (16)
+05.03.2017 10:15 Jannib Lundalarum Entnahme
+1 Entermesser (20)
+1 Entermesser (17)
+1 Schlangendolch (21)
+1 Spitzdolch (21)
+05.03.2017 10:14 Jannib Lundalarum Entnahme
+1 Elbenbann [2H] (15)
+2 Mondklinge [2H] (19)
+05.03.2017 10:14 Jannib Lundalarum Entnahme
+1 Knüppel (70) +1
+2 Flegel (24)
+1 Flegel (20)
+1 Ogerherde (23)
+05.03.2017 10:14 Jannib Lundalarum Entnahme
+1 Schwert (23)
+1 Schwert (18)
+2 Säbel (22)
+05.03.2017 10:10 Jannib Lundalarum Einlagerung
+5 Pelze
+6 Drachenhaut
+3 Weichpelze
+1 Hartpelz
+1 Leinen
+1 Baumwolle
+1 Seide
+24 Sternenstaub
+2 Riesenhaut
+9 Todesstaub
+8 Magiestaub
+5 Schattenstaub
+13 Mondstaub
+1 Wolle
+05.03.2017 10:08 Elazia Kapp Einlagerung
+460 Schattenessenz +1
+05.03.2017 10:07 Elazia Kapp Entnahme
+70 Todesstaub
+14 Schattenstaub
+05.03.2017 10:07 Dori Drachenzahn Entnahme
+3 Leder
+05.03.2017 10:07 Dori Drachenzahn Entnahme
+5 Wolltuch
+05.03.2017 10:07 Elazia Kapp Einlagerung
+800 Todesessenz +1
+05.03.2017 10:05 Dori Drachenzahn Entnahme
+12 Nähgarn
+05.03.2017 10:02 Dori Drachenzahn Entnahme
+30 Magiesplitter
+5 Phasenkraut
+05.03.2017 10:01 Dori Drachenzahn Entnahme
+24 Schattenstaub
+05.03.2017 09:59 Dori Drachenzahn Einlagerung
+1 Weichpelze
+10 Magiestaub
+3 Pelze
+6 Todesstaub
+2 Hartpelz
+1 Seide
+3 Riesenhaut
+7 Drachenhaut
+22 Sternenstaub
+05.03.2017 09:49 Ahn Wirrblick Entnahme
+50 Improvisierte Leinenbinde +1
+05.03.2017 08:09 Sheltin Einlagerung
+675 Pfeile +1
+596 Kriegspfeile +1
+05.03.2017 08:04 Sheltin Entnahme
+46 Federn
+05.03.2017 08:04 Sheltin Entnahme
+60 Federn
+50 Pfeilharz
+05.03.2017 08:03 Sheltin Entnahme
+100 Eichenholz
+04.03.2017 23:00 Gebäudeverfall Gesamt 287 Strukturpunkte
+04.03.2017 22:59 Baumeister 96 Strukturpunkte wiederhergestellt
+2 Kalkziegel entnommen 
+2 Buchenbretter entnommen 
+1 Schieferziegel entnommen 
+1 Eichenbretter entnommen 
+1 Granitziegel entnommen 
+1 Eschenbretter entnommen 
+96 Gold entnommen
+04.03.2017 22:59 Stadtverwaltung Gildensteuer von [Blutmond]
+Gildenkasse: -500 Gold
+Stadtkasse: +500 Gold
+04.03.2017 20:03 Gwudnyc Entnahme
+40 Improvisierte Leinenbinde +1
+04.03.2017 20:02 Gwudnyc Einlagerung
+200 Magieessenz +1
+04.03.2017 19:30 Lysendria Entnahme
+1000 Todesessenz +1
+04.03.2017 19:30 Lysendria Einlagerung
+13 Weichpelze
+14 Leinen
+7 Magiestaub
+6 Wolle
+6 Pelze
+4 Todesstaub
+1 Weichleder-Harnisch (100) +1
+04.03.2017 17:56 Gwudnyc Einlagerung
+200 Improvisierte Leinenbinde +1
+100 Magieessenz +1
+04.03.2017 13:00 Nojheim Von Durkan Einlagerung ins Gildenlager von [Boten]
+1 Kristall
+1 Jade
+04.03.2017 12:59 Nojheim Von Durkan Entnahme
+1 Kristall
+1 Jade
+04.03.2017 12:59 Nojheim Von Durkan Einlagerung
+1 Seiden-Robe (3)
+04.03.2017 12:57 Nojheim Von Durkan Entnahme
+500 Todesessenz +1
+04.03.2017 12:57 Nojheim Von Durkan Einlagerung
+4 Magiestaub
+19 Mondstaub
+8 Todesstaub
+7 Sternenstaub
+4 Pelze
+11 Riesenhaut
+4 Drachenhaut
+5 Hartpelz
+3 Weichpelze
+3 Ätherfäden
+3 Schattenstaub
+4 Baumwolle
+9 Seide
+3 Wolle
+04.03.2017 12:47 Sheltin Einlagerung
+8 Magiestaub
+22 Mondstaub
+5 Schattenstaub
+4 Todesstaub
+6 Sternenstaub
+6 Pelze
+10 Riesenhaut
+3 Drachenhaut
+5 Hartpelz
+2 Weichpelze
+4 Baumwolle
+2 Ätherfäden
+2 Leinen
+7 Seide
+1 Wolle
+04.03.2017 12:40 Julia Einlagerung
+28 Eschenholz
+2 Buchenholz
+5 Birkenholz
+04.03.2017 12:39 Hardsequencer Einlagerung
+2 Granit
+5 Sandstein
+04.03.2017 11:45 Gwudnyc Entnahme
+24 Nähgarn
+04.03.2017 11:45 Gwudnyc Entnahme
+16 Wolltuch
+04.03.2017 11:44 Gwudnyc Entnahme
+30 Magiestaub
+04.03.2017 11:44 Gwudnyc Entnahme
+10 Magiesplitter
+04.03.2017 11:43 Gwudnyc Einlagerung
+10 Weichpelze
+11 Leinen
+9 Magiestaub
+8 Wolle
+6 Pelze
+1 Schwert (18)
+4 Todesstaub
+04.03.2017 11:43 Anharyl Lualanna Entnahme
+10 Salz
+04.03.2017 11:43 Anharyl Lualanna Entnahme
+50 Weichpelze
+04.03.2017 11:41 Anharyl Lualanna Entnahme
+25 Federn
+04.03.2017 11:41 Anharyl Lualanna Entnahme
+1 Buchenholz
+2 Birkenholz
+04.03.2017 11:41 Anharyl Lualanna Einlagerung
+1 Wasser-Wächterstab (20)
+1 Leinen
+5 Leinentuch
+8 Magiestaub
+1 Wolle
+10 Todesstaub
+1 Baumwolle
+45 Baumwolltuch
+14 Schattenstaub
+2 Riesenhaut
+18 Mondstaub
+2 Ätherfäden
+2 Drachenhaut
+33 Sternenstaub
+04.03.2017 11:39 Jannib Lundalarum Einlagerung
+80 Jagdbolzen +1
+1000 Magieessenz +1
+115 Todesessenz +1
+04.03.2017 10:59 Bomdivash Gemmenauge Einlagerung
+21 Sandstein
+04.03.2017 10:17 Schahanschah Einlagerung
+25 Sorandilbarren
+04.03.2017 10:15 Schahanschah Entnahme
+1000 Schattenessenz +1
+04.03.2017 09:31 Hardsequencer Entnahme
+23 Granit
+04.03.2017 09:31 Hardsequencer Entnahme
+90 Granit
+04.03.2017 09:31 Hardsequencer Entnahme
+70 Drachenzunder
+04.03.2017 07:26 Dori Drachenzahn Einlagerung
+900 Schattenessenz +1
+31.03.2017 16:36 Alessia Einzahlung
+15000 Gold
+31.03.2017 10:21 Bomdivash Gemmenauge Einzahlung
+10000 Gold
+31.03.2017 06:44 Schahanschah Einzahlung
+9000 Gold
+30.03.2017 21:18 Eloysius Rotzineck Umbuchung
+Gildenkasse: -200000 Gold
+Stadtkasse: +200000 Gold
+30.03.2017 20:53 Eloysius Rotzineck Einzahlung
+150000 Gold
+30.03.2017 13:43 Gwudnyc Einzahlung
+11500 Gold
+30.03.2017 13:41 Gwudnyc Einzahlung
+3673 Gold
+30.03.2017 13:40 Gwudnyc Einzahlung
+9000 Gold
+29.03.2017 19:31 Dori Drachenzahn Einzahlung
+12500 Gold
+29.03.2017 19:28 Elmo Einzahlung
+5590 Gold
+29.03.2017 12:43 Fin Einzahlung
+6000 Gold
+28.03.2017 08:01 Hardsequencer Entnahme
+40000 Gold
+28.03.2017 07:13 Julia Einzahlung
+5000 Gold
+27.03.2017 19:46 Gwudnyc Einzahlung
+10000 Gold
+27.03.2017 13:28 Rocketfingerz Einzahlung
+5000 Gold
+26.03.2017 21:40 Nojheim Von Durkan Einzahlung
+5000 Gold
+26.03.2017 16:21 Hardsequencer Entnahme
+54000 Gold
+26.03.2017 11:43 Schahanschah Einzahlung
+9000 Gold
+26.03.2017 11:14 Göttin Einzahlung
+5000 Gold
+26.03.2017 10:58 Dori Drachenzahn Einzahlung
+8000 Gold
+24.03.2017 15:38 Schahanschah Einzahlung
+9000 Gold
+24.03.2017 12:01 Xiatax Einzahlung
+906 Gold
+23.03.2017 10:53 Gwudnyc Einzahlung
+2000 Gold
+22.03.2017 21:07 Eloysius Rotzineck Entnahme
+150000 Gold
+21.03.2017 14:56 Alessia Einzahlung
+10000 Gold
+21.03.2017 10:34 Fin Einzahlung
+7000 Gold
+20.03.2017 22:07 Sheltin Einzahlung
+2500 Gold
+20.03.2017 15:32 Xiatax Einzahlung
+3958 Gold
+20.03.2017 13:50 Elazia Kapp Einzahlung
+5000 Gold
+20.03.2017 10:57 Nojheim Von Durkan Einzahlung
+5000 Gold
+20.03.2017 10:22 Schahanschah Einzahlung
+9000 Gold
+19.03.2017 14:35 Gwudnyc Einzahlung
+3000 Gold
+19.03.2017 13:44 Göttin Einzahlung
+5000 Gold
+19.03.2017 10:25 Bomdivash Gemmenauge Einzahlung
+10000 Gold
+18.03.2017 22:10 Eloysius Rotzineck Einzahlung
+7500 Gold
+18.03.2017 09:01 Schahanschah Einzahlung
+10600 Gold
+17.03.2017 10:54 Bomdivash Gemmenauge Einzahlung
+10000 Gold
+17.03.2017 10:10 Dori Drachenzahn Einzahlung
+10000 Gold
+17.03.2017 09:49 Dori Drachenzahn Entnahme
+20000 Gold
+17.03.2017 09:17 Schahanschah Einzahlung
+9000 Gold
+16.03.2017 21:20 Eloysius Rotzineck Umbuchung
+Gildenkasse: -200000 Gold
+Stadtkasse: +200000 Gold
+16.03.2017 16:52 Sheltin Einzahlung
+2500 Gold
+16.03.2017 13:47 Gwudnyc Einzahlung
+1000 Gold
+15.03.2017 17:01 Gwudnyc Einzahlung
+1500 Gold
+15.03.2017 12:42 Ragbald Einzahlung
+3500 Gold
+14.03.2017 16:29 Rocketfingerz Einzahlung
+5000 Gold
+14.03.2017 12:55 Schahanschah Einzahlung
+9000 Gold
+14.03.2017 11:30 Sheltin Einzahlung
+2500 Gold
+12.03.2017 23:35 Nojheim Von Durkan Einzahlung
+5000 Gold
+12.03.2017 16:07 Göttin Einzahlung
+5000 Gold
+12.03.2017 15:01 Sheltin Einzahlung
+2500 Gold
+12.03.2017 10:27 Dori Drachenzahn Einzahlung
+7000 Gold
+12.03.2017 07:40 Gwudnyc Einzahlung
+1500 Gold
+11.03.2017 23:11 Alessia Einzahlung
+10000 Gold
+11.03.2017 19:07 Anharyl Lualanna Einzahlung
+20 Gold
+11.03.2017 19:07 Anharyl Lualanna Entnahme
+2500 Gold
+10.03.2017 18:08 Fin Einzahlung
+6000 Gold
+10.03.2017 17:04 Sheltin Einzahlung
+2500 Gold
+10.03.2017 16:11 Xiatax Einzahlung
+3279 Gold
+10.03.2017 16:02 Schahanschah Einzahlung
+9000 Gold
+09.03.2017 13:34 Bomdivash Gemmenauge Einzahlung
+105000 Gold
+09.03.2017 13:09 Elazia Kapp Einzahlung
+5000 Gold
+09.03.2017 13:09 Elazia Kapp Einzahlung
+16300 Gold
+09.03.2017 07:09 Gwudnyc Einzahlung
+1000 Gold
+08.03.2017 18:24 Anharyl Lualanna Entnahme
+20600 Gold
+08.03.2017 18:22 Anharyl Lualanna Entnahme
+100000 Gold
+08.03.2017 17:08 Sheltin Einzahlung
+2500 Gold
+08.03.2017 15:35 Xiatax Einzahlung
+1455 Gold
+08.03.2017 11:01 Schahanschah Einzahlung
+9000 Gold
+07.03.2017 15:35 Xiatax Einzahlung
+4224 Gold
+07.03.2017 10:53 Anharyl Lualanna Einzahlung
+8000 Gold
+07.03.2017 07:57 Gwudnyc Einzahlung
+2000 Gold
+07.03.2017 00:04 Nojheim Von Durkan Einzahlung
+5000 Gold
+06.03.2017 12:37 Rocketfingerz Einzahlung
+5555 Gold
+06.03.2017 12:33 Ragbald Einzahlung
+3000 Gold
+06.03.2017 10:14 Schahanschah Einzahlung
+9000 Gold
+06.03.2017 09:34 Sheltin Einzahlung
+2500 Gold
+06.03.2017 08:57 Bomdivash Gemmenauge Einzahlung
+6000 Gold
+06.03.2017 07:03 Julia Einzahlung
+5000 Gold
+05.03.2017 11:16 Göttin Einzahlung
+5000 Gold
+05.03.2017 10:59 Jannib Lundalarum Einzahlung
+9680 Gold
+04.03.2017 12:47 Sheltin Einzahlung
+2500 Gold
+04.03.2017 10:15 Schahanschah Einzahlung
+9000 Gold
